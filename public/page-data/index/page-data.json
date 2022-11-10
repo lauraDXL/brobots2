@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"pageContext":{"language":"ro","intl":{"language":"ro","languages":["en","ro"],"messages":{"home":"Acasă","team":"Echipă","alumni":"Alumni","events":"Evenimente","demos":"Demo-uri","media":"Apariții media","others":"Altele","other_events":"Alte evenimente","results":"Rezultate","contact":"Contact"},"routed":false,"originalPath":"/","redirect":false,"defaultLanguage":"ro"}}},
+    "staticQueryHashes": ["3567824559"]}

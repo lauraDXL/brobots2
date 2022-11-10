@@ -1,0 +1,4 @@
+[build.environment]
+	NPM_FLAGS = "--force"
+	NODE_VERSION = "v19.0.0"
+	PYTHON_VERSION = "3.8"

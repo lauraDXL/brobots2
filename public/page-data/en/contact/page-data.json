@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-contact-js",
+    "path": "/en/contact/",
+    "result": {"pageContext":{"language":"en","intl":{"language":"en","languages":["en","ro"],"messages":{"home":"Home","team":"Team","alumni":"Alumni","events":"Events","demos":"Demo","media":"Media","others":"Others","other_events":"Other events","results":"Results","contact":"Contact"},"routed":true,"originalPath":"/contact/","redirect":false,"defaultLanguage":"ro"}}},
+    "staticQueryHashes": ["3567824559"]}
