@@ -30,8 +30,6 @@ export const team = [
       'Sunt o fire veselă și îmi place să cunosc cât mai mulți oameni. Sunt pasionat de informatică, desenat, filosofie și jocuri pe calculator dar din când în când îmi place să exersez cântatul la chitară. De asemenea, îmi place să țin discursuri și prezentări',
       
   },
- 
- 
   {
     name: 'Ariciu Călin',
     instagram: "https://instagram.com/ariciucalin?utm_medium=copy_link",
@@ -61,7 +59,6 @@ export const team = [
       'Sunt o fire foarte ambițioasă si perfecționistă, câteodată chiar încăpățânată. Melodia mea preferată este "Aristocats". În timpul liber ador să dansez și să cânt la pian.',
     
   },
-  
   {
     name:'Dumitrescu Antonio',
     description_en:
