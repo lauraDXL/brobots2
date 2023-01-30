@@ -1,4 +1,4 @@
-import alexia from '../assets/team/Alexia.png'; 
+import alexia from '../assets/team/Alexia.jpeg';
 import calin from '../assets/team/Calin.png';
 import luca from '../assets/team/Luca.png';
 import lara from '../assets/team/Lara.png';
@@ -39,10 +39,10 @@ export const team = [
     name:'Sminticiuc Alexia',
     img: alexia,
     description_en:
-      "I am passionate about crypto, IT and reading.  I am defined by my ambition and perseverance. I like programming and design.",
+      "I am passionate about it and investment, artificial intelligence and reading. I also love to travel, I like to discover new people, places and cultures. I am an ambitious, perfectionist and friendly person. I am a balanced, determined and tenacious nature. I work well with any type of people and I adapt to the team work. I am a person assumed, so I take risks. In the future I plan to have a career in cyber security.",
     description:
-      'Sunt pasionată de crypto, domeniul IT și cititul. Mă definesc ambiția si perseverența.  Îmi plac programarea și proiectarea.',
-    
+      'Ma pasioneaza domeniul IT si al investitiilor , inteligenta artificiala si lectura. De asemenea , iubesc sa calatoresc ,imi place sa descopar oameni , locuri si culturi noi.Sunt o persoana ambitioasa , perfectionista si prietenoasa.Sunt o fire echilibrata , determinata si tenace. Colaborez bine cu orice tipologie de oameni si ma adaptez lucrului in echipa.Sunt o persoana asumata , de aceea imi si  asum  riscuri . In viitor intentionez sa am o cariera in cyber security.',
+
   },
   
   {
