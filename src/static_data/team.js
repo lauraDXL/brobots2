@@ -4,11 +4,6 @@ import luca from '../assets/team/Luca.png';
 import lara from '../assets/team/Lara.png';
 import razvan from '../assets/team/Razvan.png';
 export const team = [
-
-  
-
-  
-
   {
     name: 'Răzvan Mutuleasa',
     img: razvan,
@@ -20,13 +15,10 @@ export const team = [
       'Sunt o fire veselă și îmi place să cunosc cât mai mulți oameni. Sunt pasionat de informatică, desenat, filosofie și jocuri pe calculator dar din când în când îmi place să exersez cântatul la chitară. De asemenea, îmi place să țin discursuri și prezentări',
       
   },
-  
- 
- 
   {
     name: 'Ariciu Călin',
     instagram: "https://instagram.com/ariciucalin?utm_medium=copy_link",
-    img: calin ,
+    img: calin,
     description_en:
       "My passions are cars, music, gaming and everything related to technology. I am interested in robotics because I consider it a field of the future, which is constantly evolving.",
     description:
@@ -35,7 +27,7 @@ export const team = [
   },
   {
     name: 'Mihăilescu Lara',
-    img: lara ,
+    img: lara,
     instagram: "https://www.instagram.com/steff_tifi/",
     description_en:
       'I am very ambitious and perfectionist, sometimes even stubborn. My favorite song is "Aristocats". In my free time I love to dance and play the piano.',
@@ -45,8 +37,7 @@ export const team = [
   },
   {
     name:'Sminticiuc Alexia',
-    img: alexia ,
-
+    img: alexia,
     description_en:
       "I am passionate about crypto, IT and reading.  I am defined by my ambition and perseverance. I like programming and design.",
     description:
@@ -79,9 +70,11 @@ export const team = [
     "Salut, mă numesc Sebi! Sunt un cetățean American care locuiește și studiază în România. Sunt extrovertit și foarte pasionat de gătit, bodybuilding, fotografie și știință, în special fizică. Visul meu este să devin cercetător în fizica cuantică și să completez Teoria Corzilor.",
 
   },
-
-  
-
- 
-
+  {
+      name:'Vladutu Luca',
+      description_en:
+      "I love learning new things. That's why I'm passionate about IT, assembly, video games and Egyptian mythology. I consider myself a bold, friendly and calm person. Programming has helped me a lot to develop my logic and thinking and made me realize that any problem has a solution.",
+      description:
+      "Iubesc sa invat lucruri noi.De aceea sunt pasionat de IT , asamblare , jocuri video si de mitologia Egipteană .Ma consider o persoana îndrăzneață,prietenoasa si calma.Programarea m-a ajutat foarte mult sa-mi dezvolt logica si gandirea si m-a facut sa realizez ca orice problema are o solutie .",
+    },
 ];
