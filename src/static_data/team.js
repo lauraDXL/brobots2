@@ -54,7 +54,7 @@ export const team = [
   },
   {
     name:'Tomulescu Eduard',
-    instagram: "https://www.instagram.com/edw_ard_/",
+    instagram: "https://www.instagram.com/edw_ard__/",
     description_en:
     "I love learning new things. That's why I'm passionate about IT, assembly, video games and Egyptian mythology. I consider myself a bold, friendly and calm person. Programming has helped me a lot to develop my logic and thinking and made me realize that any problem has a solution.",
     description:
