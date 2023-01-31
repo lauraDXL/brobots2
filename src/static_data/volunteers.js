@@ -11,7 +11,7 @@ export const volunteers = [
       description_en:
       "I am an ambitious and sociable person. I love video games, cars and teamwork.",
       description:
-      "Sunt o persoana ambitioasa si sociabila. Sunt pasionat de jocurile video , masinile si munca in echipa.",
+      "Sunt o persoană ambițioasă și sociabilă. Sunt pasionat de jocurile video, mașinile și munca în echipă.",
     },
     {
       name:'David Tenea',
@@ -20,7 +20,7 @@ export const volunteers = [
       description_en:
       "Hello! My name is David and I am a curious and joking person. I am passionate about computers and cars, and in my spare time I like to play the guitar and spend time in nature.",
       description:
-      "Salut! Ma numesc David si sunt o fire curioasa si glumeata. Sunt pasionat de calculatore si masini, iar in timpul liber imi place sa cant la chitara, si sa imi petrec timpul in natura.",
+      "Salut! Mă numesc David și sunt o fire curioasă și glumeață. Sunt pasionat de calculatore și mașini, iar in timpul liber îmi place să cânt la chitară, și să îmi petrec timpul în natură.",
     },
     
     {
@@ -30,7 +30,7 @@ export const volunteers = [
       description_en:
       "I am sociable and curious. In my spare time I like to do sports, go out with friends and spend time on the computer. I want to travel and participate in interesting projects.",
       description:
-      "Sunt o fire sociabilă si curioasă. În timpul liber îmi place sa fac sport,sa ies cu prietenii pe afară si să imi petrec timpul pe calculator. Îmi doresc să călătoresc și să particip la proiecte interesante.",
+      "Sunt o fire sociabilă și curioasă. În timpul liber îmi place să fac sport, să ies cu prietenii pe afară și să imi petrec timpul pe calculator. Îmi doresc să călătoresc și să particip la proiecte interesante.",
     },
     
     {
