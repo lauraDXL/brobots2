@@ -5,6 +5,7 @@ import lara from '../assets/team/Lara.png';
 import razvan from '../assets/team/Razvan.png';
 import sebi from '../assets/team/IMG-20230131-WA0009.jpg';
 import edi from '../assets/team/edi site.jpeg';
+import anto from '../assets/team/antonio.jpeg';
 export const team = [
   {
     name: 'Răzvan Mutuleasa',
@@ -49,6 +50,7 @@ export const team = [
   
   {
     name:'Dumitrescu Antonio',
+    img: anto,
     description_en:
     "i like programming, i don't like sports, i like reading english literature",
     description:
