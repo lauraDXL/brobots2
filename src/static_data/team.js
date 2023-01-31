@@ -4,6 +4,8 @@ import luca from '../assets/team/Luca.png';
 import lara from '../assets/team/Lara.png';
 import razvan from '../assets/team/Razvan.png';
 import sebi from '../assets/team/IMG-20230131-WA0009.jpg';
+import edi from '../assets/team/edi site.jpeg';
+import luca from '../assets/team/luca site.jpeg';
 export const team = [
   {
     name: 'Răzvan Mutuleasa',
@@ -55,6 +57,7 @@ export const team = [
   },
   {
     name:'Tomulescu Eduard',
+    img: edi,
     phone: '0766187132',
     instagram: "https://www.instagram.com/edw_ard__/",
     facebook: "https://www.facebook.com/edi.tomulescu.7",
@@ -76,6 +79,7 @@ export const team = [
   },
   {
       name:'Vladutu Luca',
+      img: luca,
       instagram: "https://www.instagram.com/luca_vladutu/",
       description_en:
       "I love learning new things. That's why I'm passionate about IT, assembly, video games and Egyptian mythology. I consider myself a bold, friendly and calm person. Programming has helped me a lot to develop my logic and thinking and made me realize that any problem has a solution.",
