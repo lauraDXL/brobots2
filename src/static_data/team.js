@@ -1,5 +1,5 @@
 import alexia from '../assets/team/Alexia.jpeg';
-import calin from '../assets/team/Calin.png';
+import calin from '../assets/events/WhatsApp Image 2023-01-31 at 12.57.52.jpeg';
 import luca from '../assets/team/Luca.png';
 import lara from '../assets/team/Lara.png';
 import razvan from '../assets/team/Razvan.png';
