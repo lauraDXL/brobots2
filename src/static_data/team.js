@@ -3,6 +3,7 @@ import calin from '../assets/team/Calin.png';
 import luca from '../assets/team/Luca.png';
 import lara from '../assets/team/Lara.png';
 import razvan from '../assets/team/Razvan.png';
+import sebi from 'src/assets/team/IMG-20230131-WA0009.jpg';
 export const team = [
   {
     name: 'Răzvan Mutuleasa',
@@ -62,6 +63,7 @@ export const team = [
   {
     name:'Galbenus Sebastian',
     instagram: "https://www.instagram.com/sebi.brian/",
+    img : sebi,
     phone: '0743917533',
     description_en:
     "Hello, my name is Sebi! I am an American citizen who lives and studies in Romania. I am extroverted and very passionate about cooking, bodybuilding, photography and science, especially physics. My dream is to become a researcher in quantum physics and complete string theory.",
