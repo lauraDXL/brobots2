@@ -3,7 +3,7 @@ import calin from '../assets/team/Calin.png';
 import luca from '../assets/team/Luca.png';
 import lara from '../assets/team/Lara.png';
 import razvan from '../assets/team/Razvan.png';
-import sebi from 'src/assets/team/IMG-20230131-WA0009.jpg';
+import sebi from '../assets/team/IMG-20230131-WA0009.jpg';
 export const team = [
   {
     name: 'Răzvan Mutuleasa',
@@ -55,6 +55,7 @@ export const team = [
   },
   {
     name:'Tomulescu Eduard',
+    phone: '0766187132',
     description_en:
     "I love learning new things. That's why I'm passionate about IT, assembly, video games and Egyptian mythology. I consider myself a bold, friendly and calm person. Programming has helped me a lot to develop my logic and thinking and made me realize that any problem has a solution.",
     description:
