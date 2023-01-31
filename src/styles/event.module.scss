@@ -53,7 +53,7 @@
 
     p {
       text-align: left;
-      font-size: 0.6em;
+      font-size: 0.8em;
       overflow: hidden;
       text-overflow: ellipsis;
       padding: 5px 0;
@@ -148,7 +148,7 @@
     text-align: left;
     width: 100%;
     margin: 1% 0 0.5% 0.5%;
-    font-size: 3em;
+    font-size: 2em;
     font-family: $secondary_font;
 
     @media (max-width: $tablet) {
