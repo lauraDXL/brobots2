@@ -5,7 +5,6 @@ import lara from '../assets/team/Lara.png';
 import razvan from '../assets/team/Razvan.png';
 import sebi from '../assets/team/IMG-20230131-WA0009.jpg';
 import edi from '../assets/team/edi site.jpeg';
-import luca from '../assets/team/luca site.jpeg';
 export const team = [
   {
     name: 'Răzvan Mutuleasa',
