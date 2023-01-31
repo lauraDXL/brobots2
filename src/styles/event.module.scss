@@ -75,7 +75,7 @@
         font-size: 0.8em;
       }
     }
-      @media only screen and (min-zoom: 1.5) {
+      @media screen and (min-resolution: 150dpi) {
         h5{font-size: 0.6em;}
 }
     .location {
