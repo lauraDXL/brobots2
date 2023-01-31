@@ -21,10 +21,10 @@ const Demos = props => {
             </div>
             <div className={styles.info}>
               <Link to={`/${language}/event`} state={{ id, type: 'demo' }}>
-                <h4>
+                <h5>
 					{language === 'en' && event.title_en
                     ? event.title_en
-                    : event.title}</h4>
+                    : event.title}</h5>
               </Link>
 
               <p className={styles.location}>
