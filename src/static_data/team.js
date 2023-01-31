@@ -44,7 +44,7 @@ export const team = [
     description_en:
       "I am passionate about it and investment, artificial intelligence and reading. I also love to travel, I like to discover new people, places and cultures. I am an ambitious, perfectionist and friendly person. I am a balanced, determined and tenacious nature. I work well with any type of people and I adapt to the team work. I am a person assumed, so I take risks. In the future I plan to have a career in cyber security.",
     description:
-      'Ma pasioneaza domeniul IT si al investitiilor , inteligenta artificiala si lectura. De asemenea , iubesc sa calatoresc ,imi place sa descopar oameni , locuri si culturi noi.Sunt o persoana ambitioasa , perfectionista si prietenoasa.Sunt o fire echilibrata , determinata si tenace. Colaborez bine cu orice tipologie de oameni si ma adaptez lucrului in echipa.Sunt o persoana asumata , de aceea imi si  asum  riscuri . In viitor intentionez sa am o cariera in cyber security.',
+      'Mă pasionează domeniul IT și al investițiilor, inteligența artificială și lectura. De asemenea, iubesc să călatoresc, îmi place să descopăr oameni, locuri și culturi noi. Sunt o persoana ambițioasă, perfecționistă și prietenoasă. Sunt o fire echilibrată, determinată și tenace. Colaborez bine cu orice tipologie de oameni și mă adaptez lucrului în echipă. Sunt o persoana asumată, de aceea îmi și  asum  riscuri. În viitor intenționez să am o carieră în cyber security.',
 
   },
   
@@ -54,7 +54,7 @@ export const team = [
     description_en:
     "i like programming, i don't like sports, i like reading english literature",
     description:
-    "imi place programarea, nu imi plac sporturile, imi place sa citesc literatura in engleza",
+    "Îmi place programarea, nu îmi plac sporturile, îmi place să citesc literatura în engleză.",
   },
   {
     name:'Tomulescu Eduard',
@@ -65,7 +65,7 @@ export const team = [
     description_en:
     "I love learning new things. That's why I'm passionate about IT, assembly, video games and Egyptian mythology. I consider myself a bold, friendly and calm person. Programming has helped me a lot to develop my logic and thinking and made me realize that any problem has a solution.",
     description:
-    "Iubesc sa invat lucruri noi.De aceea sunt pasionat de IT , asamblare , jocuri video si de mitologia Egipteană .Ma consider o persoana îndrăzneață,prietenoasa si calma.Programarea m-a ajutat foarte mult sa-mi dezvolt logica si gandirea si m-a facut sa realizez ca orice problema are o solutie .",
+    "Iubesc să învăț lucruri noi. De aceea sunt pasionat de IT, asamblare, jocuri video și de mitologia Egipteană. Mă consider o persoană îndrăzneață, prietenoasă și calma. Programarea m-a ajutat foarte mult să-mi dezvolt logica și gândirea și m-a facut să realizez că orice problemă are o soluție.",
   },
   {
     name:'Galbenus Sebastian',
