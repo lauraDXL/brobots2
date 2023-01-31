@@ -24,11 +24,11 @@ import demo5_1 from '../assets/events/demo5_1.png';
 import demo5_2 from '../assets/events/demo5_2.png';
 import demo5_3 from '../assets/events/demo5_3.png';
 import b from '../assets/events/quantum.jpg';
-import b_1 from '../assets/events/b1.jpeg';
+import b_1 from '../assets/events/b1rem.jpeg';
 import b_2 from '../assets/events/b2.jpg';
-import b_3 from '../assets/events/b3.jpg';
+import b_3 from '../assets/events/b3rem.jpg';
 import b_4 from '../assets/events/b4 remodelat.jpeg';
-import b_5 from  '../assets/events/b5.jpeg';
+import b_5 from  '../assets/events/b5rem.jpeg';
 import b_6 from '../assets/events/b6.jpeg';
 import b_7 from '../assets/events/b7.jpg';
 
@@ -40,8 +40,8 @@ export const events = [
     description_en:
     "..",
     description:
-    'Duminică, 8 ianuarie 2023, am participat la al doilea demonstrativ din acest sezon. Mulțumim echipei Quantum Robotics #14270 pentru invitație! Ne-am simțit foarte bine alături de celelalte echipe participante. A fost o experiență interesantă, am testat robotul în condiții de concurs, am testat diverse strategii de joc, am realizat ce putem îmbunătăți. Îi felicităm pe câștigători (@4drobtics_team, Team RO017 Titans, @cyliispepp) și pe toți ceilalți participanți pentru rezultatele obținute! Abia așteptăm să ne revedem la alte demonstrative și la competiția regională.',
-    images: [b,b_1,b_2,b_3,b_4,b_5,b_6,b_7],
+    'Duminică, 8 ianuarie 2023, am participat la al doilea demonstrativ din acest sezon. Mulțumim echipei Quantum Robotics #14270 pentru invitație! Ne-am simțit foarte bine alături de celelalte echipe participante. A fost o experiență interesantă, am testat robotul în condiții de concurs, am testat diverse strategii de joc, am realizat ce putem îmbunătăți. Îi felicităm pe câștigători 4drobtics_team, Team RO017 Titans, cyliispepp și pe toți ceilalți participanți pentru rezultatele obținute! Abia așteptăm să ne revedem la alte demonstrative și la competiția regională.',
+    images: [b,b_2,b_3,b_4,b_5,b_6,b_7],
     cover: b_4,
     location: 'International School of Bucharest',
     date: '8 Ian 2023',
