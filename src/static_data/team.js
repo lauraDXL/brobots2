@@ -68,7 +68,7 @@ export const team = [
     "Iubesc să învăț lucruri noi. De aceea sunt pasionat de IT, asamblare, jocuri video și de mitologia Egipteană. Mă consider o persoană îndrăzneață, prietenoasă și calma. Programarea m-a ajutat foarte mult să-mi dezvolt logica și gândirea și m-a facut să realizez că orice problemă are o soluție.",
   },
   {
-    name:'Gălbenuș Sebastian Brian',
+    name:'Sebastian Brian Gălbenuș',
     instagram: "https://www.instagram.com/sebi.brian/",
     img : sebi,
     phone: '0743917533',
