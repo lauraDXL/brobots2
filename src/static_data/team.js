@@ -19,7 +19,7 @@ export const team = [
       
   },
   {
-    name: 'Ariciu Călin',
+    name: 'Călin Ariciu',
     instagram: "https://instagram.com/ariciucalin?utm_medium=copy_link",
     img: calin,
     description_en:
@@ -29,7 +29,7 @@ export const team = [
     
   },
   {
-    name: 'Mihăilescu Lara',
+    name: 'Lara Mihăilescu',
     img: lara,
     instagram: "https://www.instagram.com/steff_tifi/",
     description_en:
@@ -39,7 +39,7 @@ export const team = [
     
   },
   {
-    name:'Sminticiuc Alexia',
+    name:'Alexia Sminticiuc',
     img: alexia,
     description_en:
       "I am passionate about it and investment, artificial intelligence and reading. I also love to travel, I like to discover new people, places and cultures. I am an ambitious, perfectionist and friendly person. I am a balanced, determined and tenacious nature. I work well with any type of people and I adapt to the team work. I am a person assumed, so I take risks. In the future I plan to have a career in cyber security.",
@@ -49,7 +49,7 @@ export const team = [
   },
   
   {
-    name:'Dumitrescu Antonio',
+    name:'Antonio Dumitrescu',
     img: anto,
     description_en:
     "i like programming, i don't like sports, i like reading english literature",
@@ -57,7 +57,7 @@ export const team = [
     "Îmi place programarea, nu îmi plac sporturile, îmi place să citesc literatura în engleză.",
   },
   {
-    name:'Tomulescu Eduard',
+    name:'Eduard Gabriel Tomulescu',
     img: edi,
     phone: '0766187132',
     instagram: "https://www.instagram.com/edw_ard__/",
@@ -68,7 +68,7 @@ export const team = [
     "Iubesc să învăț lucruri noi. De aceea sunt pasionat de IT, asamblare, jocuri video și de mitologia Egipteană. Mă consider o persoană îndrăzneață, prietenoasă și calma. Programarea m-a ajutat foarte mult să-mi dezvolt logica și gândirea și m-a facut să realizez că orice problemă are o soluție.",
   },
   {
-    name:'Galbenus Sebastian',
+    name:'Gălbenuș Sebastian Brian',
     instagram: "https://www.instagram.com/sebi.brian/",
     img : sebi,
     phone: '0743917533',
@@ -79,7 +79,7 @@ export const team = [
 
   },
   {
-      name:'Vladutu Luca',
+      name:'Luca Vlăduțu',
       img: luca,
       instagram: "https://www.instagram.com/luca_vladutu/",
       description_en:
