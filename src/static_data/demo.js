@@ -47,9 +47,27 @@ import bi_5 from '../assets/events/bi_7.jpg';
 import bi_6 from '../assets/events/bi_8.jpg';
 import bi_7 from '../assets/events/bi_8.jpg';
 import bi_8 from '../assets/events/bi_9.jpg';
+import brcov from '../assets/events/cover.jpg';
+
 
 
 export const events = [
+  
+  {
+    title:'Demo Brobots Arena',
+    description_en:
+    '...',
+    description:
+    'Finalul de vacanță a adus primul demo FIRST Tech Challenge Romania organizat de noi - BroBots Arena. Sâmbătă, 7 ianuarie 2023, Colegiul Național "Alexandru Lahovari" a fost gazda a peste 100 de tineri pasionați de știință și tehnologie. 11 echipe înscrise în competiția FIRST Tech Challenge Romania au trăit bucuria reîntâlnirii în format fizic. Ne-am bucurat împreună  de o competiție onestă  care a adunat emoții și energii pozitive într-o atmosferă caldă, de prietenie. Feedback-ul pozitiv primit din partea participanților ne face să ne dorim să facem din acest început o tradiție. Și dacă am reușit să organizăm acest demo înseamnă că putem reuși orice. Putem pentru că alături de noi au fost nu doar mentorii noștri (prof. Simona Ianc (BroBots Mentor), prof. Issabella Ştefania Cataragă, stud. Andrei-Cosmin Toma) dar și părinți (Galbenus Robert), alumni BroBots și alumni Lahovari. Mulțumim mult prietenilor noștri care au răspuns pozitiv invitației de a participa la BroBots Arena (TehnoZ Junior, TehnoZ, KronBOT, RO 063  Wafy, MasterBots, RO042 Bionic Royals, Titu ROBO, Robo Smart, BROboti, Brute Force Robotics)! Mulțumiri speciale se îndreaptă către echipa MasterBots care ne-a împrumutat terenul de antrenament și elementele de joc și către echipa BROboti care ne-a împrumutat conurile albastre! Felicităm toate echipele participante pentru rezultatele obținute și în mod special echipele care au făcut parte din alianța finalistă (KronBOT și Titu ROBO) și alianța câștigătoare (TehnoZ și TehnoZ Junior)!',
+    images: [],
+    cover: brcov,
+    date: '7 Ian 2023',
+    location: 'Colegiul Național "Alexandru Lahovari",
+    key: 'demo_brobots',
+    
+  },
+  
+  
   
   {
     title: 'Demo Bionic Royals',
@@ -57,7 +75,7 @@ export const events = [
     '...',
     description:
     'În weekend am participat la demonstrativul organizat de RO042 Bionic Royals. A fost un nou prilej de a ne întâlni cu alte echhipe înscrise în programul FIRST Tech Challenge Romania. Deși am avut probleme tehnice (neputând finaliza varianta de robot la care am lucrat pentru acest demo) am reușit să ocupăm locul 3 după calificări și să jucăm finala în alianță cu echipa Dragonfly. Felicităm toate echipele care au participat la competiția demonstrativă și în mod special alianța câștigătoare formată din echipele The Emperor FTC  și Code Warriors! Mulțumim RO042 Bionic Royals pentru invitație! Ne revedem la competiția regională!',
-    images:[bi_2,bi_6,bi_7,bi_8,bi_3,bi,bi_4],
+    images:[bi_2,bi,bi2,bi_8,bi_3,bi,bi_4],
     cover: bi_6,
     date: '28 Ian 2023',
     location: 'Colegiul Naţional "Mircea cel Bătrân',
