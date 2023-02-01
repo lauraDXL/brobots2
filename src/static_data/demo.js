@@ -47,7 +47,6 @@ import bi_5 from '../assets/events/bi_7.jpg';
 import bi_6 from '../assets/events/bi_8.jpg';
 import bi_7 from '../assets/events/bi_8.jpg';
 import bi_8 from '../assets/events/bi_9.jpg';
-import brcov from '../assets/events/cover.jpg';
 import br from '../assets/events/br.jpg';
 import br1 from '../assets/events/br1.jpg';
 import br2 from '../assets/events/br2.jpg';
