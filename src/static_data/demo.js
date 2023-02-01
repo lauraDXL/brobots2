@@ -48,7 +48,7 @@ export const events = [
     '..',
     description:
     'Sâmbătă, 14 ianuarie 2023, am trăit experiența celui de-al treilea demonstrativ din acest sezpn FIRST Tech Challenge Romania. La invitația echipelor TehnoZ, TehnoZ Junior, FTC WATT s UP, HighFive Robotics am participat la How To Win Demo. Am trăit din nou emoția așteptării rezultatelor finale ale meciurilor, bucuria victoriilor. Ne-am făcut noi prieteni, ne-am reîntâlnit cu participanți de la BroBots Arena. Ne bucurăm că rezultatele noastre au fost din ce în ce mai bune de la un demonstrativ la altul.Le mulțumim organizatorilor pentru oportunitatea oferită! Mulțumim echipelor cu care am format alianțe! Felicităm toate echipele participante pentru rezultatele obținute și în special pe cele care au format alianța câștigătoare (RaSky Robotics și Eastern Foxes)!',
-    images: [p_1,p_2,p_3,p_4,p_5,p_6],
+    images: [p_1,p_2,p_3,p_4,p_5,p_6,p],
     cover: p,
     location:'Sala de sport a Universității din Pitești',
     date:'14 Ian 2023',
