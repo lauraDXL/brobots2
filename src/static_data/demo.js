@@ -39,9 +39,12 @@ import p_4 from '../assets/events/pi5.jpg';
 import p_5 from '../assets/events/pi6.jpg';
 import p_6 from '../assets/events/pi7.jpg';
 import bi from '../assets/events/bi.jpg';
+import bi2 from '../assets/events/bi_6.jpg';
 import bi_2 from '../assets/events/bi_2.jpg';
 import bi_3 from '../assets/events/bi_3.jpg';
 import bi_4 from '../assets/events/bi_4.jpg';
+import bi_5 from '../assets/events/bi_7.jpg';
+import bi_6 from '../assets/events/bi_8.jpg';
 
 export const events = [
   
@@ -51,8 +54,8 @@ export const events = [
     '...',
     description:
     'În weekend am participat la demonstrativul organizat de RO042 Bionic Royals. A fost un nou prilej de a ne întâlni cu alte echhipe înscrise în programul FIRST Tech Challenge Romania. Deși am avut probleme tehnice (neputând finaliza varianta de robot la care am lucrat pentru acest demo) am reușit să ocupăm locul 3 după calificări și să jucăm finala în alianță cu echipa Dragonfly. Felicităm toate echipele care au participat la competiția demonstrativă și în mod special alianța câștigătoare formată din echipele The Emperor FTC  și Code Warriors! Mulțumim RO042 Bionic Royals pentru invitație! Ne revedem la competiția regională!',
-    images:[bi_2,bi_3,bi,bi_4],
-    cover: bi,
+    images:[bi_2,bi_6,bi_3,bi_5,bi,bi_4],
+    cover: bi2,
     date: '28 Ian 2023',
     location: 'Colegiul Naţional "Mircea cel Bătrân',
     key: 'demo_bionic',
@@ -131,6 +134,21 @@ export const events = [
     key: 'demo_bionic_royals_2019'
   },
 
+
+  {
+    title: 'Demo oficial București Şcoala Americană  ',
+    description_en:
+      'On February 3, 2019, I participated in the first official DEMO within the FIRST Tech Challenge competition, organized at the American School in Bucharest. Mr. Ionuţ Florea from CertSign - our main sponsor - was also with us. Our participation in the matches represents the best feedback in order to prepare for the regional stage in Timisoara at the end of the month. The result motivates us to work even harder for what follows.',
+    description:
+      'În data de 3 februarie 2019 am participat la primul DEMO oficial din cadrul competiției FIRST Tech Challenge, organizat la Școala Americană din București. Alături de noi s-a aflat şi domnul Ionuţ Florea de la CertSign – sponsorul nostru principal. Participarea noastră la meciuri reprezintă cel mai bun feedback în vederea pregătirii pentru etapa regională din Timișoara de la finalul lunii. Rezultatul obţinut ne motivează să lucrăm și mai mult pentru ceea ce urmează.',
+    images: [demo5, demo5_1, demo5cover, demo5_3, demo5_2],
+    //image to show in events page
+    cover: demo5cover,
+    location: 'Școala Americană, București',
+    date: '3 Feb 2019 ',
+    key: 'demo_oficial_2019'
+  },
+  
   {
     title: 'Demo Colegiul Naţional “Mircea cel Bătrân” ',
     description_en:
@@ -146,18 +164,7 @@ export const events = [
     date_en: '24-25 Nov 2018',
     key: 'demo_bionic_royals_2018'
   },
-
-  {
-    title: 'Demo oficial București Şcoala Americană  ',
-    description_en:
-      'On February 3, 2019, I participated in the first official DEMO within the FIRST Tech Challenge competition, organized at the American School in Bucharest. Mr. Ionuţ Florea from CertSign - our main sponsor - was also with us. Our participation in the matches represents the best feedback in order to prepare for the regional stage in Timisoara at the end of the month. The result motivates us to work even harder for what follows.',
-    description:
-      'În data de 3 februarie 2019 am participat la primul DEMO oficial din cadrul competiției FIRST Tech Challenge, organizat la Școala Americană din București. Alături de noi s-a aflat şi domnul Ionuţ Florea de la CertSign – sponsorul nostru principal. Participarea noastră la meciuri reprezintă cel mai bun feedback în vederea pregătirii pentru etapa regională din Timișoara de la finalul lunii. Rezultatul obţinut ne motivează să lucrăm și mai mult pentru ceea ce urmează.',
-    images: [demo5, demo5_1, demo5cover, demo5_3, demo5_2],
-    //image to show in events page
-    cover: demo5cover,
-    location: 'Școala Americană, București',
-    date: '3 Feb 2019 ',
-    key: 'demo_oficial_2019'
-  }
+  
+  
+  
 ];
