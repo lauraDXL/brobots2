@@ -38,9 +38,25 @@ import p_3 from '../assets/events/pi4.jpg';
 import p_4 from '../assets/events/pi5.jpg';
 import p_5 from '../assets/events/pi6.jpg';
 import p_6 from '../assets/events/pi7.jpg';
+import bi from '../assets/events/bi.jpg';
+import bi_2 from '../assets/events/bi_2.jpg';
+import bi_3 from '../assets/events/bi_3.jpg';
+import bi_4 from '../assets/events/bi_4.jpg';
 
 export const events = [
   
+  {
+    title: 'Demo Bionic Royals,
+    description_en:
+    '...'
+    description:
+    'În weekend am participat la demonstrativul organizat de RO042 Bionic Royals. A fost un nou prilej de a ne întâlni cu alte echhipe înscrise în programul FIRST Tech Challenge Romania. Deși am avut probleme tehnice (neputând finaliza varianta de robot la care am lucrat pentru acest demo) am reușit să ocupăm locul 3 după calificări și să jucăm finala în alianță cu echipa Dragonfly. Felicităm toate echipele care au participat la competiția demonstrativă și în mod special alianța câștigătoare formată din echipele The Emperor FTC  și Code Warriors! Mulțumim RO042 Bionic Royals pentru invitație! Ne revedem la competiția regională!',
+    images:[bi_2,bi_3,bi,bi_4],
+    cover: bi,
+    date: '28 Ian 2023',
+    location: 'Colegiul Naţional "Mircea cel Bătrân",
+    key: 'demo_bionic',
+  },
   
   {
     title: 'Demo How To Win',
