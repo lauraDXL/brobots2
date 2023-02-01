@@ -62,7 +62,7 @@ export const events = [
     images: [],
     cover: brcov,
     date: '7 Ian 2023',
-    location: 'Colegiul Național "Alexandru Lahovari",
+    location: 'Colegiul Național "Alexandru Lahovari"',
     key: 'demo_brobots',
     
   },
