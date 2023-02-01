@@ -67,21 +67,19 @@ import brobots from '../assets/events/brobots.jpg';
 export const events = [
   
   {
-    title:'Demo Brobots Arena',
+    title: 'Demo Brobots Arena',
     description_en:
     '...',
     description:
     'Finalul de vacanță a adus primul demo FIRST Tech Challenge Romania organizat de noi - BroBots Arena. Sâmbătă, 7 ianuarie 2023, Colegiul Național "Alexandru Lahovari" a fost gazda a peste 100 de tineri pasionați de știință și tehnologie. 11 echipe înscrise în competiția FIRST Tech Challenge Romania au trăit bucuria reîntâlnirii în format fizic. Ne-am bucurat împreună  de o competiție onestă  care a adunat emoții și energii pozitive într-o atmosferă caldă, de prietenie. Feedback-ul pozitiv primit din partea participanților ne face să ne dorim să facem din acest început o tradiție. Și dacă am reușit să organizăm acest demo înseamnă că putem reuși orice. Putem pentru că alături de noi au fost nu doar mentorii noștri (prof. Simona Ianc (BroBots Mentor), prof. Issabella Ştefania Cataragă, stud. Andrei-Cosmin Toma) dar și părinți (Galbenus Robert), alumni BroBots și alumni Lahovari. Mulțumim mult prietenilor noștri care au răspuns pozitiv invitației de a participa la BroBots Arena (TehnoZ Junior, TehnoZ, KronBOT, RO 063  Wafy, MasterBots, RO042 Bionic Royals, Titu ROBO, Robo Smart, BROboti, Brute Force Robotics)! Mulțumiri speciale se îndreaptă către echipa MasterBots care ne-a împrumutat terenul de antrenament și elementele de joc și către echipa BROboti care ne-a împrumutat conurile albastre! Felicităm toate echipele participante pentru rezultatele obținute și în mod special echipele care au făcut parte din alianța finalistă (KronBOT și Titu ROBO) și alianța câștigătoare (TehnoZ și TehnoZ Junior)!',
-    images: [br,brobots,kb,rs,br1,br1,br2,br3,br4,br5,br6,br7,br8,br9,br10,br11],
+    images: [br,brobots,kb,rs,broboti,br1,br1,br2,br3,br4,br5,br6,br7,br8,br9,br10,br11],
     cover: brcov,
     date: '7 Ian 2023',
     location: 'Colegiul Național "Alexandru Lahovari"',
     key: 'demo_brobots',
     
   },
-  
-  
-  
+ 
   {
     title: 'Demo Bionic Royals',
     description_en:
