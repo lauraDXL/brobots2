@@ -5,7 +5,7 @@ import toma from '../assets/team/toma.jpeg';
 export const volunteers = [
     
     {
-      name:'Rares Utulete',
+      name:'Uțulete Rareș Andrei',
       img: rares,
       instagram:"https://www.instagram.com/rares.202/",
       description_en:
@@ -14,7 +14,7 @@ export const volunteers = [
       "Sunt o persoană ambițioasă și sociabilă. Sunt pasionat de jocurile video, mașinile și munca în echipă.",
     },
     {
-      name:'David Tenea',
+      name:'David Țenea',
       img: david,
       instagram:"https://www.instagram.com/david_tne/",
       description_en:
@@ -24,7 +24,7 @@ export const volunteers = [
     },
     
     {
-      name:'Toma Octavian Andrei',
+      name:'Octavian Andrei Toma',
       img: toma,
       instagram:"https://www.instagram.com/sanotavi/",
       description_en:
@@ -34,7 +34,7 @@ export const volunteers = [
     },
     
     {
-        name: 'Drumia Razvan',
+        name: 'Răzvan Drumia',
         img:razvan,
         description_en:
         "....",
