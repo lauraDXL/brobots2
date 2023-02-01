@@ -83,8 +83,8 @@ export const team = [
       img: luca,
       instagram: "https://www.instagram.com/luca_vladutu/",
       description_en:
-      "I love learning new things. That's why I'm passionate about IT, assembly, video games and Egyptian mythology. I consider myself a bold, friendly and calm person. Programming has helped me a lot to develop my logic and thinking and made me realize that any problem has a solution.",
+      "I consider myself to be an ambitious person with well-established ideals. I am demanding and I like things done as well as possible. My passions are cars, mechanics and video games. At the end of a hard day I like to relax by reading a book.",
       description:
-      "Iubesc sa invat lucruri noi.De aceea sunt pasionat de IT , asamblare , jocuri video si de mitologia Egipteană .Ma consider o persoana îndrăzneață,prietenoasa si calma.Programarea m-a ajutat foarte mult sa-mi dezvolt logica si gandirea si m-a facut sa realizez ca orice problema are o solutie .",
+      "Mă consider a fi o persoana ambițioasă cu idealuri bine stabilite. Sunt exigent și îmi plac lucrurile făcute cât mai bine. Pasiunile mele sunt mașinile, mecanica și jocurile video. La finalul unei zile grele îmi place să mă liniștesc citind câte o carte.",
     },
 ];
