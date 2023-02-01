@@ -63,6 +63,7 @@ import rs from '../assets/events/robosmart.jpg';
 import kb from '../assets/events/kronbot.jpg';
 import broboti from '../assets/events/broboti.jpg';
 import brobots from '../assets/events/brobots.jpg';
+import up from '../assets/events/grup.jpg';
 
 export const events = [
   
@@ -72,9 +73,10 @@ export const events = [
     '...',
     description:
     'Finalul de vacanță a adus primul demo FIRST Tech Challenge Romania organizat de noi - BroBots Arena. Sâmbătă, 7 ianuarie 2023, Colegiul Național "Alexandru Lahovari" a fost gazda a peste 100 de tineri pasionați de știință și tehnologie. 11 echipe înscrise în competiția FIRST Tech Challenge Romania au trăit bucuria reîntâlnirii în format fizic. Ne-am bucurat împreună  de o competiție onestă  care a adunat emoții și energii pozitive într-o atmosferă caldă, de prietenie. Feedback-ul pozitiv primit din partea participanților ne face să ne dorim să facem din acest început o tradiție. Și dacă am reușit să organizăm acest demo înseamnă că putem reuși orice. Putem pentru că alături de noi au fost nu doar mentorii noștri (prof. Simona Ianc (BroBots Mentor), prof. Issabella Ştefania Cataragă, stud. Andrei-Cosmin Toma) dar și părinți (Galbenus Robert), alumni BroBots și alumni Lahovari. Mulțumim mult prietenilor noștri care au răspuns pozitiv invitației de a participa la BroBots Arena (TehnoZ Junior, TehnoZ, KronBOT, RO 063  Wafy, MasterBots, RO042 Bionic Royals, Titu ROBO, Robo Smart, BROboti, Brute Force Robotics)! Mulțumiri speciale se îndreaptă către echipa MasterBots care ne-a împrumutat terenul de antrenament și elementele de joc și către echipa BROboti care ne-a împrumutat conurile albastre! Felicităm toate echipele participante pentru rezultatele obținute și în mod special echipele care au făcut parte din alianța finalistă (KronBOT și Titu ROBO) și alianța câștigătoare (TehnoZ și TehnoZ Junior)! ',
-    images:[br,brobots,br10,br11],
+    images:[br,brobots,kb,rs,broboti,br1,br1,br2,br3,br4,br5,br6,br7,br8,br9,,br10,br11],
+    cover: up,
     date: '7 Ian 2023',
-    location: 'Colegiul Național "Alexandru Lahovari"',
+    location: 'Colegiul Național "Alexandru Lahovari" ',
     key: 'demo_brobots',
     
   },
@@ -88,7 +90,7 @@ export const events = [
     images:[bi_2,bi,bi2,bi_8,bi_3,bi,bi_4],
     cover: bi_6,
     date: '28 Ian 2023',
-    location: 'Colegiul Naţional "Mircea cel Bătrân',
+    location: 'Colegiul Naţional "Mircea cel Bătrân" ',
     key: 'demo_bionic',
   },
   
@@ -99,6 +101,7 @@ export const events = [
     description:
     'Sâmbătă, 14 ianuarie 2023, am trăit experiența celui de-al treilea demonstrativ din acest sezpn FIRST Tech Challenge Romania. La invitația echipelor TehnoZ, TehnoZ Junior, FTC WATT s UP, HighFive Robotics am participat la How To Win Demo. Am trăit din nou emoția așteptării rezultatelor finale ale meciurilor, bucuria victoriilor. Ne-am făcut noi prieteni, ne-am reîntâlnit cu participanți de la BroBots Arena. Ne bucurăm că rezultatele noastre au fost din ce în ce mai bune de la un demonstrativ la altul.Le mulțumim organizatorilor pentru oportunitatea oferită! Mulțumim echipelor cu care am format alianțe! Felicităm toate echipele participante pentru rezultatele obținute și în special pe cele care au format alianța câștigătoare (RaSky Robotics și Eastern Foxes)!',
     images: [p_1,p_2,p_3,p_4,p_5,p_6,p],
+    cover: pit,
     location:'Sala de sport a Universității din Pitești',
     date:'14 Ian 2023',
     key: 'demo_pitesti',
