@@ -46,7 +46,7 @@ import bi_4 from '../assets/events/bi_4.jpg';
 export const events = [
   
   {
-    title: 'Demo Bionic Royals,
+    title: 'Demo Bionic Royals',
     description_en:
     '...'
     description:
@@ -54,7 +54,7 @@ export const events = [
     images:[bi_2,bi_3,bi,bi_4],
     cover: bi,
     date: '28 Ian 2023',
-    location: 'Colegiul Naţional "Mircea cel Bătrân",
+    location: 'Colegiul Naţional "Mircea cel Bătrân',
     key: 'demo_bionic',
   },
   
