@@ -74,8 +74,8 @@ export const events = [
     '...',
     description:
     'Finalul de vacanță a adus primul demo FIRST Tech Challenge Romania organizat de noi - BroBots Arena.',
-    images:[brobots],
-    cover: rs,
+    images:[brobots,kb,rs,br1,br2,br3,br4,br5],
+    cover: up,
     date: '7 Ian 2023',
     location: 'Colegiul Național "Alexandru Lahovari"',
     key: 'demo_brobots'
