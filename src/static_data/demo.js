@@ -66,6 +66,18 @@ import up from '../assets/events/grup.jpg';
 
 export const events = [
   
+  {
+    title: 'Demo Bionic Royals',
+    description_en:
+    '...',
+    description:
+    'În weekend am participat la demonstrativul organizat de RO042 Bionic Royals. A fost un nou prilej de a ne întâlni cu alte echhipe înscrise în programul FIRST Tech Challenge Romania. Deși am avut probleme tehnice (neputând finaliza varianta de robot la care am lucrat pentru acest demo) am reușit să ocupăm locul 3 după calificări și să jucăm finala în alianță cu echipa Dragonfly. Felicităm toate echipele care au participat la competiția demonstrativă și în mod special alianța câștigătoare formată din echipele The Emperor FTC  și Code Warriors! Mulțumim RO042 Bionic Royals pentru invitație! Ne revedem la competiția regională!',
+    images:[bi_2,bi,bi2,bi_8,bi_3,bi,bi_4],
+    cover: bi_6,
+    date: '28 Ian 2023',
+    location: 'Colegiul Naţional "Mircea cel Bătrân" ',
+    key: 'demo_bionic'
+  },
   
   {
     title: 'Demo How To Win',
@@ -73,7 +85,7 @@ export const events = [
     '..',
     description:
     'Sâmbătă, 14 ianuarie 2023, am trăit experiența celui de-al treilea demonstrativ din acest sezpn FIRST Tech Challenge Romania. La invitația echipelor TehnoZ, TehnoZ Junior, FTC WATT s UP, HighFive Robotics am participat la How To Win Demo. Am trăit din nou emoția așteptării rezultatelor finale ale meciurilor, bucuria victoriilor. Ne-am făcut noi prieteni, ne-am reîntâlnit cu participanți de la BroBots Arena. Ne bucurăm că rezultatele noastre au fost din ce în ce mai bune de la un demonstrativ la altul.Le mulțumim organizatorilor pentru oportunitatea oferită! Mulțumim echipelor cu care am format alianțe! Felicităm toate echipele participante pentru rezultatele obținute și în special pe cele care au format alianța câștigătoare (RaSky Robotics și Eastern Foxes)!',
-    images: [p_1,p_2,p_3,p_4,p_5,p_6,p],
+    images: [p_1,p_2,p_3,p_4,p_5,p_6],
     location:'Sala de sport a Universității din Pitești',
     date:'14 Ian 2023',
     key: 'demo_pitesti'
