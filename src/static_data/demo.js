@@ -65,6 +65,21 @@ import brobots from '../assets/events/brobots.jpg';
 import up from '../assets/events/grup.jpg';
 
 export const events = [
+   
+  
+  {
+    title: 'Demo Brobots Arena',
+    description_en:
+    '...',
+    description:
+    'Finalul de vacanță a adus primul demo FIRST Tech Challenge Romania organizat de noi - BroBots Arena.',
+    images:[brobots],
+    cover: rs,
+    date: '7 Ian 2023',
+    location: 'Colegiul Național "Alexandru Lahovari"',
+    key: 'demo_brobots'
+    
+   },
   
   {
     title: 'Demo Bionic Royals',
