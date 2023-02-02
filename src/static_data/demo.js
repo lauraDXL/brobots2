@@ -31,7 +31,7 @@ import b_4 from '../assets/events/b4 remodelat.jpeg';
 import b_5 from  '../assets/events/b5rem.jpeg';
 import b_6 from '../assets/events/b6.jpeg';
 import b_7 from '../assets/events/b7.jpg';
-import pit from '../assets/events/grup.jpg';
+import p from '../assets/events/grup.jpg';
 import p_1 from '../assets/events/pi2.jpg';
 import p_2 from '../assets/events/pi3.jpg';
 import p_3 from '../assets/events/pi4.jpg';
