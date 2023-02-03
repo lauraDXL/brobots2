@@ -125,6 +125,7 @@ import s2 from '../assets/events/stintescu2.jpg';
 import coversus from '../assets/events/coversus.jpg';
 import sus from '../assets/events/sus.jpg';
 import poster from '../assets/events/poster.jpg';
+import brobots from '../assets/events/brobots.jpg';
 export const events = [
   
   
@@ -135,6 +136,7 @@ export const events = [
       '..',
     description:
       'Proiectul BroBotSTEAM propus de echipa noastră a obținut cel mai mare punctaj la selecția proiectelor ce vor fi finanțate din Fondul Științescu Vâlcea prin intermediul Fundației Comunitare Vâlcea. Bucuria noastră este cu atât mai mare cu cât din juriul care a evaluat proiectele a făcut parte și domnul Cristian Presură.Proiectul BroBotSTEAM propus de echipa noastră aobținut cel mai mare punctaj la selecția proiectelor finanțate dinFondul Științescu Vâlcea prin intermediul Fundației Comunitare Vâlcea. Bucuria noastră a fost cu atât mai mare cu cât din juriul care a evaluat proiectele a făcut parte și domnul Cristian Presură. BroBotSTEAM proiect finanțat din Fondul Științescu—aprilie–august 2022.Ne-am propus ca prin acest proiect să aducem mai aproape de elevi conceptul de educație STEM prin organizarea de ateliere interactive pentru elevii din mediul urban și rural, ateliere în cadrul cărora să realizăm proiecte interdisciplinare folosind plăcuțe de dezvoltare Arduino. Pentru elevii din mediul urban am organizat o școală de vară (în două serii) la Colegiul Național “Alexandru Lahovari” iar pentru cei din mediul rural am creat un laborator mobil (cu toate materialele necesare activităților) cu care ne-am deplasat la școlile lor și am desfășurat ateliere cu elevii din clasele a 7-a și a 8-a. Le-am vorbit despre educația STEM, despre robotică, despre Fondul Științescu și i-am introdus în lumea microcontrollerelor prin intermediul plăcuțelor Arduino. Proiectele realizate împreună s-au bucurat de succes.',
+    cover: brobots,
     date: '28 Oct 2022',
     date_en: '28 Oct 2022',
   },
