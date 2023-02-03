@@ -126,49 +126,149 @@ import coversus from '../assets/events/coversus.jpg';
 import sus from '../assets/events/sus.jpg';
 import poster from '../assets/events/poster.jpg';
 import brobots from '../assets/events/brobots.jpg';
+import stiintescu from '../assets/events/stiintescu.png';
+import stiintescu2 from '../assets/events/stiintescu1.jpg';
+import stiintescu3 from '../assets/events/stiintescu3.png';
+import stiintescu4 from '../assets/events/stiintescu 5.png';
+import arduino from '../assets/events/arduino.jpg';
+import arduino2 from '../assets/events/arduino2.jpg';
+import arduino3 from '../assets/events/arduino3.jpg';
+import arduino4 from '../assets/events/arduino4.jpg';
+import arduino5 from '../assets/events/arduino5.jpg';
+import goah from '../assets/events/goah.jpg';
+import goah2 from '../assets/events/goah2.png';
+import goah3 from '../assets/events/goah3.png';
+import goah4 from '../assets/events/goah4.png';
+import goah5 from '../assets/events/goah5.png';
+import curs from '../assets/events/curs.jpg';
+import curs2 from '../assets/events/curs2.jpg';
+import curs3 from '../assets/events/curs3.jpg';
+import curs4 from '../assets/events/curs4.jpg';
+import curs5  from '../assets/events/curs5.jpg';
+import curs6 from '../assets/events/curs6.jpg';
+import curs7 from '../assets/events/curs7.jpg';
+import bogdan from '../assets/events/bogdan.jpg';
+import  curs20 from '../assets/events/curs20.jpg';
+import  curs21 from '../assets/events/curs21.jpg';
+import  curs22 from '../assets/events/curs22.jpg';
+import  curs23 from '../assets/events/curs23.jpg';
+import  curs24 from '../assets/events/curs24.jpg';
+import  curs25 from '../assets/events/curs25.jpg';
+import dobrete from '../assets/events/dobrete.jpg';
+import dobrete2 from '../assets/events/dobrete2.jpg';
+import dobrete3 from '../assets/events/dobrete3.jpg';
+import dobrete4 from '../assets/events/dobrete4.jpg';
+
+
+
+
+
+
 export const events = [
+ 
+  {
+    
+    title: 'Andrei Dobrete',
+    title_en: 'Andrew Dobrete',
+    descripton: 'Ieri, 24.05.2022, a avut loc festivitatea de absolvire a promoției 2022 a Colegiului Național "Alexandru Lahovari". Pentru noi, BroBots Team, festivitatea a marcat momentul în care un membru important al echipei noastre face trecerea spre comunitatea alumnilor BroBots și Lahovari. Este vorba despre Andi (Andrei Dobrete), team-leader-ul echipei în sezonul 2019-2020. și omul de la care am avut atâtea lucruri de învățat. Vor rămâne vii în amintirea noastră toate momentele frumoase petrecute împreună în timpul competițiilor BRD FIRST Tech Challenge Romania. Suntem siguri că Andi va fi în continuare alături de noi. Îi mulțumim pentru implicare și îi dorim mult, mult succes la examenele care vor urma!',
+    description_en:  '  ',
+    images: [dobrete2,dobrete3,dobrete4,dobrete5],
+    cover: dobrete,
+    date: ' 24 Mai 2022 ' ,
+    date_en:  '24 May 2022',
+    key: dobrete_andrei,
+    
+  },
   
+  
+  
+  {
+    
+    title: ' Atelier Arduino ',
+    title_en: 'Arduino Workshop',
+    descripton: 'Astăzi, 20.05.2022, am susținut un nou atelier de microcontrollere Arduino în mediul rural în cadrul proiectului BroBotSTEAM, susținut de Fondul Științescu Vâlcea. Am lucrat alături de colegii noștri din clasa a 7-a de la Școala Gimnazială Pietrari. Le-am prezentat echipa noastră de robotică - BroBots, concursul BRD FIRST Tech Challenge Romania și Fondul Științescu, iar apoi i-am învățat bazele lucrului cu plăcuțele Arduino. Copiii au reușit să implementeze jocul “prinde lumina”, cu ajutorul căruia au învățat să programeze și să monteze pe plăcuța Arduino mai multe dispozitive, precum LED-uri, difuzoare și butoane.Colegii noștri mai mici s-au descurcat foarte bine cu toate provocările din cadrul proiectului, au fost foarte curioși și bucuroși să învețe. Munca lor a dat roade, iar rezultatul final i-a făcut nerăbdători să lucreze din nou cu Arduino și să învețe programare. Le mulțumim din suflet celor de la Fundaţia Comunitară Vȃlcea care au adus în județ Fondul Științescu!  Fără finanțarea primită acest proiect nu ar fi existat. Mulțumim conducerii Școlii Gimnaziale Pietrari pentru oportunitatea de a da mai departe ceea ce am învățat.',
+    description_en:  '  ',
+    images: [curs21,curs22,curs23,curs24,curs25],
+    cover: curs20,
+    date: ' 20 Mai 2022 ' ,
+    date_en:  ' 20 May 2022  ',
+    location: 'Școala Gimnazială Pietrari',
+    location_en:  'Pietrari Secondary School',
+    key:pietrari_arduino,
+  },
+  
+  {
+    title:'Olimpiada (etapa națională) de tehnologia informației',
+    title_en: 'Olympiad (national stage) of information technology', 
+    description: 'Un nou motiv de bucurie pentru BroBots Team. Team-leaderul echipei noastre, Stefan Bogdan Popescu, s-a calificat la etapa națională a Olimpiadei de tehnologia informației - secțiunea C#. Suntem mândri de el și îi urăm mult succes la etapa națională din 28 mai 2022!',
+    
+    description_en:
+    ' ',
+    images: [bogdan],
+    cover: bogdan,
+    date:'18 Mai 2022',
+    date_en:'18 May 2022',
+    key:bogdan_popescu,
+  },
+  
+  
+  {
+    title:'Atelier Arduino',
+    title: 'Arduino Workshop',
+    description:'Vineri, 13.05.2022, am dat startul atelierelor de microcontrollere în mediul rural din cadrul proiectului  nostru, BroBotSTEAM, susținut de Fondul Științescu Vâlcea Am avut ocazia de a lucra cu colegii noștri mai mici din clasele a 7-a și a 8-a de la Scoală Gimnazială Sălătrucel cărora le-am vorbit despre educația STEM, despre robotică, despre Fondul Științescu și i-am introdus în lumea microcontrollerelor prin intermediul plăcuțelor Arduino. Aceștia au ocazia de a crea un mic joculeț care a avut rolul de a îi învăța modul de funcționare și de utilizare a plăcuțelor Arduino. Ne-a bucurat entuziasmul lor și interesul manifestat. Îi mulțumim lui Științescu pentru că a făcut acest proiect posibil și conducerii Școlii Gimnaziale Sălătrucel pentru suportul acordat în organizarea activității!',
+    
+    description_en:
+    ' ',
+    images:[curs2,curs3,curs4,curs5,curs6,curs7],
+    cover: curs,
+    date: '13 Mai 2022',
+    date_en: '13 May 2022',
+    location:'Școală Gimnazială Sălătrucel',
+    location: 'Sălătrucel Secondary School',
+    key: atelier_arduino1,
+  },
+  
+  
+  
+  {
+    title:'Webinar GO AHEAD',
+    title_en:'GO AHEAD Webinar',
+    description:
+    'Astăzi am participat alături de conducerea școlii (doamna director Issabella Ştefania Cataragă și domnul director adjunct Emil Pădureţu), de mentorul nostru coordonator (doamna Simona Ianc) și de consilierul școlar (doamna Denise Banu) la webinarul organizat de GO AHEAD. Am vorbit despre echipă, despre proiectul BRD FIRST Tech Challenge Romania, despre proiectele pe care le dezvoltăm și despre cât de important este sprijinul comunității de alumni Lahovari și BroBots în tot ceea ce realizăm. Ne bucurăm că am putut împărtăși din experiența noastră.',
+   
+    description_en:
+    ' ',
+    
+    images:[goah2,goah3,goah4,goah5],
+    cover: goah,
+    date: '11 Mai 2022',
+    date_en: '11 May 2022',
+    key: go_ahead,
+    
+  {
+    title:'Start proiect Științescu - BroBotSTEAM',
+    title_en:'Start Științescu Project - BroBotSTEAM',
+    description_en:' ',
+    description:' ',
+    images:[arduino2,arduino3,arduino4,arduino5],
+    cover: arduino,
+    date_en: '10 May 2022',
+    date: '10 Mai 2022',
+    key:start_stiintescu,
+  },
  
   
   {
-    title_en: 'The Științescu Fund - BroBotSTEAM project',
-    title:'Fondul Științescu - Proiectul BroBotSTEAM',
+    title_en: 'Științescu Project - BroBots Team',
+    title:'Proiect Stiințescu - BroBots Team',
     description_en:
       '..',
     description:
-      'Proiectul BroBotSTEAM propus de echipa noastră a obținut cel mai mare punctaj la selecția proiectelor ce vor fi finanțate din Fondul Științescu Vâlcea prin intermediul Fundației Comunitare Vâlcea. Bucuria noastră este cu atât mai mare cu cât din juriul care a evaluat proiectele a făcut parte și domnul Cristian Presură.Proiectul BroBotSTEAM propus de echipa noastră aobținut cel mai mare punctaj la selecția proiectelor finanțate dinFondul Științescu Vâlcea prin intermediul Fundației Comunitare Vâlcea. Bucuria noastră a fost cu atât mai mare cu cât din juriul care a evaluat proiectele a făcut parte și domnul Cristian Presură. BroBotSTEAM proiect finanțat din Fondul Științescu—aprilie–august 2022.Ne-am propus ca prin acest proiect să aducem mai aproape de elevi conceptul de educație STEM prin organizarea de ateliere interactive pentru elevii din mediul urban și rural, ateliere în cadrul cărora să realizăm proiecte interdisciplinare folosind plăcuțe de dezvoltare Arduino. Pentru elevii din mediul urban am organizat o școală de vară (în două serii) la Colegiul Național “Alexandru Lahovari” iar pentru cei din mediul rural am creat un laborator mobil (cu toate materialele necesare activităților) cu care ne-am deplasat la școlile lor și am desfășurat ateliere cu elevii din clasele a 7-a și a 8-a. Le-am vorbit despre educația STEM, despre robotică, despre Fondul Științescu și i-am introdus în lumea microcontrollerelor prin intermediul plăcuțelor Arduino. Proiectele realizate împreună s-au bucurat de succes.',
-    images:[brobots],
-    cover: brobots,
+    'Mentorii liceeni din echipa de robotică BroBots Team  și-au propus să popularizeze conceptul de educație nonformală STEM. BroBotSTEAM este despre a-i ajuta pe elevi să pună în practică ceea ce au învățat la școală, dezvoltând proiecte pe plăcuțele Arduino. Proiectul lor are două componente, realizarea unui atelier mobil de microcontrolere pentru a putea ajunge în 5 școli rurale și o școală de vară care se va desfășura la Colegiul Naţional Alexandru Lahovari pentru tinerii din mediul urban. Pe lângă pasiunea lor pentru robotică cei de la BroBots se implică activ în dezvoltarea educației nonformale și a societății civile. Îi felicităm încă o dată pentru implicare și le dorim succes în tot ceea ce și-au propus. Proiectul este finanțat prin Fondul Științescu Vâlcea, implementat de către Fundația Comunitară Vȃlcea (FCVL), în parteneriat cu Romanian-American Foundation (RAF) și Federația Fundațiile Comunitare din România (FFCR). Pentru mai multe informații accesați https://valcea.stiintescu.ro/proiecte-2022/template-proiect/',
+    images:[stiintescu2,stiintescu3,stiintescu4],
+    cover: stiintescu,
+    key:stiintescu_project,
   },
-
-{
-  title_en: ' The BroBotSTEAM summer ',
-    title:' Școala de vară BroBotSTEAM',
-    description_en:
-    "The BroBotSTEAM summer school is in full swing at the \"Alexandru Lahovari\" National College. Thank you Curierul De Vâlcea for choosing to present the activity of young people involved in community projects and their results! Together we bring the future closer! http://www.curierul.ro",
-    description:
-    "Școala de vară BroBotSTEAM este în plină desfășurare la Colegiul Național \"Alexandru Lahovari\". Mulțumim Curierul De Vâlcea pentru că alegeți să prezentați activitatea tinerilor implicați în proiecte comunitare și rezultatele acestora! Împreună aducem viitorul mai aproape! http://www.curierul.ro/scoala-de-vara-brobotsteam-la.../",
-    date: '19 July 2022',
-    date_en: '19 July 2022',
-},
-
-  {
-    title_en: 'Spookify your lab ',
-    title:'Spookify your lab',
-    description_en:
-      'The BroBots Team invites you to the “SPOOKIFY YOUR LAB” lightning challenge 🕸️Have you ever wanted to bring the spirit of Halloween to your robotics lab?\n🕸️Join the BroBots team in the "SPOOKIFY YOUR LAB" activity, turning your robotics lab into a house of horror!\n 🕸️You can decorate your lab in any way you want, from pumpkins, garlands and spider webs to witches, skeletons and anything else that causes fear. The scariest Halloween costumes are also recommended, so don\'t be afraid to take pictures with yourselves in your horror lab   \n  🕸️If you want to participate in this activity, all you have to do is turn your lab into a Halloween theme, then post a story on Instagram with a picture of it, adding tags to our team @brobotsteam and #spookifylab. All labs will be added in a collage.  \n ⚡All these conditions must be met in a lightning time, more precisely until October 31, at 18:00. \n🕸️Thank you if you decide to join this challenge and if you have any questions feel free to ask! We can\'t wait to see what your labs will look like in the end! Happy haunting! 🎃',
-    description:
-      'BroBots Team vă invită la provocarea fulger ” SPOOKIFY YOUR LAB”\n      🕸️V-ați dorit vreodată să aduceți spiritul de Halloween în laboratorul vostru de robotică?\n🕸️Alaturați-vă echipei BroBots în activitatea "SPOOKIFY YOUR LAB", transformându-vă laboratorul de robotică într-o casă a groazei!\n   🕸️Puteți să vă decorați laboratorul în orice mod doriți, de la dovleci, ghirlande și pânze de păianjeni până la vrăjitoare, scheleți și orice altceva provoacă spaimă. Sunt recomandate și costumele de Halloween cât mai înfricoșătoare, așa că nu vă sfiiți sa vă fotografiți alături de laboratorul vostru de groază!\n 🕸️Dacă doriți să participați la această activitate, tot ce trebuie să faceți este să va transformați laboratorul în tema de Halloween, apoi să postați un story pe Instagram cu o poză a acestuia, adăugând tag echipei noastre @brobotsteam și #spookifylab. Toate laboratoarele vor fi adăugate într-un colaj.\n ⚡Toate aceste condiții trebuie îndeplinite într-un timp fulger, mai exact până la data de 31 octombrie, ora 18:00.\n 🕸️Vă mulțumim dacă decideți să vă alăturați în această provocare, iar dacă aveți orice întrebare nu ezitați să întrebați! Abia așteptăm să vedem cum o să arate laboratoarele voastre la final! Bântuială fericită! 🎃',
-    images: [poster],
-    //image to show in events page
-    cover: poster,
-    location: 'Eveniment Online',
-    location_en: 'Online Event',
-    date: '31 Oct 2021',
-    date_en: '31 Oct 2021',
-    key: 'spookify_lab',
-  },
-
 
   {
     title_en: 'The BroBots Team supports the establishment of the Science Fund in Vâlcea ',
