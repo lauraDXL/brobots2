@@ -186,6 +186,10 @@ export const events = [
    {
      title: 'Atelier Arduino - BroBotSTEAM',
      title_en: 'Arduino workshop - BroBotSTEAM', 
+     description:
+      'ssss',
+      description_en:
+      'ssss',
      cover:costesti,
      key:'costesti_arduino',
    },
