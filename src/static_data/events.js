@@ -193,8 +193,37 @@ import final from '../assets/events/final.jpg';
 import final2 from '../assets/events/final2.jpg';
 import final3 from '../assets/events/final3.jpg';
 import final4 from '../assets/events/final4.jpg';
+import sc2 from '../assets/events/sc2.jpg';
+import sc21 from '../assets/events/sc21.jpg';
+import sc22 from '../assets/events/sc22.jpg';
+import sc23 from '../assets/events/sc23.jpg';
+import sc24 from '../assets/events/sc24.jpg';
+import sc25 from '../assets/events/sc25.jpg';
+
 export const events = [
   
+  {
+    title:
+    'Școala de vară BroBotSTEAM - seria II, Ziua 1',
+    title_en:
+    'BroBotSTEAM Summer School - Series II, Day 1',
+    description:
+    'Ieri au debutat atelierele Arduino din seria 2 a Școlii de vară organizate în cadrul proiectului BroBotSTEAM. Am fost din nou în mijlocul colegilor noștri mai mici (clasele 5-9) explicându-le cum funcționează plăcuțele Arduino și realizând împreună mici proiecte interesante. Ne dorim ca un număr cât mai mare de copii să beneficieze de ceea ce înseamnă educația STEM. Un punct de atracție a fost și robotul cu care noi am participat anul acesta în competiția BRD FIRST Tech Challenge Romania și pe care cei mici au avut ocazia să-l manevreze prin intermediul controllerelor.Proiectul BroBotSTEAM este finanțat prin Fondul Științescu Vâlcea, implementat de către Fundaţia Comunitară Vȃlcea, în parteneriat cu      Romanian-American Foundation  și  Federaţia Fundaţiile Comunitare din România - FFCR.',
+    description_en:
+    'Arduino workshops from series 2 of the Summer School organized within the BroBotSTEAM project started yesterday. We were once again in the middle of our younger colleagues (grades 5-9) explaining to them how Arduino boards work and making interesting little projects together. We want as many children as possible to benefit from what STEM education is all about. A point of attraction was also the robot with which we participated this year in the BRD FIRST Tech Challenge Romania competition and which the little ones had the opportunity to handle by means of the controllers.',
+    images:[sc21,sc22,sc23,sc24,sc25],
+    cover: sc,
+     location: 
+      'Colegiul Național "Alexandru Lahovari"',
+     location_en: 
+      'National College "Alexandru Lahovari"',
+      date:
+        '8 August 2022',
+      date_en:
+       '8 August 2022',
+  key:'scoaladevara_ser2',
+  },
+ 
   {
     title:
     'Școala de vară BroBotSTEAM - seria I, ziua 3',
