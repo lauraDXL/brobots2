@@ -192,7 +192,7 @@ export const events = [
   cover:scoalavara,
   location: 'Colegiul Național "Alexandru Lahovari"',
   location_en: 'National College "Alexandru Lahovari"',
-  key:scoalavara_brobots,
+
   
  },
  
