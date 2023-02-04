@@ -212,7 +212,7 @@ export const events = [
     description_en:
     'Arduino workshops from series 2 of the Summer School organized within the BroBotSTEAM project started yesterday. We were once again in the middle of our younger colleagues (grades 5-9) explaining to them how Arduino boards work and making interesting little projects together. We want as many children as possible to benefit from what STEM education is all about. A point of attraction was also the robot with which we participated this year in the BRD FIRST Tech Challenge Romania competition and which the little ones had the opportunity to handle by means of the controllers.',
     images:[sc21,sc22,sc23,sc24,sc25],
-    cover: sc,
+    cover: sc2,
      location: 
       'Colegiul Național "Alexandru Lahovari"',
      location_en: 
