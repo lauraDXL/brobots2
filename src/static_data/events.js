@@ -192,8 +192,7 @@ export const events = [
   cover:scoalavara,
   location: 'Colegiul Național "Alexandru Lahovari"',
   location_en: 'National College "Alexandru Lahovari"',
-
-  
+ key:'scoala_devara',
  },
  
  
@@ -224,7 +223,7 @@ export const events = [
   location_en: 'Shopping City Ramnicu Valcea',
   date: '19,20 Mai 2022',
   date_en: '19,20 May 2022',
-  
+  key:'targ_oferteeducationale',
  },
  
  
@@ -257,6 +256,7 @@ export const events = [
    key:'prezentare_nr5',
   
  },
+ 
   {
     
     title: 'Andrei Dobrete',
@@ -297,7 +297,7 @@ export const events = [
     cover: bogdan,
     date:'18 Mai 2022',
     date_en:'18 May 2022',
-    
+    key:'bogdan',
   },
   
   
@@ -314,6 +314,7 @@ export const events = [
     date_en: '13 May 2022',
     location:'Școală Gimnazială Sălătrucel',
     location: 'Sălătrucel Secondary School',
+   key:'atelier_arduino1',
    
   },
   
@@ -332,7 +333,7 @@ export const events = [
     cover: goah,
     date: '11 Mai 2022',
     date_en: '11 May 2022',
-  
+   key:'webinar_goahead',
   },
     
   {
@@ -344,7 +345,7 @@ export const events = [
     cover: arduino,
     date_en: '10 May 2022',
     date: '10 Mai 2022',
-   
+   key:'start_stiintescu',
   },
  
   
@@ -357,7 +358,7 @@ export const events = [
     'Mentorii liceeni din echipa de robotică BroBots Team  și-au propus să popularizeze conceptul de educație nonformală STEM. BroBotSTEAM este despre a-i ajuta pe elevi să pună în practică ceea ce au învățat la școală, dezvoltând proiecte pe plăcuțele Arduino. Proiectul lor are două componente, realizarea unui atelier mobil de microcontrolere pentru a putea ajunge în 5 școli rurale și o școală de vară care se va desfășura la Colegiul Naţional Alexandru Lahovari pentru tinerii din mediul urban. Pe lângă pasiunea lor pentru robotică cei de la BroBots se implică activ în dezvoltarea educației nonformale și a societății civile. Îi felicităm încă o dată pentru implicare și le dorim succes în tot ceea ce și-au propus. Proiectul este finanțat prin Fondul Științescu Vâlcea, implementat de către Fundația Comunitară Vȃlcea (FCVL), în parteneriat cu Romanian-American Foundation (RAF) și Federația Fundațiile Comunitare din România (FFCR). Pentru mai multe informații accesați https://valcea.stiintescu.ro/proiecte-2022/template-proiect/',
     images:[stiintescu2,stiintescu3,stiintescu4],
     cover: stiintescu,
-   
+    key:'stiintescu_proiect',
   },
 
   {
