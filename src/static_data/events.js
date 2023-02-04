@@ -182,17 +182,31 @@ import scoalavara from '../assets/events/scoalavara.png';
 
 
 export const events = [
+   
    {
+    title:'Webinar GO AHEAD',
+    title_en:'GO AHEAD Webinar',
+    description:
+    'Astăzi am participat alături de conducerea școlii (doamna director Issabella Ştefania Cataragă și domnul director adjunct Emil Pădureţu), de mentorul nostru coordonator (doamna Simona Ianc) și de consilierul școlar (doamna Denise Banu) la webinarul organizat de GO AHEAD. Am vorbit despre echipă, despre proiectul BRD FIRST Tech Challenge Romania, despre proiectele pe care le dezvoltăm și despre cât de important este sprijinul comunității de alumni Lahovari și BroBots în tot ceea ce realizăm. Ne bucurăm că am putut împărtăși din experiența noastră.',
+   description_en: '',
+   images:[goah2,goah3,goah4,goah5],
+    cover: goah,
+    date: '11 Mai 2022',
+    date_en: '11 May 2022',
+   key:'webinar_goahead',
+  },
+   
+   {
+    date_en:'10 May 2022',
+    date: '10 Mai 2022',
     title:'Start proiect Științescu - BroBotSTEAM',
     title_en:'Start Științescu Project - BroBotSTEAM',
     description_en:
-      '\n',
+      '',
      description:
-      '\n',
+      '',
     images:[arduino2,arduino3,arduino4,arduino5],
     cover: arduino,
-    date_en: '10 May 2022',
-    date: '10 Mai 2022',
    key:'start_stiintescu',
   },
  
@@ -200,7 +214,7 @@ export const events = [
     title_en: 'Științescu Project - BroBots Team',
     title:'Proiect Stiințescu - BroBots Team',
     description_en:
-      '........',
+      '',
     description:
     'Mentorii liceeni din echipa de robotică BroBots Team  și-au propus să popularizeze conceptul de educație nonformală STEM. BroBotSTEAM este despre a-i ajuta pe elevi să pună în practică ceea ce au învățat la școală, dezvoltând proiecte pe plăcuțele Arduino. Proiectul lor are două componente, realizarea unui atelier mobil de microcontrolere pentru a putea ajunge în 5 școli rurale și o școală de vară care se va desfășura la Colegiul Naţional Alexandru Lahovari pentru tinerii din mediul urban. Pe lângă pasiunea lor pentru robotică cei de la BroBots se implică activ în dezvoltarea educației nonformale și a societății civile. Îi felicităm încă o dată pentru implicare și le dorim succes în tot ceea ce și-au propus. Proiectul este finanțat prin Fondul Științescu Vâlcea, implementat de către Fundația Comunitară Vȃlcea (FCVL), în parteneriat cu Romanian-American Foundation (RAF) și Federația Fundațiile Comunitare din România (FFCR). Pentru mai multe informații accesați https://valcea.stiintescu.ro/proiecte-2022/template-proiect/',
     images:[stiintescu2,stiintescu3,stiintescu4],
