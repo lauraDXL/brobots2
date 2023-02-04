@@ -215,6 +215,10 @@ export const events = [
       'The BroBots Team supports the establishment of the Science Fund in Vâlcea\n The Științescu Fund offers funding, resources and support to any mentors (be they teachers, pupils, students, professionals from all fields) who want to help children and teens learn that side of scientific disciplines through experiments, practical activities and play.\n  We want the number of young people who have access to events and activities involving STEM / STEAM education to increase and we believe that the Science Fund is the best way to make this a reality.',
     description:
       'BroBots Team susține înființarea Fondului Științescu la Vâlcea\n  Fondul Științescu oferă finanțare, resurse și sprijin oricăror mentori (fie ei profesori, elevi, studenți, profesioniști din toate domeniile) care își doresc să ajute copiii și tinerii să învețe acea latura a disciplinelor științifice prin experiment, activități practice și joc.\n Ne dorim ca numărul de tineri care au acces la evenimente și activități implicând educația STEM/STEAM să crească și suntem de părere că Fondul Științescu este cea mai bună modalitate prin care acest lucru poate deveni realitate.',
+    location:
+    ' ',
+    location_en:
+    ' ',
     images: [coversus, sus],
     //image to show in events page
     cover: sus,
