@@ -185,6 +185,10 @@ export const events = [
    {
     title:'Start proiect Științescu - BroBotSTEAM',
     title_en:'Start Științescu Project - BroBotSTEAM',
+    description_en:
+      '\n',
+     description:
+      '\n',
     images:[arduino2,arduino3,arduino4,arduino5],
     cover: arduino,
     date_en: '10 May 2022',
