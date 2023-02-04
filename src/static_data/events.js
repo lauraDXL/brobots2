@@ -182,6 +182,30 @@ import scoalavara from '../assets/events/scoalavara.png';
 
 
 export const events = [
+ 
+ 
+ {
+  title: 
+    'Atelier Arduino - BroBotSTEAM',
+  title_en: 
+    'Arduino workshop - BroBotSTEAM',
+  description:
+    'Astăzi am continuat seria atelierelor de microcontrollere Arduino din cadrul proiectului BroBotSTEAM, finanțat de Fondul Științescu Vâlcea. De data aceasta am fost alături de colegii noștri din clasa a 7-a de la Școala Gimnazială Costești. Le-am prezentat echipa noastră de robotică - BroBots, concursul BRD FIRST Tech Challenge Romania, le-am vorbit despre Fondul Științescu dar cel mai important i-am învățat bazele lucrului cu plăcuțele Arduino.. Au fost încântați să învețe alături de noi și să realizeze proiectele propuse de noi. Ne-a bucurat entuziasmul lor și dorința de a învăța lucruri noi. Le mulțumim din suflet celor de la Fundaţia Comunitară Vȃlcea care au adus în județ Fondul Științescu!  Finanțarea primită ne-a permis să derulăm acest proiect. Mulțumim conducerii Școlii Gimnaziale Costești pentru sprijinul oferit în organizarea atelierului!',
+ description_en: 
+   'Today we continued the series of Arduino microcontroller workshops within the BroBotSTEAM project, financed by the Științescu Vâlcea Fund. This time I was with our colleagues from the 7th grade from Costești Secondary School. I introduced them to our robotics team - BroBots, the BRD FIRST Tech Challenge Romania competition, I told them about the Șiințescu Fund, but most importantly I taught them the basics of working with Arduino boards... They were excited to learn with us and carry out the projects proposed by us. We enjoyed their enthusiasm and willingness to learn new things. We sincerely thank those from the Vȃlcea Community Foundation who brought the Științescu Fund to the county! The funding received allowed us to carry out this project. We thank the management of Costești Secondary School for the support offered in organizing the workshop!',
+  images:[costesti2,costesti3,costesti4,costesti5],
+  cover:  costesti  ,
+  location: 
+    'Școala Gimnazială Costești',
+  location_en: 
+    'Costesti Secondary School',
+  date: '27 Mai 2022',
+  date_en: '27 May 2022',
+  key: 'arduino_costesti',
+ },
+ 
+ 
+ 
  {
    title: 
     'Prezentare echipă, educația STEM',
