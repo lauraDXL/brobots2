@@ -178,17 +178,10 @@ import brezoi from '../assets/events/brezoi.jpg';
 import brezoi2 from '../assets/events/brezoi2.jpg';
 import brezoi3 from '../assets/events/brezoi3.jpg';
 import brezoi4 from '../assets/events/brezoi4.jpg';
-import scoalavara from '../assets/events/scoalavara.png',
+import scoalavara from '../assets/events/scoalavara.png';
 
 
 export const events = [
- 
- {
- 
- 
- 
- 
- },
  
  {
   title: 'Școala de vară BroBotSTEAM',
