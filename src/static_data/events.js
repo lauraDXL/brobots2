@@ -183,7 +183,12 @@ import scoalavara from '../assets/events/scoalavara.png';
 
 export const events = [
    
-
+   {
+     title: 'Atelier Arduino - BroBotSTEAM',
+     title_en: 'Arduino workshop - BroBotSTEAM', 
+     cover:costesti,
+     key:'costesti_arduino',
+   },
  
   {
     title:'Atelier Arduino',
