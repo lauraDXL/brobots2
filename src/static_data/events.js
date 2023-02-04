@@ -182,6 +182,28 @@ import scoalavara from '../assets/events/scoalavara.png';
 
 
 export const events = [
+
+ 
+    {
+  title: 
+      'Școala de vară BroBotSTEAM',
+  title_en: 
+      'BroBotS TEAM Summer School',
+  description: 
+     'Mâine începe Școala de vară (ateliere interactive de Arduino și robotică) organizată de echipa de robotică - BroBots a Colegiului Național "Alexandru Lahovari". Este a doua etapă a implementării proiectului BroBotSTEAM, proiect care a obținut finanțare din Fondul Științescu Vâlcea în urma participării la concursul de selecție desfășurat în luna martie 2022 și care își propune să promoveze conceptul de educație STEM prin organizarea de ateliere interactive pentru elevii din mediul urban și rural, ateliere în cadrul cărora sunt realizate proiecte interdisciplinare folosind plăcuțe de dezvoltare Arduino. Școala de vară BroBotSTEAM se va desfășura la Colegiul Național “Alexandru Lahovari” în două serii: 18-20 iulie 2022 și 8-10 august 2022. Vor participa elevi din 7 școli și licee din municipiul Râmnicu Vâlcea dar și din localitatea Sălătrucel. Proiectul este finanțat prin Fondul Științescu Vâlcea, implementat de către Fundaţia Comunitară Vȃlcea, în parteneriat cu Romanian-American Foundation  și Federaţia Fundaţiile Comunitare din România - FFCR.',
+  description_en: 
+    'Tomorrow starts the Summer School (interactive Arduino and robotics workshops) organized by the robotics team - BroBots of the "Alexandru Lahovari" National College. It is the second stage of the implementation of the BroBotSTEAM project, a project that obtained funding from the Științescu Vâlcea Fund following participation in the selection contest held in March 2022 and which aims to promote the concept of STEM education by organizing interactive workshops for students from the urban environment and rural, workshops where interdisciplinary projects are carried out using Arduino development boards. The BroBotSTEAM summer school will be held at the "Alexandru Lahovari" National College in two series: July 18-20, 2022 and August 8-10, 2022. Students from 7 schools and high schools from the municipality of Râmnicu Vâlcea and also from the town of Sălătrucel will participate. The project is financed by the Șiințescu Vâlcea Fund, implemented by the Vȃlcea Community Foundation, in partnership with the Romanian-American Foundation and the Federation of Community Foundations in Romania - FFCR.', 
+  images: [scoalavara],
+  cover:scoalavara,
+  location: 
+      'Colegiul Național "Alexandru Lahovari"',
+  location_en: 
+      'National College "Alexandru Lahovari"',
+ key:'scoala_devara',
+ },
+ 
+ 
+ 
  {
   title: 
     'Atelier Arduino - BroBotSTEAM',
