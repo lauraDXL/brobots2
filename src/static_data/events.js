@@ -183,6 +183,50 @@ import scoalavara from '../assets/events/scoalavara.png';
 
 export const events = [
    
+  {
+    title:'Olimpiada (etapa națională) de tehnologia informației',
+    title_en: 'Olympiad (national stage) of information technology', 
+    description: 'Un nou motiv de bucurie pentru BroBots Team. Team-leaderul echipei noastre, Stefan Bogdan Popescu, s-a calificat la etapa națională a Olimpiadei de tehnologia informației - secțiunea C#. Suntem mândri de el și îi urăm mult succes la etapa națională din 28 mai 2022!',
+   description_en: 'A new reason to be happy for the BroBots Team. The team leader of our team, Stefan Bogdan Popescu, qualified for the national stage of the Information Technology Olympiad - C# section. We are proud of him and wish him the best of luck at the national stage on May 28, 2022!', 
+   images: [bogdan],
+    cover: bogdan,
+    date:'18 Mai 2022',
+    date_en:'18 May 2022',
+    key:'bogdan',
+  },
+  
+  
+  {
+    title:'Atelier Arduino',
+    title_en: 'Arduino Workshop',
+    description:'Vineri, 13.05.2022, am dat startul atelierelor de microcontrollere în mediul rural din cadrul proiectului  nostru, BroBotSTEAM, susținut de Fondul Științescu Vâlcea Am avut ocazia de a lucra cu colegii noștri mai mici din clasele a 7-a și a 8-a de la Scoală Gimnazială Sălătrucel cărora le-am vorbit despre educația STEM, despre robotică, despre Fondul Științescu și i-am introdus în lumea microcontrollerelor prin intermediul plăcuțelor Arduino. Aceștia au ocazia de a crea un mic joculeț care a avut rolul de a îi învăța modul de funcționare și de utilizare a plăcuțelor Arduino. Ne-a bucurat entuziasmul lor și interesul manifestat. Îi mulțumim lui Științescu pentru că a făcut acest proiect posibil și conducerii Școlii Gimnaziale Sălătrucel pentru suportul acordat în organizarea activității!',
+   description_en: '///', 
+   images:[curs2,curs3,curs4,curs5,curs6,curs7],
+    cover: curs,
+    date: '13 Mai 2022',
+    date_en: '13 May 2022',
+    location:'Școală Gimnazială Sălătrucel',
+    location: 'Sălătrucel Secondary School',
+   key:'atelier_arduino1',
+   
+  },
+   
+   
+  {
+    title:'Atelier Arduino',
+    title_en: 'Arduino Workshop',
+    description:'Vineri, 13.05.2022, am dat startul atelierelor de microcontrollere în mediul rural din cadrul proiectului  nostru, BroBotSTEAM, susținut de Fondul Științescu Vâlcea Am avut ocazia de a lucra cu colegii noștri mai mici din clasele a 7-a și a 8-a de la Scoală Gimnazială Sălătrucel cărora le-am vorbit despre educația STEM, despre robotică, despre Fondul Științescu și i-am introdus în lumea microcontrollerelor prin intermediul plăcuțelor Arduino. Aceștia au ocazia de a crea un mic joculeț care a avut rolul de a îi învăța modul de funcționare și de utilizare a plăcuțelor Arduino. Ne-a bucurat entuziasmul lor și interesul manifestat. Îi mulțumim lui Științescu pentru că a făcut acest proiect posibil și conducerii Școlii Gimnaziale Sălătrucel pentru suportul acordat în organizarea activității!',
+   description_en: 'Friday, 13.05.2022, we started the microcontroller workshops in the countryside within our project, BroBotSTEAM, supported by the Șiințescu Vâlcea Fund. We had the opportunity to work with our younger colleagues from the 7th and 8th grades at Sălătrucel Secondary School to whom I spoke about STEM education, about robotics, about the Șiințescu Fund and introduced them to the world of microcontrollers through Arduino boards. They have the opportunity to create a small game that had the role of teaching them how to operate and use Arduino boards. We were delighted by their enthusiasm and interest. We thank Științescu for making this project possible and the management of Sălătrucel Secondary School for the support given in organizing the activity!', 
+   images:[curs2,curs3,curs4,curs5,curs6,curs7],
+    cover: curs,
+    date: '13 Mai 2022',
+    date_en: '13 May 2022',
+    location:'Școală Gimnazială Sălătrucel',
+    location: 'Sălătrucel Secondary School',
+   key:'atelier_arduino1',
+   
+  },
+   
    {
     title:'Webinar GO AHEAD',
     title_en:'GO AHEAD Webinar',
