@@ -182,24 +182,24 @@ import scoalavara from '../assets/events/scoalavara.png';
 
 
 export const events = [
-  {
+ {
   title: 
     'Atelier Arduino - BroBotSTEAM',
   title_en: 
     'Arduino workshop - BroBotSTEAM',
-  description:
-    'Astăzi am continuat seria atelierelor de microcontrollere Arduino din cadrul proiectului BroBotSTEAM, finanțat de Fondul Științescu Vâlcea. De data aceasta am fost alături de colegii noștri din clasa a 7-a de la Școala Gimnazială Costești. Le-am prezentat echipa noastră de robotică - BroBots, concursul BRD FIRST Tech Challenge Romania, le-am vorbit despre Fondul Științescu dar cel mai important i-am învățat bazele lucrului cu plăcuțele Arduino.. Au fost încântați să învețe alături de noi și să realizeze proiectele propuse de noi. Ne-a bucurat entuziasmul lor și dorința de a învăța lucruri noi. Le mulțumim din suflet celor de la Fundaţia Comunitară Vȃlcea care au adus în județ Fondul Științescu!  Finanțarea primită ne-a permis să derulăm acest proiect. Mulțumim conducerii Școlii Gimnaziale Costești pentru sprijinul oferit în organizarea atelierului!',
+  description: 
+    'Am susținut marți, 07.06.2022, încă un atelier de micro-controllere Arduino în mediul rural, în cadrul proiectului BroBotSTEAM, finanțat de Fondul Științescu Vâlcea  De data aceasta ne-am aflat în mijlocul copiilor de la Liceul "Gheorghe Surdu" Brezoi. Ca de obicei, ne-am prezentat echipa și le-am povestit despre concursul BRD First Tech Challenge și despre Fondul Științescu. Am continuat apoi cu atelierul de Arduino, arătându-le copiilor cum să lucreze cu plăcuțele de bază, cum să le programeze și să monteze dispozitive pe acestea. Am fost uimiți să vedem cât de repede au învățat ceea ce le-am prezentat și sperăm că în puținul timp pe care l-am avut împreună cu ei să fi reușit să aprindem pasiunea pentru ceea ce înseamnă robotică și STEM. Suntem foarte mândri că generația lor este cea care ne va urma în domeniul informaticii. Dorim să mulțumim celor de la Fundaţia Comunitară Vȃlcea pentru că au făcut posibil acest proiect dar și conducerii Liceului "Gheorghe Surdu" Brezoi pentru sprijinul acordat în desfășurarea activității!',
  description_en: 
-   'Today we continued the series of Arduino microcontroller workshops within the BroBotSTEAM project, financed by the Științescu Vâlcea Fund. This time I was with our colleagues from the 7th grade from Costești Secondary School. I introduced them to our robotics team - BroBots, the BRD FIRST Tech Challenge Romania competition, I told them about the Șiințescu Fund, but most importantly I taught them the basics of working with Arduino boards... They were excited to learn with us and carry out the projects proposed by us. We enjoyed their enthusiasm and willingness to learn new things. We sincerely thank those from the Vȃlcea Community Foundation who brought the Științescu Fund to the county! The funding received allowed us to carry out this project. We thank the management of Costești Secondary School for the support offered in organizing the workshop!',
-  images:[costesti2,costesti3,costesti4,costesti5],
-  cover:  costesti  ,
+   'On Tuesday, 07.06.2022, we held another Arduino micro-controller workshop in the countryside, as part of the BroBotSTEAM project, financed by the Științescu Vâlcea Fund. This time we were among the children from the "Gheorghe Surdu" Brezoi High School. As usual, we introduced our team and told them about the BRD First Tech Challenge and the Științescu Fund. We then continued with the Arduino workshop, showing the children how to work with the breadboards, how to program them and assemble devices on them. We were amazed at how quickly they learned what we presented to them, and we hope that in the little time we had with them, we were able to ignite a passion for robotics and STEM. We are very proud that their generation is the one that will follow us in the IT field. We would like to thank those from the Vȃlcea Community Foundation for making this project possible, but also to the management of the "Gheorghe Surdu" Brezoi High School for the support given in carrying out the activity!',
+  images: [brezoi2,brezoi3,brezoi4],
+  cover:brezoi,
   location: 
-    'Școala Gimnazială Costești',
+    'Liceul "Gheorghe Surdu" Brezoi',
   location_en: 
-    'Costesti Secondary School',
-  date: '27 Mai 2022',
-  date_en: '27 May 2022',
-  key: 'arduino_costesti',
+    'High School "Gheorghe Surdu" Brezoi',
+  date: '7 Iunie 2022',
+  date_en: '7 June 2022',
+  key:'arduino_brezoi',
  },
  
  
