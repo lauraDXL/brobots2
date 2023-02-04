@@ -179,10 +179,35 @@ import brezoi2 from '../assets/events/brezoi2.jpg';
 import brezoi3 from '../assets/events/brezoi3.jpg';
 import brezoi4 from '../assets/events/brezoi4.jpg';
 import scoalavara from '../assets/events/scoalavara.png';
+import scv from '../assets/events/scv.jpg';
+import scv2 from '../assets/events/scv2.jpg';
+import scv3 from '../assets/events/scv3.jpg';
+import scv4 from '../assets/events/scv4.jpg';
+import scv5 from '../assets/events/scv5.jpg';
+import scvg from '../assets/events/scvg.jpg';
 
 
 export const events = [
 
+ {
+  title:
+  'Școala de vară BroBotSTEAM - seria I, ziua 1',
+  title_en:
+  'BroBotSTEAM Summer School - Series I, Day 1',
+  description:
+  'Am început ziua cu entuziasm alături de participanții la prima serie a Scolii de vară. Le-am vorbit despre robotică, despre competiția BRD FIRST Tech Challenge Romania, despre conceptul de educație STEM. A urmat partea practică a atelierului în care am realizat cateva proiecte simple folosind plăcuțele Arduino. Am fost încântați să vedem că putem învăța fizică experimentând chiar și la vârste mici. Cursanții noștri din clasele I-IV dar și cei mai mari (care încă nu au studiat la fizică electricitatea) au înțeles ce este curentul electric, cum funcționează un circuit, care este rolul unei rezistențe folosind plăcuțele Arduino. Toți au reușit să ducă la final proiectele propuse. Le mulțumim pentru că au ales să petreacă alături de noi 3 zile din vacanța de vară!Proiectul BroBotSTEAM este finanțat prin Fondul Științescu Vâlcea, implementat de către Fundaţia Comunitară Vȃlcea, în parteneriat cu  Romanian-American Foundation  și Federaţia Fundaţiile Comunitare din România - FFCR.',
+  description_en:
+  'We started the day enthusiastically with the participants of the first series of the Summer School. I talked to them about robotics, about the BRD FIRST Tech Challenge Romania competition, about the concept of STEM education. The practical part of the workshop followed, in which we made some simple projects using Arduino boards. We were excited to see that we can learn physics by experimenting even at young ages. Our students from grades I-IV but also older ones (who have not yet studied electricity in physics) understood what electric current is, how a circuit works, what is the role of a resistor using Arduino boards. All of them managed to complete the proposed projects. We thank them for choosing to spend 3 days of their summer vacation with us!The BroBotSTEAM project is financed by the Științescu Vâlcea Fund, implemented by the Vȃlcea Community Foundation, in partnership with the Romanian-American Foundation and the Federation of Community Foundations in Romania - FFCR.',
+  images:[scv,scv,scv3,scv4,scv5],
+  cover: scvg,
+  location: 
+      'Colegiul Național "Alexandru Lahovari"',
+  location_en: 
+      'National College "Alexandru Lahovari"',
+  key:'scoaladevara_seria1',
+ },
+ 
+ 
  
     {
   title: 
@@ -315,6 +340,10 @@ export const events = [
       'Today I participated together with the school management (Mrs. Issabella Ştefania Cataragă and Mr. Emil Pădureţu), our coordinating mentor (Ms. Simona Ianc) and the school counselor (Ms. Denise Banu) in the webinar organized by GO AHEAD. We talked about the team, about the BRD FIRST Tech Challenge Romania project, about the projects we are developing and about how important the support of the Lahovari and BroBots alumni community is in everything we do. We are glad that we could share from our experience.',
    images:[goah2,goah3,goah4,goah5],
     cover: goah,
+    location:
+    'Eveniment online',
+    location_en:
+    'Online Event',
     date: '11 Mai 2022',
     date_en: '11 May 2022',
    key:'webinar_goahead',
