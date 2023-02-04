@@ -182,34 +182,7 @@ import scoalavara from '../assets/events/scoalavara.png';
 
 
 export const events = [
-    {
-   title: 'Prezentare echipă, educația STEM',
-   title_en: 'Team presentation and STEM education',
-   description: 'Dacă săptămâna trecută am fost prezenți la Târgul ofertelor educaționale, ieri am onorat invitația de a fi prezenți în mijlocul elevilor de clasa a 8-a de la Scoala Gimnaziala Nr.5 Ramnicu-Valcea. A fost o întâlnire interesantă. Razvan Mutuleasa, Andrei Nicolae și Laura Simion le-au vorbit celor prezenți despre liceul nostru, despre ce înseamnă să fii elev la Lahovari dar și despre robotică, educație STEM și concursul BRD FIRST Tech Challenge Romania. Le-am prezentat și robotul cu care am participat anul acesta în competiția de robotică. Ne-a bucurat interesul arătat de colegii noștri mai mici și am răspuns la toate întrebările lor. Sperăm să ne întâlnim la toamnă cu cât mai mulți dintre ei ca elevi în clasa a 9-a la Colegiul Lahovari. Le dorim mult succes la examenul ce va urma!',
-  description_en: '///', 
-  images:[mai2,mai3,mai4,mai5,mai6],
-   cover: mai,
-   date: '26 Mai 2022',
-   date_en: '26 May 2022',
-   location: 'Școala Gimnazială Nr.5',
-   location_en: 'Nr.5 Secondary School',
-   key:'prezentare_nr5',
- },
- 
-  {
-    
-    title: 'Andrei Dobrete',
-    title_en: 'Andrew Dobrete',
-    descripton: 'Ieri, 24.05.2022, a avut loc festivitatea de absolvire a promoției 2022 a Colegiului Național "Alexandru Lahovari". Pentru noi, BroBots Team, festivitatea a marcat momentul în care un membru important al echipei noastre face trecerea spre comunitatea alumnilor BroBots și Lahovari. Este vorba despre Andi (Andrei Dobrete), team-leader-ul echipei în sezonul 2019-2020. și omul de la care am avut atâtea lucruri de învățat. Vor rămâne vii în amintirea noastră toate momentele frumoase petrecute împreună în timpul competițiilor BRD FIRST Tech Challenge Romania. Suntem siguri că Andi va fi în continuare alături de noi. Îi mulțumim pentru implicare și îi dorim mult, mult succes la examenele care vor urma!',
-   description_en: 'ssss', 
-   images: [dobrete2,dobrete3,dobrete4],
-    cover: dobrete,
-    date: ' 24 Mai 2022 ' ,
-    date_en:  '24 May 2022',
-    key:' dobrete_andrei',
-    
-  },
-  
+   
   {
     
     title: ' Atelier Arduino - BroBotSTEAM ',
@@ -218,10 +191,10 @@ export const events = [
    description_en: '///', 
    images: [curs21,curs22,curs23,curs24,curs25],
     cover: curs20,
-    date: ' 20 Mai 2022 ' ,
-    date_en:  ' 20 May 2022  ',
-    location: 'Școala Gimnazială Pietrari',
-    location_en:  'Pietrari Secondary School',
+    date:'20 Mai 2022' ,
+    date_en:'20 May 2022',
+    location:'Școala Gimnazială Pietrari',
+    location_en:'Pietrari Secondary School',
     key:'pietrari_arduino',
   },
  
