@@ -187,7 +187,6 @@ export const events = [
   title: 'Școala de vară BroBotSTEAM',
   title_en: 'BroBotS TEAM Summer School',
   description: 'Mâine începe Școala de vară (ateliere interactive de Arduino și robotică) organizată de echipa de robotică - BroBots a Colegiului Național "Alexandru Lahovari". Este a doua etapă a implementării proiectului BroBotSTEAM, proiect care a obținut finanțare din Fondul Științescu Vâlcea în urma participării la concursul de selecție desfășurat în luna martie 2022 și care își propune să promoveze conceptul de educație STEM prin organizarea de ateliere interactive pentru elevii din mediul urban și rural, ateliere în cadrul cărora sunt realizate proiecte interdisciplinare folosind plăcuțe de dezvoltare Arduino. Școala de vară BroBotSTEAM se va desfășura la Colegiul Național “Alexandru Lahovari” în două serii: 18-20 iulie 2022 și 8-10 august 2022. Vor participa elevi din 7 școli și licee din municipiul Râmnicu Vâlcea dar și din localitatea Sălătrucel. Proiectul este finanțat prin Fondul Științescu Vâlcea, implementat de către Fundaţia Comunitară Vȃlcea, în parteneriat cu Romanian-American Foundation  și Federaţia Fundaţiile Comunitare din România - FFCR.',
-  description_en: ' ',
   images:[scoalavara],
   cover:scoalavara,
   location: 'Colegiul Național "Alexandru Lahovari"',
@@ -196,13 +195,10 @@ export const events = [
  },
  
  
- 
- 
  {
   title: 'Atelier Arduino - BroBotSTEAM',
   title_en: 'Arduino workshop - BroBotSTEAM',
   description: 'Am susținut marți, 07.06.2022, încă un atelier de micro-controllere Arduino în mediul rural, în cadrul proiectului BroBotSTEAM, finanțat de Fondul Științescu Vâlcea  De data aceasta ne-am aflat în mijlocul copiilor de la Liceul "Gheorghe Surdu" Brezoi. Ca de obicei, ne-am prezentat echipa și le-am povestit despre concursul BRD First Tech Challenge și despre Fondul Științescu. Am continuat apoi cu atelierul de Arduino, arătându-le copiilor cum să lucreze cu plăcuțele de bază, cum să le programeze și să monteze dispozitive pe acestea. Am fost uimiți să vedem cât de repede au învățat ceea ce le-am prezentat și sperăm că în puținul timp pe care l-am avut împreună cu ei să fi reușit să aprindem pasiunea pentru ceea ce înseamnă robotică și STEM. Suntem foarte mândri că generația lor este cea care ne va urma în domeniul informaticii. Dorim să mulțumim celor de la Fundaţia Comunitară Vȃlcea pentru că au făcut posibil acest proiect dar și conducerii Liceului "Gheorghe Surdu" Brezoi pentru sprijinul acordat în desfășurarea activității!',
-  description_en: ' ',
   images:[brezoi2,brezoi3,brezoi4],
   cover:brezoi,
   location: 'Liceul "Gheorghe Surdu" Brezoi',
@@ -216,7 +212,6 @@ export const events = [
   title: 'Târgul ofertelor educaționale 2022',
   title_en: 'Educational Offers Fair 2022',
   description:'Săptămâna trecută, joi și vineri, am prezentat oferta școlară a Colegiului Național "Alexandru Lahovari" în cadrul Târgului ofertelor  educaționale. A fost un nou prilej de a spune că suntem mândri să fim elevii acestul colegiu, că este o onoare pentru noi să reprezentăm școala în competiția de robotică BRD FIRST Tech Challenge Romania. Ne-am reîntâlnit și cu prietenii noștri de la RO042 Bionic Royals și MasterBots făcând și o scurtă demonstrație cu roboții. Alături de noi s-a aflat și Andrei-Cosmin Toma (alumn BroBots și Lahovari) - co-mentor al echipei. Ne dorim ca un număr cât mai mare dintre cei mai buni absolvenți ai clasei a 8-a să ni se alăture ca elevi al Colegiului Lahovari!',
-  description_en: ' ',
   images: [targed2,targed3,targed4,targed5],
   cover: targed,
   location: 'Shopping City Râmnicu Vâlcea',
@@ -246,7 +241,6 @@ export const events = [
    title: 'Prezentare echipă, educația STEM',
    title_en: 'Team presentation and STEM education',
    description: 'Dacă săptămâna trecută am fost prezenți la Târgul ofertelor educaționale, ieri am onorat invitația de a fi prezenți în mijlocul elevilor de clasa a 8-a de la Scoala Gimnaziala Nr.5 Ramnicu-Valcea. A fost o întâlnire interesantă. Razvan Mutuleasa, Andrei Nicolae și Laura Simion le-au vorbit celor prezenți despre liceul nostru, despre ce înseamnă să fii elev la Lahovari dar și despre robotică, educație STEM și concursul BRD FIRST Tech Challenge Romania. Le-am prezentat și robotul cu care am participat anul acesta în competiția de robotică. Ne-a bucurat interesul arătat de colegii noștri mai mici și am răspuns la toate întrebările lor. Sperăm să ne întâlnim la toamnă cu cât mai mulți dintre ei ca elevi în clasa a 9-a la Colegiul Lahovari. Le dorim mult succes la examenul ce va urma!',
-   description_en: ' ',
    images:[mai2,mai3,mai4,mai5,mai6],
    cover: mai,
    date: '26 Mai 2022',
@@ -254,7 +248,6 @@ export const events = [
    location: 'Școala Gimnazială Nr.5',
    location_en: 'Nr.5 Secondary School',
    key:'prezentare_nr5',
-  
  },
  
   {
@@ -262,7 +255,6 @@ export const events = [
     title: 'Andrei Dobrete',
     title_en: 'Andrew Dobrete',
     descripton: 'Ieri, 24.05.2022, a avut loc festivitatea de absolvire a promoției 2022 a Colegiului Național "Alexandru Lahovari". Pentru noi, BroBots Team, festivitatea a marcat momentul în care un membru important al echipei noastre face trecerea spre comunitatea alumnilor BroBots și Lahovari. Este vorba despre Andi (Andrei Dobrete), team-leader-ul echipei în sezonul 2019-2020. și omul de la care am avut atâtea lucruri de învățat. Vor rămâne vii în amintirea noastră toate momentele frumoase petrecute împreună în timpul competițiilor BRD FIRST Tech Challenge Romania. Suntem siguri că Andi va fi în continuare alături de noi. Îi mulțumim pentru implicare și îi dorim mult, mult succes la examenele care vor urma!',
-    description_en:  '  ',
     images: [dobrete2,dobrete3,dobrete4],
     cover: dobrete,
     date: ' 24 Mai 2022 ' ,
@@ -276,7 +268,6 @@ export const events = [
     title: ' Atelier Arduino - BroBotSTEAM ',
     title_en: 'Arduino Workshop',
     descripton: 'Astăzi, 20.05.2022, am susținut un nou atelier de microcontrollere Arduino în mediul rural în cadrul proiectului BroBotSTEAM, susținut de Fondul Științescu Vâlcea. Am lucrat alături de colegii noștri din clasa a 7-a de la Școala Gimnazială Pietrari. Le-am prezentat echipa noastră de robotică - BroBots, concursul BRD FIRST Tech Challenge Romania și Fondul Științescu, iar apoi i-am învățat bazele lucrului cu plăcuțele Arduino. Copiii au reușit să implementeze jocul “prinde lumina”, cu ajutorul căruia au învățat să programeze și să monteze pe plăcuța Arduino mai multe dispozitive, precum LED-uri, difuzoare și butoane.Colegii noștri mai mici s-au descurcat foarte bine cu toate provocările din cadrul proiectului, au fost foarte curioși și bucuroși să învețe. Munca lor a dat roade, iar rezultatul final i-a făcut nerăbdători să lucreze din nou cu Arduino și să învețe programare. Le mulțumim din suflet celor de la Fundaţia Comunitară Vȃlcea care au adus în județ Fondul Științescu!  Fără finanțarea primită acest proiect nu ar fi existat. Mulțumim conducerii Școlii Gimnaziale Pietrari pentru oportunitatea de a da mai departe ceea ce am învățat.',
-    description_en:  '  ',
     images: [curs21,curs22,curs23,curs24,curs25],
     cover: curs20,
     date: ' 20 Mai 2022 ' ,
@@ -290,9 +281,6 @@ export const events = [
     title:'Olimpiada (etapa națională) de tehnologia informației',
     title_en: 'Olympiad (national stage) of information technology', 
     description: 'Un nou motiv de bucurie pentru BroBots Team. Team-leaderul echipei noastre, Stefan Bogdan Popescu, s-a calificat la etapa națională a Olimpiadei de tehnologia informației - secțiunea C#. Suntem mândri de el și îi urăm mult succes la etapa națională din 28 mai 2022!',
-    
-    description_en:
-    ' ',
     images: [bogdan],
     cover: bogdan,
     date:'18 Mai 2022',
@@ -305,9 +293,6 @@ export const events = [
     title:'Atelier Arduino',
     title_en: 'Arduino Workshop',
     description:'Vineri, 13.05.2022, am dat startul atelierelor de microcontrollere în mediul rural din cadrul proiectului  nostru, BroBotSTEAM, susținut de Fondul Științescu Vâlcea Am avut ocazia de a lucra cu colegii noștri mai mici din clasele a 7-a și a 8-a de la Scoală Gimnazială Sălătrucel cărora le-am vorbit despre educația STEM, despre robotică, despre Fondul Științescu și i-am introdus în lumea microcontrollerelor prin intermediul plăcuțelor Arduino. Aceștia au ocazia de a crea un mic joculeț care a avut rolul de a îi învăța modul de funcționare și de utilizare a plăcuțelor Arduino. Ne-a bucurat entuziasmul lor și interesul manifestat. Îi mulțumim lui Științescu pentru că a făcut acest proiect posibil și conducerii Școlii Gimnaziale Sălătrucel pentru suportul acordat în organizarea activității!',
-    
-    description_en:
-    ' ',
     images:[curs2,curs3,curs4,curs5,curs6,curs7],
     cover: curs,
     date: '13 Mai 2022',
@@ -325,10 +310,6 @@ export const events = [
     title_en:'GO AHEAD Webinar',
     description:
     'Astăzi am participat alături de conducerea școlii (doamna director Issabella Ştefania Cataragă și domnul director adjunct Emil Pădureţu), de mentorul nostru coordonator (doamna Simona Ianc) și de consilierul școlar (doamna Denise Banu) la webinarul organizat de GO AHEAD. Am vorbit despre echipă, despre proiectul BRD FIRST Tech Challenge Romania, despre proiectele pe care le dezvoltăm și despre cât de important este sprijinul comunității de alumni Lahovari și BroBots în tot ceea ce realizăm. Ne bucurăm că am putut împărtăși din experiența noastră.',
-   
-    description_en:
-    ' ',
-    
     images:[goah2,goah3,goah4,goah5],
     cover: goah,
     date: '11 Mai 2022',
@@ -339,8 +320,6 @@ export const events = [
   {
     title:'Start proiect Științescu - BroBotSTEAM',
     title_en:'Start Științescu Project - BroBotSTEAM',
-    description_en:' ',
-    description:' ',
     images:[arduino2,arduino3,arduino4,arduino5],
     cover: arduino,
     date_en: '10 May 2022',
@@ -353,7 +332,7 @@ export const events = [
     title_en: 'Științescu Project - BroBots Team',
     title:'Proiect Stiințescu - BroBots Team',
     description_en:
-      '..',
+      '........',
     description:
     'Mentorii liceeni din echipa de robotică BroBots Team  și-au propus să popularizeze conceptul de educație nonformală STEM. BroBotSTEAM este despre a-i ajuta pe elevi să pună în practică ceea ce au învățat la școală, dezvoltând proiecte pe plăcuțele Arduino. Proiectul lor are două componente, realizarea unui atelier mobil de microcontrolere pentru a putea ajunge în 5 școli rurale și o școală de vară care se va desfășura la Colegiul Naţional Alexandru Lahovari pentru tinerii din mediul urban. Pe lângă pasiunea lor pentru robotică cei de la BroBots se implică activ în dezvoltarea educației nonformale și a societății civile. Îi felicităm încă o dată pentru implicare și le dorim succes în tot ceea ce și-au propus. Proiectul este finanțat prin Fondul Științescu Vâlcea, implementat de către Fundația Comunitară Vȃlcea (FCVL), în parteneriat cu Romanian-American Foundation (RAF) și Federația Fundațiile Comunitare din România (FFCR). Pentru mai multe informații accesați https://valcea.stiintescu.ro/proiecte-2022/template-proiect/',
     images:[stiintescu2,stiintescu3,stiintescu4],
