@@ -183,21 +183,7 @@ import scoalavara from '../assets/events/scoalavara.png';
 
 export const events = [
    
-  {
-    
-    title:'Atelier Arduino - BroBotSTEAM',
-    title_en:'Arduino Workshop - BroBotSTEAM',
-    descripton: 'Astăzi, 20.05.2022, am susținut un nou atelier de microcontrollere Arduino în mediul rural în cadrul proiectului BroBotSTEAM, susținut de Fondul Științescu Vâlcea. Am lucrat alături de colegii noștri din clasa a 7-a de la Școala Gimnazială Pietrari. Le-am prezentat echipa noastră de robotică - BroBots, concursul BRD FIRST Tech Challenge Romania și Fondul Științescu, iar apoi i-am învățat bazele lucrului cu plăcuțele Arduino. Copiii au reușit să implementeze jocul “prinde lumina”, cu ajutorul căruia au învățat să programeze și să monteze pe plăcuța Arduino mai multe dispozitive, precum LED-uri, difuzoare și butoane.Colegii noștri mai mici s-au descurcat foarte bine cu toate provocările din cadrul proiectului, au fost foarte curioși și bucuroși să învețe. Munca lor a dat roade, iar rezultatul final i-a făcut nerăbdători să lucreze din nou cu Arduino și să învețe programare. Le mulțumim din suflet celor de la Fundaţia Comunitară Vȃlcea care au adus în județ Fondul Științescu!  Fără finanțarea primită acest proiect nu ar fi existat. Mulțumim conducerii Școlii Gimnaziale Pietrari pentru oportunitatea de a da mai departe ceea ce am învățat.',
-   description_en:'Today, 20.05.2022, we supported a new Arduino microcontroller workshop in the countryside within the BroBotSTEAM project, supported by the Științescu Vâlcea Foundation. I worked alongside our colleagues from the 7th grade from Pietrari Secondary School. I introduced them to our robotics team - BroBots, the BRD FIRST Tech Challenge Romania competition and the Științescu Fund, and then I taught them the basics of working with Arduino boards. The children managed to implement the "catch the light" game, with the help of which they learned to program and mount several devices on the Arduino board, such as LEDs, speakers and buttons. Our younger colleagues coped very well with all the challenges from the project, they were very curious and happy to learn. Their work paid off and the end result made them eager to work with Arduino again and learn programming. We sincerely thank those from the Vȃlcea Community Foundation who brought the Științescu Fund to the county! Without the funding received this project would not have existed. We thank the school management.', 
-   images:[curs21,curs22,curs23,curs24,curs25],
-    cover: curs20,
-    date:'20 Mai 2022' ,
-    date_en:'20 May 2022',
-    location:'Școala Gimnazială Pietrari',
-    location_en:'Pietrari Secondary School',
-    key:'pietrari_arduino',
-     
-  },
+
  
   {
     title:'Atelier Arduino',
