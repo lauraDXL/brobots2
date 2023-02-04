@@ -210,7 +210,7 @@ export const events = [
   location_en: 'High School "Gheorghe Surdu" Brezoi',
   date: '7 Iunie 2022',
   date_en: '7 June 2022',
-  key:arduino_brezoi,
+  key:'arduino_brezoi',
  },
  
  {
@@ -239,7 +239,7 @@ export const events = [
   location_en: 'Costesti Secondary School',
   date: '27 Mai 2022',
   date_en: '27 May 2022',
-  key:arduino_costesti,
+  key: 'arduino_costesti',
  },
  
  
@@ -254,7 +254,7 @@ export const events = [
    date_en: '26 May 2022',
    location: 'Școala Gimnazială Nr.5',
    location_en: 'Nr.5 Secondary School',
-   key:prezentare_nr5,
+   key:'prezentare_nr5',
   
  },
   {
@@ -267,7 +267,7 @@ export const events = [
     cover: dobrete,
     date: ' 24 Mai 2022 ' ,
     date_en:  '24 May 2022',
-    key: dobrete_andrei,
+    key:' dobrete_andrei',
     
   },
   
@@ -283,7 +283,7 @@ export const events = [
     date_en:  ' 20 May 2022  ',
     location: 'Școala Gimnazială Pietrari',
     location_en:  'Pietrari Secondary School',
-    key:pietrari_arduino,
+    key:'pietrari_arduino',
   },
   
   {
@@ -297,7 +297,7 @@ export const events = [
     cover: bogdan,
     date:'18 Mai 2022',
     date_en:'18 May 2022',
-    key:bogdan_popescu,
+    
   },
   
   
@@ -314,7 +314,7 @@ export const events = [
     date_en: '13 May 2022',
     location:'Școală Gimnazială Sălătrucel',
     location: 'Sălătrucel Secondary School',
-    key: atelier_arduino1,
+   
   },
   
   
@@ -332,7 +332,7 @@ export const events = [
     cover: goah,
     date: '11 Mai 2022',
     date_en: '11 May 2022',
-    key: go_ahead,
+  
   },
     
   {
@@ -344,7 +344,7 @@ export const events = [
     cover: arduino,
     date_en: '10 May 2022',
     date: '10 Mai 2022',
-    key:start_stiintescu,
+   
   },
  
   
@@ -357,7 +357,7 @@ export const events = [
     'Mentorii liceeni din echipa de robotică BroBots Team  și-au propus să popularizeze conceptul de educație nonformală STEM. BroBotSTEAM este despre a-i ajuta pe elevi să pună în practică ceea ce au învățat la școală, dezvoltând proiecte pe plăcuțele Arduino. Proiectul lor are două componente, realizarea unui atelier mobil de microcontrolere pentru a putea ajunge în 5 școli rurale și o școală de vară care se va desfășura la Colegiul Naţional Alexandru Lahovari pentru tinerii din mediul urban. Pe lângă pasiunea lor pentru robotică cei de la BroBots se implică activ în dezvoltarea educației nonformale și a societății civile. Îi felicităm încă o dată pentru implicare și le dorim succes în tot ceea ce și-au propus. Proiectul este finanțat prin Fondul Științescu Vâlcea, implementat de către Fundația Comunitară Vȃlcea (FCVL), în parteneriat cu Romanian-American Foundation (RAF) și Federația Fundațiile Comunitare din România (FFCR). Pentru mai multe informații accesați https://valcea.stiintescu.ro/proiecte-2022/template-proiect/',
     images:[stiintescu2,stiintescu3,stiintescu4],
     cover: stiintescu,
-    key:stiintescu_project,
+   
   },
 
   {
