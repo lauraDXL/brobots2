@@ -188,7 +188,7 @@ export const events = [
     title_en: 'Olympiad (national stage) of information technology', 
     description: 'Un nou motiv de bucurie pentru BroBots Team. Team-leaderul echipei noastre, Stefan Bogdan Popescu, s-a calificat la etapa națională a Olimpiadei de tehnologia informației - secțiunea C#. Suntem mândri de el și îi urăm mult succes la etapa națională din 28 mai 2022!',
    description_en: 'A new reason to be happy for the BroBots Team. The team leader of our team, Stefan Bogdan Popescu, qualified for the national stage of the Information Technology Olympiad - C# section. We are proud of him and wish him the best of luck at the national stage on May 28, 2022!', 
-   images: [bogdan],
+   images: [],
     cover: bogdan,
     date:'18 Mai 2022',
     date_en:'18 May 2022',
