@@ -185,10 +185,33 @@ import scv3 from '../assets/events/scv3.jpg';
 import scv4 from '../assets/events/scv4.jpg';
 import scv5 from '../assets/events/scv5.jpg';
 import scvg from '../assets/events/scvg.jpg';
-
-
+import curierul from '../assets/events/curierul123.jpeg';
+import scoalav from '../assets/events/scoalav.jpg';
+import scoalav2 from '../assets/events/scoalav2.jpg';
+import scoalav3 from '../assets/events/scoalav4.jpg';
 export const events = [
-
+  
+ {
+  title:
+  'Școala de vară BroBotSTEAM - seria I, ziua 2',
+  title_en:
+  'BroBotS TEAM summer school - series I, day 2',
+  description:
+  'O nouă zi în care am fost alături de participanții la Școala de vară făcând primii pași în programarea plăcuțelor Arduino. Aplicațiile propuse le-au trezit interesul pentru a învăța programare. Ne-am bucurat împreună de încă o zi reușită de vacanță, o zi în care au învățat lucruri noi, au legat prietenii. Proiectul BroBotSTEAM este finanțat prin Fondul Științescu Vâlcea, implementat de către Fundaţia Comunitară Vȃlcea, în parteneriat cu  Romanian-American Foundation  și  Federaţia Fundaţiile Comunitare din România - FFCR.',
+  description_en:
+  'A new day in which I was with the participants of the Summer School taking the first steps in programming the Arduino boards. The proposed applications piqued their interest to learn programming. We enjoyed another successful day of vacation together, a day in which they learned new things, made friends. The BroBotSTEAM project is financed by the Științescu Vâlcea Fund, implemented by the Vȃlcea Community Foundation, in partnership with the Romanian-American Foundation and the Federation of Community Foundations in Romania - FFCR.',
+  images:[scoalav2,scoalav3,scoalav],
+  cover: scoalav,
+   location: 
+      'Colegiul Național "Alexandru Lahovari"',
+  location_en: 
+      'National College "Alexandru Lahovari"',
+  date:
+  '19 July 2022',
+  date_en:
+  '20 July 2022',
+  key:'scoaladevara_ser1',
+ },
  {
   title:
   'Școala de vară BroBotSTEAM - seria I, ziua 1',
@@ -204,6 +227,10 @@ export const events = [
       'Colegiul Național "Alexandru Lahovari"',
   location_en: 
       'National College "Alexandru Lahovari"',
+  date: 
+  '18 Iulie 2022',
+  date_en:
+  '18 July 2022',
   key:'scoaladevara_seria1',
  },
  
