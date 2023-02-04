@@ -214,7 +214,7 @@ export const events = [
   
   {
     title:'Atelier Arduino',
-    title: 'Arduino Workshop',
+    title_en: 'Arduino Workshop',
     description:'Vineri, 13.05.2022, am dat startul atelierelor de microcontrollere în mediul rural din cadrul proiectului  nostru, BroBotSTEAM, susținut de Fondul Științescu Vâlcea Am avut ocazia de a lucra cu colegii noștri mai mici din clasele a 7-a și a 8-a de la Scoală Gimnazială Sălătrucel cărora le-am vorbit despre educația STEM, despre robotică, despre Fondul Științescu și i-am introdus în lumea microcontrollerelor prin intermediul plăcuțelor Arduino. Aceștia au ocazia de a crea un mic joculeț care a avut rolul de a îi învăța modul de funcționare și de utilizare a plăcuțelor Arduino. Ne-a bucurat entuziasmul lor și interesul manifestat. Îi mulțumim lui Științescu pentru că a făcut acest proiect posibil și conducerii Școlii Gimnaziale Sălătrucel pentru suportul acordat în organizarea activității!',
     
     description_en:
@@ -244,6 +244,7 @@ export const events = [
     date: '11 Mai 2022',
     date_en: '11 May 2022',
     key: go_ahead,
+  },
     
   {
     title:'Start proiect Științescu - BroBotSTEAM',
