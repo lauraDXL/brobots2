@@ -182,6 +182,17 @@ import scoalavara from '../assets/events/scoalavara.png';
 
 
 export const events = [
+   {
+    title:'Start proiect Științescu - BroBotSTEAM',
+    title_en:'Start Științescu Project - BroBotSTEAM',
+   description_en: '///',
+   description:'///',
+    images:[arduino2,arduino3,arduino4,arduino5],
+    cover: arduino,
+    date_en: '10 May 2022',
+    date: '10 Mai 2022',
+   key:'start_stiintescu',
+  },
  
   {
     title_en: 'Științescu Project - BroBots Team',
