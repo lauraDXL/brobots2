@@ -78,6 +78,14 @@ const Header = props => {
             {currentPage === 'results' && <FaRobot />}
             <FormattedMessage id='results' />
           </Link>
+          <Link 
+              activeClassName={styles.active}
+              className={styles.normal}
+              to='/sponsors'
+           >
+            {currentPage === 'sponsors' && <FaRobot />}
+            <FormattedMessage id='sponsors' />
+          </Link>
           <Link
             activeClassName={styles.active}
             className={styles.normal}
