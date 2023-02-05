@@ -207,13 +207,13 @@ import ziua3 from '../assets/events/ziua3.jpg';
 import ziua31 from '../assets/events/ziua31.jpg';
 import ziua32 from '../assets/events/ziua32.jpg';
 import ziua33 from '../assets/events/ziua34.jpg';
-import nouaechipa from '../assets/events/echipa_noua2.jpg';
-import nouaechipa2 from '../assets/events/echipa_noua.jpg';
+import nouaechipa from '../assets/events/ftc.png';
 import fundatie from '../assets/events/fundatie5.jpg';
 import fundatie2 from '../assets/events/fundatie.jpg';
 import fundatie3 from '../assets/events/fundatie3.jpg';
 import fundatie4 from '../assets/events/fundatie4.jpg';
 import fundatie5 from '../assets/events/fundatie7.jpg';
+
 export const events = [
   
   {
@@ -249,7 +249,7 @@ export const events = [
     description_en:
     'BroBots Team starts preparations for the new BRD FIRST Tech Challenge Romania season. In an almost entirely new composition, today we had a first meeting. With us was Andi (Andrei Dobrete) - recent BroBots alum. After a general presentation by Razvan Mutuleasa, who will be the team-leader of the team in the season that will start soon, there followed work sessions / training by departments: 3D design, programming, marketing and communication. Thanks to Andrei Dobrete for the explanations, guidance and support! Razvan, Antonio, Călin, Luca, Lara, Edi, Sebi and Alexia are the ones who will continue the story of BroBots.',
     images: [nouaechipa],
-    cover: nouaechipa2,
+    cover: nouaechipa,
      location: 
       'Colegiul Național "Alexandru Lahovari"',
      location_en: 
