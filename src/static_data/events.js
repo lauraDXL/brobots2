@@ -249,7 +249,8 @@ export const events = [
     description_en:
     'BroBots Team starts preparations for the new BRD FIRST Tech Challenge Romania season. In an almost entirely new composition, today we had a first meeting. With us was Andi (Andrei Dobrete) - recent BroBots alum. After a general presentation by Razvan Mutuleasa, who will be the team-leader of the team in the season that will start soon, there followed work sessions / training by departments: 3D design, programming, marketing and communication. Thanks to Andrei Dobrete for the explanations, guidance and support! Razvan, Antonio, Călin, Luca, Lara, Edi, Sebi and Alexia are the ones who will continue the story of BroBots.',
     cover:nouaechipa,
-     location: 
+    images:[],
+    location: 
       'Colegiul Național "Alexandru Lahovari"',
      location_en: 
       'National College "Alexandru Lahovari"',
