@@ -30,12 +30,12 @@ const NotFoundPage = () => {
     <main style={pageStyles}>
       <title>Not found</title>
       <h1 style={headingStyles}>NU MAI CHIULI GOLANE</h1>
+// Sorry{' '}
+ //<span role='img' aria-label='Pensive emoji'>
+  //  😔
       <p style={paragraphStyles}>
-       // Sorry{' '}
-        //<span role='img' aria-label='Pensive emoji'>
-        //  😔
+         Du te si citeste o carte ba copile.
         </span>{' '}
-        Du te si citeste o carte ba copile.
         <br />
         {process.env.NODE_ENV === 'development' ? (
           <>
@@ -44,8 +44,8 @@ const NotFoundPage = () => {
             <br />
           </>
         ) : null}
+   //go home
        <br />
-        //go home
         <Link to='/'>du te acas hai</Link>.
       </p>
     </main>
