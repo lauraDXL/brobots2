@@ -253,7 +253,149 @@ import bestp2 from '../assets/events/bestp2.jpg';
 import bestp3 from '../assets/events/bestp3.jpg';
 import bestp4 from '../assets/events/bestp4.jpg';
 import bestp5 from '../assets/events/bestp5.jpg';
+import sapt from '../assets/events/sapt2.jpg';
+import sapt1 from '../assets/events/sapt.jpg';
+import sapt2 from '../assets/events/sapt3.jpg';
+import sapt3 from '../assets/events/sapt4.jpg';
+import sapt4 from '../assets/events/sapt5.jpg';
+import it from '../assets/events/it.jpg';
+import it2 from '../assets/events/it2.jpg';
+import it3 from '../assets/events/it3.jpg';
+import scoli from '../assets/events/scoli.jpg';
+import scoli2 from '../assets/events/scoli2.jpg';
+import scoli3 from '../assets/events/scoli3.jpg';
+import scoli4 from '../assets/events/scoli4.jpg';
+import scoli5 from '../assets/events/scoli5.jpg';
+import nr10 from '../assets/events/nr10.jpg';
+import me from '../assets/events/me.jpg';
+import me2 from '../assets/events/me2.jpg';
+import me3 from '../assets/events/me3.jpg';
+import me4 from '../assets/events/me4.jpg';
+import me5 from '../assets/events/me5.jpg';
+import me6 from '../assets/events/me6.jpg';
+import igd from '../assets/events/igd.jpg';
+import igd2 from '../assets/events/igd2.jpg';
+import igd3 from '../assets/events/igd3.jpg';
+import igd4 from '../assets/events/igd4.jpg';
+import igd5 from '../assets/events/igd5.jpg';
+import igd6 from '../assets/events/igd6.jpg';
+import igd7 from '../assets/events/igd7.jpg';
+import igd8 from '../assets/events/igd8.jpg';
+import igd9 from '../assets/events/igd9.jpg';
+import igd10 from '../assets/events/igd10.jpg';
 export const events = [
+ {
+  title:
+  'BroBots Team - educație STEM și robotică',
+  title_en:
+  'BroBots Team - STEM and robotics education',
+  description:
+  'Astăzi ne-am aflat pentru două ore în mijlocul elevilor de clasa a 8-a de la Scoala Ioan Gh. Duca. Lara, Călin, Edi, Alexia și Rareș (voluntar în cadrul echipei) au fost reprezentanții echipei. Ei au vorbit despre educația STEM, despre concursul FIRST Tech Challenge Romania organizat de Natie Prin Educatie. Au prezentat tema competiției de anul acesta și au făcut o scurtă demonstrație cu robotul. Călin le-a explicat colegilor mai mici modul de construcție a robotului, le-a arătat componentele folosite. Prezentarea noastră s-a bucurat de interes lucru care nu poate decât să ne bucure. Mulțumim conducerii școlii și domnului profesor Ovidiu Ristea pentru sprijinul acordat în desfățurarea activității!',
+  description_en:
+  'Today we were among the 8th grade students from the Ioan Gh. Duca School for two hours. Lara, Călin, Edi, Alexia and Rareș (volunteer within the team) were the team representatives. They talked about STEM education, about the FIRST Tech Challenge Romania competition organized by Natie Prin Educatie. They introduced the theme of this year s competition and did a short demonstration with the robot. Călin explained to his younger colleagues how to build the robot, showed them the components used. Our presentation enjoyed interest, which can only make us happy. We would like to thank the school management and Professor Ovidiu Ristea for the support given in carrying out the activity!',
+  cover:igd,
+  images:[igd2, igd3,igd4,igd5,igd6,igd7,igd7,igd8,igd9,igd10],
+  location:
+  'Școala Gimnazială "I. Gh. Duca"',
+  location_en:
+  '"I. Gh. Duca" Secondary School',
+  date:
+  '8 Decembrie 2022',
+  date_en:
+  '8 December 2022',
+  key:'scoli_nr3',
+
+},
+
+{
+  title:
+  'BroBots Team - educație STEM și robotică',
+  title_en:
+  'BroBots Team - STEM and robotics education',
+  description:
+  'A doua întâlnire din acest sezon din cadrul proiectului nostru a avut loc astăzi la Şcoala Gimnazială " Mihai Eminescu", Rm. Vâlcea, România. Am fost bucuroși să ne întâlnim cu elevi ai clasei a 8-a cărora le-am povestit despre proiectul FIRST Tech Challenge Romania, despre tema competiției din acest sezon, despre ce înseamnă a fi membru într-o echipă de robotică. Lara, Călin și Edi au fost reprezentanții noștri la această întâlnire. Demonstrația cu robotul a fost punctul de atracție al prezentării noastre. Sperăm să le fi trezit interesul în ceea ce privește proiectele din domeniul STEM. Mulțumim conducerii școlii și doamnei profesor Tertereanu Danciu Aurelia pentru sprijinul acordat în organizarea evenimentului de astăzi!',
+  description_en:
+  'The second meeting of this season within our project took place today at "Mihai Eminescu" Secondary School, Rm. Vâlcea, Romania. We were happy to meet with 8th grade students to whom we told them about the FIRST Tech Challenge Romania project, about the theme of this season s competition, about what it means to be a member of a robotics team. Lara, Călin and Edi were our representatives at this meeting. The robot demonstration was the highlight of our presentation. We hope we have piqued their interest in STEM projects. We thank the school management and Professor Tertereanu Danciu Aurelia for their support in organizing today s event!',
+  images:[me,me2,me3,me4,me5,me6],
+  cover: nr10,
+  location:
+  'Școala Gimnazială "Mihai Eminescu"',
+  location_en:
+  '"Mihai Eminescu" Secondary School',
+  date:
+  '7 Decembrie 2022',
+  date_en:
+  '7 December 2022',
+  key:'scoli_nr2',
+},
+
+{
+  title:
+  'Proiectul BroBots Team - Educație STEM și robotică - sezonul 3',
+  title_en:
+  'The BroBots Team Project - STEM and Robotics Education - Season 3',
+  description:
+  'Astăzi am deschis seria întâlnirilor din acest sezon cu elevii din școlile generale. Proiectul nostru susținut în cadrul evenimentului Vâlcea Forest Run - 2020 se bucură în continuare de succes. Gazdele noastre au fost elevi ai clasei a 8-a de la Scoala Gimnaziala Nr.5 Ramnicu-Valcea. Răzvan, Călin, Lara și Edi le-au prezentat colegilor mai mici conceptul de educație STEM, proiectul FIRST Tech Challenge Romania organizat de Natie Prin Educatie, tema competiției din acest sezon și au făcut o demonstrație cu robotul construit de noi. Prezentarea a trezit interesul participanților. Sperăm ca în viitor să aleagă și ei să fie parte a unor proiecte din domeniul STEM. Mulțumim conducerii școlii și doamnei profesor pentru sprijinul acordat în organizarea activității!',
+  description_en:
+  'Today we opened this season s series of meetings with students in general schools. Our project supported within the Vâlcea Forest Run - 2020 event continues to enjoy success. Our hosts were 8th grade students from Secondary School No. 5 Ramnicu-Valcea. Răzvan, Călin, Lara and Edi presented to their younger colleagues the concept of STEM education, the FIRST Tech Challenge Romania project organized by Natie Prin Educatie, the theme of this season s competition and did a demonstration with the robot we built. The presentation aroused the interest of the participants. We hope that in the future they will also choose to be part of STEM projects. We thank the school management and the teacher for their support in organizing the activity!',
+  images:[scoli2,scoli3,scoli4,scoli5],
+  cover: scoli,
+  location:
+  'Școala Gimnaziala Nr.5',
+  location_en:
+  'Nr.5 Secondary School',
+  date:
+  '6 Decembrie 2022',
+  date_en:
+  '6 December 2022',
+  key:'scoli_nr1',
+},
+
+  {
+    title:
+    'Săptămâna europeană a robotici',
+    title_en:
+    'European Robotics Week',
+    description:
+    'Astăzi, elevi pasionați de IT, robotică și tot ceea ce înseamnă tehnologie din liceul nostru au petrecut două ore în compania lui Marian Stoica - embedded engineer și alumn Lahovari (fost olimpic obținând în clasa a XI-a Premiul I la secțiunea robotică a Concursului InfoEducație  - faza națională iar în prezent face parte din comisia națională a acestui concurs). S-a vorbit despre robotică, despre proiecte IT, despre viața de student la Universitatea București, despre ce înseamnă să fi angajatul unei multinaționale. Marian a împărtășit cu noi și amintiri din perioada liceului. A fost o atmosferă plăcută, destinsă. Îi mulțumim pentru că a răspuns afirmativ invitației noastre și îl mai așteptăm alături de noi!',
+    description_en:
+    'Today, students passionate about IT, robotics and everything that means technology from our high school spent two hours in the company of Marian Stoica - embedded engineer and Lahovari alumnus (former Olympian, winning the 1st prize in the robotics section of the InfoEducation Competition in the 11th grade - the national phase and currently he is part of the national commission of this competition). They talked about robotics, about IT projects, about student life at the University of Bucharest, about what it means to be an employee of a multinational. Marian also shared with us memories from high school. It was a pleasant, relaxed atmosphere. We thank him for saying yes to our invitation and we are waiting for him with us!',
+    images:[it2,it3],
+    cover:it,
+    location: 
+    'Colegiul Național "Alexandru Lahovari"',
+    location_en: 
+    'National College "Alexandru Lahovari"',
+    date:
+    '25 Noiembrie 2022',
+    date_en:
+    '25 Noiembrie 2022',
+    key:'it_workshop',
+    
+  },
+ 
+ {
+  title:
+  'Săptămâna legumelor și a fructelor donate',
+  title_en:
+  'Week of donated vegetables and fruits',
+  description:
+  'Am decis să ne alăturăm și noi campaniei SNAC "Săptămâna legumelor și a fructelor donate" și împreună cu colegii noștri de la Colegiul Național "Alexandru Lahovari" am donat fructe și legume care vor ajunge la familii din parohia Jiblea Nouă aflate în dificultate. Ne bucurăm ori de câte ori putem ajuta.',
+  description_en:
+  'We decided to join the SNAC "Week of donated vegetables and fruits" campaign and together with our colleagues from the "Alexandru Lahovari" National College we donated fruits and vegetables that will reach families in the Jiblea Nouă parish who are in difficulty. We are happy whenever we can help.',
+   images:[sapt1, sapt2, sapt3, sapt4],
+   cover:sapt,
+   location: 
+  'Colegiul Național "Alexandru Lahovari"',
+  location_en: 
+  'National College "Alexandru Lahovari"',
+  date:
+  '23 Noiembrie 2022',
+  date_en:
+  '2e Noiembrie 2022',
+  key:'sapt_legumelor',
+},
+ 
  {
   title:
   'Târgul regional de știință Code Kids Fest 2022',
@@ -306,6 +448,8 @@ title_en:
 'BroBots Team supports the Științescu Fund 2.0 project',
 description:
 'Pentru că noi am beneficiat de finanțare din Fondul Științescu Vâlcea 1.0 pentru implementarea proiectului nostru - BroBotSTEAM și pentru că știm cât de important este ca astfel de proiecte să ajungă la cât mai mulți copii din județ vă rugăm să vă alăturați celor care susțin printr-o donație cât de mică constituirea acestui fond pentru o a doua ediție! Fundația Comunitară Vâlcea – Fondul Științescu Vâlcea 2.0 - https://bit.ly/VFR2022_Stiintescu .Vâlcea Forest Run este despre puterea lui #împreună! Vă invităm să susțineți o cauză fie prin alergare, fie printr-o donație! Chiar și un share contează! ',
+description_en:
+  'Because we benefited from funding from the Științescu Vâlcea 1.0 Fund for the implementation of our project - BroBotSTEAM and because we know how important it is for such projects to reach as many children as possible in the county, please join those who support through a how small a donation to build this fund for a second edition! Vâlcea Community Foundation - Științescu Vâlcea 2.0 Fund - https://bit.ly/VFR2022_Stiintescu . Vâlcea Forest Run is about the power of #together! We invite you to support a cause either by running or by donating! Even a share counts!',
 images: [vfr],
 cover:vfr,
 location:
