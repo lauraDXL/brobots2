@@ -239,7 +239,65 @@ import fundatiac from '../assets/events/fundatiacom.jpg';
 import fundatiac2 from '../assets/events/fundatiacom2.jpg';
 import fundatiac3 from '../assets/events/fundatiacom3.jpg';
 import vfr from '../assets/events/vfr.jpg';
+import vf from '../assets/events/vf.jpg';
+import vf2 from '../assets/events/vf2.jpg';
+import vf3 from '../assets/events/vf3.jpg';
+import vf4 from '../assets/events/vf4.jpg';
+import vf5 from '../assets/events/vf5.jpg';
+import halloween from '../assets/events/halloween.jpg';
+import hall from '../assets/events/hall3.jpg';
+import hall2 from '../assets/events/hall4.jpg';
+import hall3 from '../assets/events/hall5.jpg';
+import bestp from '../assets/events/bestp.jpg';
+import bestp2 from '../assets/events/bestp2.jpg';
+import bestp3 from '../assets/events/bestp3.jpg';
+import bestp4 from '../assets/events/bestp4.jpg';
+import bestp5 from '../assets/events/bestp5.jpg';
 export const events = [
+ {
+  title:
+  'Târgul regional de știință Code Kids Fest 2022.',
+  title_en:
+  'Code Kids Fest 2022 Regional Science Fair.',
+  description:
+  'Astăzi am participat în calitate de partener al Bibliotecii Județene "Antim Ivireanul" la Târgul regional de știință Code Kids Fest 2022. Am avut din nou ocazia să vedem proiecte interesante create de copiii din cluburile Code Kids care funcționează în bibliotecile publice din județele Vâlcea, Gorj și Hunedoara. Noi le-am prezentat celor prezenți la eveniment versiunea 1.0 a robotului cu care vom participa anul acesta la competiția First Tech Challenge organizată în România de Asociația Natie Prin Educatie. Demonstrația facută cu robotul a trezit interesul vizitatorilor. Ne-am bucurat să putem fi în mijlocul atâtor copii pasionați de științe și să le împărtășim din experiența noastră. Îi felicităm pe căștigătorii competiției și le urăm succes la faza națională!',
+  description_en:
+  'Today we participated as a partner of the "Antim Ivireanul" County Library at the Code Kids Fest 2022 regional science fair. We once again had the opportunity to see interesting projects created by the children from the Code Kids clubs that operate in the public libraries of Vâlcea, Gorj counties and Hunedoara. We presented to those present at the event version 1.0 of the robot with which we will participate this year in the First Tech Challenge competition organized in Romania by the Association of the Nation through Education. The demonstration with the robot aroused the interest of the visitors. We were happy to be able to be in the middle of so many children who are passionate about science and to share our experience with them. We congratulate the winners of the competition and wish them success in the national phase!',
+  images:[bestp2,bestp3,bestp4,bestp5],
+  cover: bestp,
+  location:
+  'Biblioteca Județeană "Antim Ivireanul" Vâlcea',
+  location_en:
+  '"Antim Ivireanul" County Library',
+  date:
+  '3 Noiembrie 2022',
+  date_en:
+  '3 November 2022',
+  key:'code_kids',
+},
+
+ 
+ {
+  title:
+  'Halloween team building',
+  title_en:
+  'Halloween team building ',
+  description:
+  'Ieri am sărbătorit în avans Halloween-ul printr-un team building. Am fost împreună membri ai echipei și voluntari, ne-am jucat, am povestit, am pictat asa-ziși dovleci (grapefruit). A fost fumos, am interacționat unii cu alții și iam reușit să ne cunoaștem mai bine. Happy Hallowen!',
+  description_en:
+  'Yesterday we celebrated Halloween in advance with a team building. We were team members and volunteers together, we played, we told stories, we painted so-called pumpkins (grapefruit). It was smoky, we interacted with each other and got to know each other better. Happy Halloween!',
+  cover: halloween,
+  images:[hall,hall2,hall3],
+  location: 
+  'Colegiul Național "Alexandru Lahovari"',
+  location_en: 
+  'National College "Alexandru Lahovari"',
+  date:
+  '28 Octombrie 2022',
+  date_en:
+  '28 October 2022',
+  key:'halloween_brobots',
+},
 
  {
 title:
@@ -314,8 +372,8 @@ key:'vfr_2022',
   'Astăzi am participat la Targul de știință care a marcat finalul proiectelor Științescu Valcea 1.0. A fost o bucurie să fim alături de alți tineri pasionați de știință, să împărtășim idei, să descoperim ce lucruri minunate s-au realizat în cadrul celor 15 proiecte. Alături de Răzvan, unul dintre coordonatorii proiectului nostru, s-au aflat Lara și Călin (voluntari în proiect) dar și micii noștri colegi din clasa a V-a participanți la școala de vară BroBoSTEAM (Odin și Robert). Odin și Robert au captat atenția vizitatorilor prin proiectele Arduino realizate de ei. Ne-a bucurat mult prezența la standul nostru a doamnei Inspector Școlar General Mihaela Andreianu care a urmărit cu interes prezentarea celor doi. Ca de obicei, alături de noi au fost și mentorii noștri: prof. Simona Ianc (BroBots Mentor), prof. Issabella Ştefania Cataragă - directorul colegiului nostru. Mulțumim celor care au avut încredere în noi! Mulțumim Fundaţia Comunitară Vȃlcea și Fondul Științescu Vâlcea! Mulțumim Gabriela Solomon și Oana Mesea! ',
   description_en:
   'Today we participated in the Science Fair that marked the end of the Științescu Valcea 1.0 projects. It was a joy to be with other young people passionate about science, to share ideas, to discover what wonderful things have been achieved within the 15 projects. Next to Răzvan, one of the coordinators of our project, were Lara and Călin (volunteers in the project) but also our little colleagues from the 5th grade participating in the BroBoSTEAM summer school (Odin and Robert). Odin and Robert captured the visitors attention with their Arduino projects. We were very pleased with the presence at our stand of Mrs. General School Inspector Mihaela Andreianu, who followed the presentation of the two with interest. As usual, our mentors were with us: Prof. Simona Ianc (BroBots Mentor), Prof. Issabella Ştefania Cataragă - the director of our college. Thank you to those who trusted us! We thank the Vălcea Community Foundation and the Șiințescu Vâlcea Fund! Thank you Gabriela Solomon and Oana Mesea!',
-  images:[proiectstiintescu2,proiectstiintescu6,proiectstiintescu5,proiectstiintescu4,proiectstiintescu3],
-  cover: proiectstiintescu,
+  images:[proiectstiintescu,proiectstiintescu6,proiectstiintescu5,proiectstiintescu4,proiectstiintescu3],
+  cover: proiectstiintescu2,
   date:
   '15 Septembrie 2022',
   date_en:
