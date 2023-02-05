@@ -234,7 +234,7 @@ import proiectstiintescu6 from '../assets/events/proiectstiintescu9.jpg';
 import rec from '../assets/events/rec4.jpg';
 import rec2 from '../assets/events/rec1.jpg';
 import rec3 from '../assets/events/rec3.jpg';
-import rec4 from 'src/assets/events/rec5.jpg';
+import rec4 from '../assets/events/rec5.jpg';
 import fundatiac from '../assets/events/fundatiacom.jpg';
 import fundatiac2 from '../assets/events/fundatiacom2.jpg';
 import fundatiac3 from '../assets/events/fundatiacom3.jpg';
