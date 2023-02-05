@@ -283,7 +283,158 @@ import igd7 from '../assets/events/igd7.jpg';
 import igd8 from '../assets/events/igd8.jpg';
 import igd9 from '../assets/events/igd9.jpg';
 import igd10 from '../assets/events/igd10.jpg';
+import scnr13 from '../assets/events/scnr13.jpg';
+import scnr1 from '../assets/events/scnr1.jpg';
+import scnr2 from '../assets/events/scnr2.jpg';
+import scnr3 from '../assets/events/scnr3.jpg';
+import scnr4 from '../assets/events/scnr4.jpg';
+import scnr5 from '../assets/events/scnr5.jpg';
+import arena from '../assets/events/brobotsarena.jpg';
+import arena2 from '../assets/events/brobotsarena2.jpg';
+import stiintescu20 from '../assets/events/stiintescu20.jpg';
+import stiintescu21 from '../assets/events/stiintescu21.jpg';
+import stiintescu22 from '../assets/events/stiintescu22.jpg';
+import stiintescu23 from '../assets/events/stiintescu23.jpg';
+import simpozion2023 from '../assets/events/simpozion.jpg';
+import budestisc from '../assets/events/budesti.jpg';
+import budestisc2 from '../assets/events/budesti2.jpg';
+import budestisc3 from '../assets/events/budesti3.jpg';
+import budestisc4 from '../assets/events/budesti4.jpg';
+import budestisc5 from '../assets/events/budesti5.jpg';
+import salatrucel from '../assets/events/salatrucel.jpg';
+import berislavesti from '../assets/events/berislavesti.jpg';
+import salatrucel2 from '../assets/events/salatrucel1.jpg';
+import salatrucel3 from '../assets/events/salatrucel3.jpg';
+import salatrucel4 from '../assets/events/salatrucel4.jpg';
+import salatrucel5 from '../assets/events/salatrucel5.jpg';
+import salatrucel6 from '../assets/events/salatrucel6.jpg';
 export const events = [
+ 
+ {
+  title:
+  'BroBotSTEAM - proiect Științescu - sustenabilitate',
+  title_en:
+  'BroBotSTEAM - Ştiinţescu project - sustainability',
+  description:
+  'Astăzi am avut bucuria să ne întâlnim cu elevi ai Școlii Gimnaziale Berislăvești și ai Școlii Gimnaziale Sălătrucel în cadrul atelierelor Arduino organizate de echipa noastră. Lara, Luca, Antonio și Alexia au fost cei care au captat atenția colegilor mai mici prin prezentările și aplicațiile realizate împreună cu ei. A fost din nou foarte plăcut să ne aflăm în rol de profesor, să ne adaptăm discursul la nivelul de înțelegere al participanților la întâlnirile avute. Proiectul BroBotSTEAM ne ajută să ne dezvoltăm abilități din domenii diverse. Suntem recunoscători celor care au adus la Vâlcea Fondul Științescu Vâlcea. Mulțumim conducerilor celor două școli pentru sprijin și încredere!',
+  description_en:
+  'Today we had the joy of meeting students from Berislăvești Secondary School and Sălătrucel Secondary School in the Arduino workshops organized by our team. Lara, Luca, Antonio and Alexia were the ones who captured the attention of their younger colleagues through the presentations and applications made together with them. It was again very pleasant to be in the role of a teacher, to adapt our speech to the level of understanding of the participants in the meetings held. The BroBotSTEAM project helps us develop skills in various fields. We are grateful to those who brought the Științescu Vâlcea Fund to Vâlcea. We thank the managements of the two schools for their support and trust!',
+  images:[berislavesti,salatrucel2,salatrucel3,salatrucel4,salatrucel5,salatrucel6],
+  cover:salatrucel,
+  location:
+  'Școala Gimnazială Berislăvești, Școala Gimnazială Sălătrucel',
+  location_en:
+  'Berislăvești Secondary School, Sălătrucel Secondary School',
+  date:
+  '2 Februarie 2023',
+  date_en:
+  '2 February 2023',
+  key:
+  'arduino_salatrucel',
+},
+ 
+{
+  title:
+  'BroBotSTEAM - proiect Științescu - sustenabilitate',
+  title_en:
+  'BroBotSTEAM - Ştiinţescu project - sustainability',
+  description:
+  'Continuăm să organizăm în școli din mediul rural ateliere cu scopul de a promova educația STEM și de a-i învăța pe colegii mai mici principiile de utilizare și programare a plăcuțelor Arduino. Ieri am fost la Școala Gimnazială Budești. Reprezentanții echipei au fost Lara, Luca și Sebi. Ne-am bucurat să vedem entuziasnul și dorinta de a învăța lucruri noi, de a învăța exprimentând a copiilor. Mulțumim conducerii școlii pentru sprijinul acordat în organizarea activității!',
+  description_en:
+  'We continue to organize workshops in rural schools to promote STEM education and teach younger students the principles of using and programming Arduino boards. Yesterday I went to Budești Secondary School. The team representatives were Lara, Luca and Sebi. We were happy to see the children s enthusiasm and desire to learn new things, to learn through experience. We thank the school management for their support in organizing the activity!',
+  cover:budestisc,
+  images:[budestisc2,budestisc3,budestisc4,budestisc5],
+  location:
+  'Școala Gimnazială Budești',
+  location_en:
+  'Budesti Secondary School',
+  date:
+  '2 Februarie 2023',
+  date_en:
+  '2 February 2023',
+  key:'arduino_budesti',
+},
+ {
+  title:
+  'Simpozionul interjudețean "TIC în învățământul preuniversitar"',
+  title_en:
+  'The inter-county symposium "TIC in pre-university education"',
+  description:
+  'BroBots Team se alătură profesorilor din catedra de informatică de la Colegiul Național "Alexandru Lahovari" în organizarea Simpozionului interjudețean "TIC în învățământul preuniversitar" care va avea loc în data de 11 februarie 2023. Mai multe informații găsiți pe site-ul colegiului: https://www.lahovari.com/.../simpozion-2023-tic-in-inv.../ . Vă așteptăm cu drag alături de noi la secțiunea dedicată elevilor!',
+  description_en:
+  'BroBots Team joins the professors of the computer science department at the "Alexandru Lahovari" National College in organizing the inter-county Symposium "ICT in pre-university education" which will take place on February 11, 2023. More information can be found on the college s website: https: //www.lahovari.com/.../sympozion-2023-tic-in-inv.../ . We look forward to seeing you with us in the section dedicated to students!',
+  cover:simpozion2023,
+  images:[],
+  location: 
+    'Colegiul Național "Alexandru Lahovari"',
+  location_en: 
+    'National College "Alexandru Lahovari"',
+  date:
+    '11 Februarie 2023',
+  date_en:
+    '11 Februarie 2023',
+  key:'simpozion_2023',
+},
+{
+  title:
+  'Științescu Vâlcea 2.0',
+  title_en:
+  'Științescu Vâlcea 2.0',
+  description:
+  'Astăzi, Lara și Sebi au fost reprezentanții noștri la evenimentul de lansare a Științescu Vâlcea 2.0 organizat de Fundaţia Comunitară Vȃlcea. Ei s-au aflat alături de alți oameni pasionați de tot ceea ce înseamnă STEM și dornici să aducă acest concept mai aproape de cât mai mulți copii și tineri din județul nostru. S-a vorbit despre proiectele finanțate din Fondul Științescu Vâlcea 1.0, s-au schițat planuri pentru viitoare proiecte, s-au lansat invitații pentru organizarea de ateliere Arduino în continuarea proiectului nostru. Ne bucurăm că am putut fi prezenți la acest eveniment și mulțumim celor de la Fundaţia Comunitară Vȃlcea pentru invitație! Împreună aducem viitorul mai aproape!',
+  description_en:
+  'Today, Lara and Sebi were our representatives at the launch event of Științescu Vâlcea 2.0 organized by the Vȃlcea Community Foundation. They were together with other people passionate about everything STEM means and eager to bring this concept closer to as many children and young people in our county as possible. They talked about the projects financed by the Științescu Vâlcea 1.0 Fund, plans were drawn up for future projects, invitations were issued for the organization of Arduino workshops in continuation of our project. We are glad that we could be present at this event and thank those from the Valcea Community Foundation for the invitation! Together we bring the future closer!',
+  images:[stiintescu21,stiintescu22,stiintescu23],
+  cover: stiintescu20,
+  location:
+  'Fundaţia Comunitară Vȃlcea',
+  location_en:
+  'Valcea Community Foundation',
+  date:''
+},
+{
+  title:
+  'BroBots Arena - 7 ianuarie 2023',
+  title_en:
+  'BroBots Arena - January 7, 2023',
+  description:
+  'Mai sunt câteva zile până când ne vom întâlni la primul demo organizat de echipa noastră. Vă așteptăm cu drag la Râmnicu Vâlcea!',
+  description_en:
+  'There are still a few days until we meet at the first demo organized by our team. We look forward to welcoming you to Râmnicu Vâlcea!',
+  cover:arena,
+  images:[arena,arena2],
+  location: 
+    'Colegiul Național "Alexandru Lahovari"',
+  location_en: 
+    'National College "Alexandru Lahovari"',
+  date:
+    '7 Ianuarie 2023',
+  date_en:
+    '7 January 2023',
+  key:'brobots_arena',
+    
+  },
+{
+  title:
+  'BroBots Team - educație STEM și robotică',
+  title_en:
+  'BroBots Team - STEM and robotics education',
+  description:
+  '19 decembrie 2022, o altă întâlnire din cadrul proiectului nostru. Gazde ne-au fost elevi ai Școlii Gimnaziale Nr. 13  din Râmnicu Vâlcea. Lara, Câlin, Edi și David (voluntar al echipei noastre) au fost cei care ne-au reprezentat de data aceasta. Au fost însoțiți și de Andrei-Cosmin Toma (co-mentor al echipei și membru fondator BroBots). Ca de obicei, colegii noștri au prezentat conceptul de educație STEM, au povestit despre proiectul FIRST Tech Challenge Romania și despre tema acestui sezon. Toate acestea precum și emonstrația făcută cu robotul sperăm să le fi trezit curiozitatea și dorința de a se implica și ei în proiecte STEM. Mulțumim conducerii școlii, doamnei director Daniela Busuroi pentru sprijinul acordat în organizarea activității!',
+  description_en:
+  'December 19, 2022, another meeting within our project. Our hosts were students of Secondary School No. 13 from Râmnicu Vâlcea. Lara, Câlin, Edi and David (volunteer of our team) were the ones who represented us this time. They were also accompanied by Andrei-Cosmin Toma (co-mentor of the team and founding member of BroBots). As usual, our colleagues presented the concept of STEM education, told about the FIRST Tech Challenge Romania project and the theme of this season. All this, as well as the demonstration with the robot, we hope have awakened their curiosity and desire to get involved in STEM projects. We thank the school management, Mrs. Daniela Busuroi, for the support given in organizing the activity!',
+  cover:scnr13,
+  images:[scnr1,scnr2,scnr3,scnr4,scnr5],
+  location:
+  "Școala Gimnazială Nr.13",
+  location:
+  'Nr.13 Secondary School',
+  date:
+  '19 Decembrie 2022',
+  date_en:
+  '19 December 2022',
+  key:'scoli_nr4',
+},
  {
   title:
   'BroBots Team - educație STEM și robotică',
