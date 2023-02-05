@@ -266,7 +266,7 @@ import scoli2 from '../assets/events/scoli2.jpg';
 import scoli3 from '../assets/events/scoli3.jpg';
 import scoli4 from '../assets/events/scoli4.jpg';
 import scoli5 from '../assets/events/scoli5.jpg';
-import nr101 from '../assets/events/nr10.jpg';
+import MIHAIE from '../assets/events/nr10.jpg';
 import me from '../assets/events/me.jpg';
 import me2 from '../assets/events/me2.jpg';
 import me3 from '../assets/events/me3.jpg';
@@ -317,7 +317,7 @@ export const events = [
   description_en:
   'The second meeting of this season within our project took place today at "Mihai Eminescu" Secondary School, Rm. Vâlcea, Romania. We were happy to meet with 8th grade students to whom we told them about the FIRST Tech Challenge Romania project, about the theme of this season s competition, about what it means to be a member of a robotics team. Lara, Călin and Edi were our representatives at this meeting. The robot demonstration was the highlight of our presentation. We hope we have piqued their interest in STEM projects. We thank the school management and Professor Tertereanu Danciu Aurelia for their support in organizing today s event!',
   images:[me,me2,me3,me4,me5,me6],
-  cover: nr101,
+  cover: MIHAIE,
   location:
   'Școala Gimnazială "Mihai Eminescu"',
   location_en:
