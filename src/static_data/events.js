@@ -199,12 +199,70 @@ import sc22 from '../assets/events/sc22.jpg';
 import sc23 from '../assets/events/sc23.jpg';
 import sc24 from '../assets/events/sc24.jpg';
 import sc25 from '../assets/events/sc25.jpg';
+import ziua2 from '../assets/events/ziua2.jpg';
+import ziua21 from '../assets/events/ziua21.jpg';
+import ziua22 from '../assets/events/ziua22.jpg';
+import ziua23 from '../assets/events/ziua23.jpg';
+import ziua3 from '../assets/events/ziua3.jpg';
+import ziua31 from '../assets/events/ziua31.jpg';
+import ziua32 from '../assets/events/ziua32.jpg';
+import ziua33 from '../assets/events/ziua34.jpg';
 
 export const events = [
   
+  
+  
+  
+  
+  
   {
     title:
-    'Școala de vară BroBotSTEAM - seria II, Ziua 1',
+    'Școala de vară BroBotSTEAM - seria 2, ziua 3',
+    title_en:
+    'Școala de vară BroBotSTEAM - seria 2, ziua 3',
+    description:
+    'Final de Școală de vară. Ultima zi din seria 2 s-a desfășurat în aceeași atmosferă de entuziasm ca și cele precedente. Proiectele propuse de noi au trezit interesul participanților. A fost și pentru noi o experiență interesantă să ne aflăm în rol de profesor. Le mulțumim celor care au participat la Școala de vară pentru că au ales să petreacă alături de noi 3 zile din vacanță! Sperăm că ne vom reîntâlni la evenimentele pe care le vom organiza în viitor. Deși ne doream să fie în curtea școlii, poza de final de astăzi a fost făcută în laboratorul de informatică (din cauza ploii de afară). Proiectul BroBotSTEAM este finanțat prin Fondul Științescu Vâlcea, implementat de către Fundaţia Comunitară Vȃlcea, în parteneriat cu Romanian-American Foundation și  Federaţia Fundaţiile Comunitare din România - FFCR.',
+    description_en:
+    'End of Summer School. The last day of series 2 was held in the same atmosphere of excitement as the previous ones. The projects proposed by us aroused the interest of the participants. It was also an interesting experience for us to be in the role of a teacher. We thank those who participated in the Summer School for choosing to spend 3 days of their vacation with us! We hope to see you again at future events. Although we wanted it to be in the schoolyard, today s final picture was taken in the computer lab (because of the rain outside).The BroBotSTEAM project is financed by the Științescu Vâlcea Fund, implemented by the Vȃlcea Community Foundation, in partnership with the Romanian-American Foundation and the Federation of Community Foundations in Romania - FFCR.',
+    images:[ziua31,ziua32,ziua33],
+    cover: ziua3,
+     location: 
+      'Colegiul Național "Alexandru Lahovari"',
+     location_en: 
+      'National College "Alexandru Lahovari"',
+      date:
+        '10 August 2022',
+      date_en:
+       '10 August 2022',
+  key:'scoaladevara_finser2',
+  }, 
+  
+  
+  {
+    title:
+    'Școala de vară BroBotSTEAM - seria 2, ziua 2',
+    title_en:
+    'BroBotSTEAM Summer School - Series 2, Day 2',
+    description:
+    'Bucurie, entuziasm, dorință de a învăța lucruri noi. Sunt caracteristicile celei de-a doua zile a Școlii de vară. Astăzi a fost alături de noi și un alumn BroBots foarte drag nouă Andrei-Cosmin Toma (care este și co-mentor al echipei). Proiectul BroBotSTEAM este finanțat prin Fondul Științescu Vâlcea , implementat de către Fundaţia Comunitară Vȃlcea, în parteneriat cu  Romanian-American Foundation  și  Federaţia Fundaţiile Comunitare din România - FFCR.',
+    description_en:
+    'Joy, enthusiasm, desire to learn new things. These are the features of the second day of the Summer School. Today we were also joined by a very dear BroBots alumnus, Andrei-Cosmin Toma (who is also the team s co-mentor). The BroBotSTEAM project is financed by the Științescu Vâlcea Fund, implemented by the Vȃlcea Community Foundation, in partnership with the Romanian-American Foundation and the Federation of Community Foundations in Romania - FFCR.',
+    images:[ziua21,ziua22,ziua23],
+    cover: ziua2,
+     location: 
+      'Colegiul Național "Alexandru Lahovari"',
+     location_en: 
+      'National College "Alexandru Lahovari"',
+      date:
+        '9 August 2022',
+      date_en:
+       '9 August 2022',
+  key:'scoaladevara_ser2',
+  },
+  
+  {
+    title:
+    'Școala de vară BroBotSTEAM - Seria II, Ziua 1',
     title_en:
     'BroBotSTEAM Summer School - Series II, Day 1',
     description:
