@@ -23,9 +23,77 @@ import sc_sambata from '../assets/events/sc_sambata.png';
 import sc_sambata2 from '../assets/events/sc_sambata2.png';
 
 
-export const events = [
+import sc_vara from '../assets/events/scoala_vara.png';
+import sis_microp from 'src/assets/events/curier.png';
+import sis_microp2 from '../assets/events/curier2.png';
 
+
+import radio from '../assets/events/radioromania.jpg';
+import radio2 from '../assets/events/radioromania2.jpg'
+import radio3 from '../assets/events/radioromania3.jpg';
+import radio4 from '../assets/events/radioromania5.jpg';
+export const events = [
 	
+{	
+title:
+	'BroBots Team la Radio România Actualități',
+title_en:
+	'BroBots Team at Radio Romania News',
+description:
+	'Sâmbătă, 17 decembrie 2022, la emisiunea Internet Cafe a fost difuzat interviul acordat de echipa noastră doamnei Ana-Maria Cârstea - corespondent Radio România Actualități în județul Vâlcea. Râzvan, Lara, Sebi și Antonio au vorbit despre proiectul BroBots - educație STEM și robotică pe care îl derulăm în școlile din județul nostru, despre robotică, despre rolul proiectelor STEM în dezvoltarea tinerilor. Mulțumim doamnei Ana Maria Carstea pentru oportunitatea oferită!',
+description_en:
+	'On Saturday, December 17, 2022, on the Internet Cafe show, the interview given by our team to Mrs. Ana-Maria Cârstea - Radio Romania News correspondent in Vâlcea county was broadcast. Râzvan, Lara, Sebi and Antonio spoke about the BroBots project - STEM and robotics education that we run in the schools of our county, about robotics, about the role of STEM projects in the development of young people. We thank Mrs. Ana Maria Carstea for the opportunity offered!',
+cover:radio,
+images:[radio2,radio3,radio4],
+date:
+	'17 Decembrie 2022',
+date_en:
+	'17 Decembrie 2022',	
+location_en:
+	'Radio appearance',
+location:
+	'Apariție radio',
+link:"https://www.facebook.com/romaniaactualitati/posts/pfbid02WDANBCD3fiXuNZrXsEh9Hj4249LkkW283JDQ1XeEJcJfg8gPSKY3eXHUxxra4xtal",
+key:'radio_romania',
+},	
+{
+	title:
+	'Apariție în "Curierul de Vâlcea"',
+	title_en:
+	'Appearance in "Curierul de Vâlcea',
+	description:
+	'Weekend-ul trecut, la Colegiul Național „Alexandru Lahovari” din Râmnicu Vâlcea s-a desfășurat workshop-ul «Sisteme cu microprocesoare», organizat de Asociația „Alexandru Lahovari” și echipa de robotică a colegiului – BroBots. Evenimentul și-a propus familiarizarea participanților cu concepte ale sistemelor embedded și s-a adresat elevilor de liceu care au cunoștințe elementare de informatică/TIC.',
+	description_en:
+	'Last weekend, at the "Alexandru Lahovari" National College in Râmnicu Vâlcea, the "Microprocessor Systems" workshop was held, organized by the "Alexandru Lahovari" Association and the college s robotics team - BroBots. The event aimed to familiarize the participants with concepts of embedded systems and was addressed to high school students who have elementary knowledge of informatics/TIC',
+	cover:sis_microp,
+	images:[sis_microp,sis_microp2],
+	date:'13 Septembrie 2022',
+	date_en:'13 September 2022',
+	location_en:'Newspaper appearance',
+	location:'Apariție ziar',
+	key:'sis_microp',
+	link:"http://www.curierul.ro/sisteme-cu-microprocesoare-eveniment-finantat-meet-and-code-la-c-n-alexandru-lahovari/",
+},
+	
+	
+{
+	title:
+	'Apariție în "Curierul de Vâlcea"',
+	title_en:
+	'Appearance in "Curierul de Vâlcea',
+	description:
+	'Echipa de robotică a Colegiului Național „Alexandru Lahovari” – BroBots organizează, în perioada iulie-august 2022, Școala de vară BroBotSTEAM (ateliere interactive de Arduino și robotică). Aceasta este a doua etapă a implementării proiectului BroBotSTEAM, proiect care a obținut finanțare din Fondul Științescu Vâlcea în urma participării la concursul de selecție desfășurat în luna martie 2022. Organizatorii acestui proiect își propun să promoveze conceptul de educație STEM prin organizarea de ateliere interactive pentru elevii din mediul urban și rural, ateliere în cadrul cărora sunt realizate proiecte interdisciplinare folosind plăcuțe de dezvoltare Arduino. În cadrul atelierelor elevii au la dispoziție plăcuțe și kit-uri cu senzori cu ajutorul cărora realizează individual proiecte sub îndrumarea elevilor din echipa de robotică.',
+	description_en:
+	'The robotics team of the "Alexandru Lahovari" National College - BroBots is organizing, during July-August 2022, the BroBotSTEAM Summer School (interactive Arduino and robotics workshops). This is the second stage of the implementation of the BroBotSTEAM project, a project that obtained funding from the Științescu Vâlcea Fund following participation in the selection contest held in March 2022. The organizers of this project aim to promote the concept of STEM education by organizing interactive workshops for students from the urban and rural environment, workshops in which interdisciplinary projects are carried out using Arduino development boards. In the workshops, the students have at their disposal plates and kits with sensors with which they carry out individual projects under the guidance of the students from the robotics team.',
+	cover:sc_vara,
+	images:[sc_vara],
+	date:'19 Iulie 2022',
+	date_en:'19 July 2022',
+	location_en:'Newspaper appearance',
+	location:'Apariție ziar',
+	link:"http://www.curierul.ro/scoala-de-vara-brobotsteam-la-colegiul-national-alexandru-lahovari/",
+	key:'scde_vara',
+},
 	
 {
     title:
