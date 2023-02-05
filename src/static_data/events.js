@@ -319,7 +319,7 @@ export const events = [
   'Astăzi am avut bucuria să ne întâlnim cu elevi ai Școlii Gimnaziale Berislăvești și ai Școlii Gimnaziale Sălătrucel în cadrul atelierelor Arduino organizate de echipa noastră. Lara, Luca, Antonio și Alexia au fost cei care au captat atenția colegilor mai mici prin prezentările și aplicațiile realizate împreună cu ei. A fost din nou foarte plăcut să ne aflăm în rol de profesor, să ne adaptăm discursul la nivelul de înțelegere al participanților la întâlnirile avute. Proiectul BroBotSTEAM ne ajută să ne dezvoltăm abilități din domenii diverse. Suntem recunoscători celor care au adus la Vâlcea Fondul Științescu Vâlcea. Mulțumim conducerilor celor două școli pentru sprijin și încredere!',
   description_en:
   'Today we had the joy of meeting students from Berislăvești Secondary School and Sălătrucel Secondary School in the Arduino workshops organized by our team. Lara, Luca, Antonio and Alexia were the ones who captured the attention of their younger colleagues through the presentations and applications made together with them. It was again very pleasant to be in the role of a teacher, to adapt our speech to the level of understanding of the participants in the meetings held. The BroBotSTEAM project helps us develop skills in various fields. We are grateful to those who brought the Științescu Vâlcea Fund to Vâlcea. We thank the managements of the two schools for their support and trust!',
-  images:[berislavesti,salatrucel2,salatrucel3,salatrucel4,salatrucel5,salatrucel6],
+  images:[berislavesti,salatrucel2,salatrucel4,salatrucel5,salatrucel6],
   cover:salatrucel,
   location:
   'Școala Gimnazială Berislăvești, Școala Gimnazială Sălătrucel',
@@ -384,13 +384,17 @@ export const events = [
   'Astăzi, Lara și Sebi au fost reprezentanții noștri la evenimentul de lansare a Științescu Vâlcea 2.0 organizat de Fundaţia Comunitară Vȃlcea. Ei s-au aflat alături de alți oameni pasionați de tot ceea ce înseamnă STEM și dornici să aducă acest concept mai aproape de cât mai mulți copii și tineri din județul nostru. S-a vorbit despre proiectele finanțate din Fondul Științescu Vâlcea 1.0, s-au schițat planuri pentru viitoare proiecte, s-au lansat invitații pentru organizarea de ateliere Arduino în continuarea proiectului nostru. Ne bucurăm că am putut fi prezenți la acest eveniment și mulțumim celor de la Fundaţia Comunitară Vȃlcea pentru invitație! Împreună aducem viitorul mai aproape!',
   description_en:
   'Today, Lara and Sebi were our representatives at the launch event of Științescu Vâlcea 2.0 organized by the Vȃlcea Community Foundation. They were together with other people passionate about everything STEM means and eager to bring this concept closer to as many children and young people in our county as possible. They talked about the projects financed by the Științescu Vâlcea 1.0 Fund, plans were drawn up for future projects, invitations were issued for the organization of Arduino workshops in continuation of our project. We are glad that we could be present at this event and thank those from the Valcea Community Foundation for the invitation! Together we bring the future closer!',
-  images:[stiintescu21,stiintescu22,stiintescu23],
+  images:[stiintescu21,stiintescu22],
   cover: stiintescu20,
   location:
   'Fundaţia Comunitară Vȃlcea',
   location_en:
   'Valcea Community Foundation',
-  date:''
+  date:
+ '17 Ianuarie 2023',
+  date_en:
+ '17 January 2023',
+ key:'fundatie_20',
 },
 {
   title:
@@ -402,7 +406,7 @@ export const events = [
   description_en:
   'There are still a few days until we meet at the first demo organized by our team. We look forward to welcoming you to Râmnicu Vâlcea!',
   cover:arena,
-  images:[arena,arena2],
+  images:[],
   location: 
     'Colegiul Național "Alexandru Lahovari"',
   location_en: 
