@@ -207,13 +207,59 @@ import ziua3 from '../assets/events/ziua3.jpg';
 import ziua31 from '../assets/events/ziua31.jpg';
 import ziua32 from '../assets/events/ziua32.jpg';
 import ziua33 from '../assets/events/ziua34.jpg';
-
+import nouaechipa from '../assets/events/echipa_noua2.jpg';
+import nouaechipa2 from '../assets/events/echipa_noua.jpg';
+import fundatie from '../assets/events/fundatie5.jpg';
+import fundatie2 from '../assets/events/fundatie.jpg';
+import fundatie3 from '../assets/events/fundatie3.jpg';
+import fundatie4 from '../assets/events/fundatie4.jpg';
+import fundatie5 from '../assets/events/fundatie7.jpg';
 export const events = [
   
+  {
+    title:
+    'BroBots în comunitate',
+    title_en:
+    'BroBots in the community',
+    description:
+    'Și din nou despre implicare în comunitate - Băile Olănești Sports Event 2022 - #together #разом - eveniment sportiv de alergare, de inițiere în orientare si jocuri pentru copii organizat de Fundaţia Comunitară Vȃlcea. Ne-am alăturat înițiativei oamenilor minunați de la Fundaţia Comunitară Vȃlcea (care au fost mereu alături de noi) de a veni în sprijinul copiilor ucraineni de la Vâlcea astfel încât să își facă prieteni noi și să se integreze mai ușor în locul în care vor merge curând la școală. Razvan Mutuleasa, Lara și Calin - membri BroBots au petrecut o frumoasă zi de vacanță alături de acești copii.',
+    description_en:
+    'And again about involvement in the community - Băile Olănești Sports Event 2022 - #together #разом - sports event of running, orientation initiation and games for children organized by the Vȃlcea Community Foundation. We joined the initiative of the wonderful people from the Vălcea Community Foundation (who have always been with us) to support the Ukrainian children from Vâlcea so that they can make new friends and integrate more easily in the place where they will go soon at school Razvan Mutuleasa, Lara and Calin - BroBots members spent a beautiful holiday day with these children.',
+    images:[fundatie2,fundatie3,fundatie4,fundatie5],
+    cover: fundatie,
+    location:
+    'Băile Olănești',
+    location_en:
+    'Băile Olănești',
+    date:
+    '18 August 2022',
+    date_en:
+    '18 August 2022',
+    key:'brobots_comunitate',
+    
+  },
   
-  
-  
-  
+  { 
+    title:
+    'Noul Sezon First Tech Challenge',
+    title_en:
+    'New First Tech Challenge Season',
+    description:
+    'BroBots Team începe pregătirile pentru noul sezon BRD FIRST Tech Challenge Romania. Într-o componență aproape în totalitate nouă, astăzi am avut o primă întâlnire. Alături de noi a fost Andi (Andrei Dobrete) - proaspăt alumn BroBots. După o prezentare generală făcută de Razvan Mutuleasa cel care va fi team-leader-ul echipei în sezonul care va începe în curând, au urmat sesiuni de lucru / instruire pe departamente: proiectare 3D, programare, marketing și comunicare. Mulțumim Andrei Dobrete pentru explicații, îndrumare și suport!Răzvan, Antonio, Călin, Luca, Lara, Edi, Sebi și Alexia sunt cei care vor duce mai departe povestea BroBots.',
+    description_en:
+    'BroBots Team starts preparations for the new BRD FIRST Tech Challenge Romania season. In an almost entirely new composition, today we had a first meeting. With us was Andi (Andrei Dobrete) - recent BroBots alum. After a general presentation by Razvan Mutuleasa, who will be the team-leader of the team in the season that will start soon, there followed work sessions / training by departments: 3D design, programming, marketing and communication. Thanks to Andrei Dobrete for the explanations, guidance and support! Razvan, Antonio, Călin, Luca, Lara, Edi, Sebi and Alexia are the ones who will continue the story of BroBots.',
+    images: [nouaechipa],
+    cover: nouaechipa2,
+     location: 
+      'Colegiul Național "Alexandru Lahovari"',
+     location_en: 
+      'National College "Alexandru Lahovari"',
+      date:
+        '16 August 2022',
+      date_en:
+       '16 August 2022',
+  key:'newftc_season',
+  }, 
   
   {
     title:
@@ -262,7 +308,7 @@ export const events = [
   
   {
     title:
-    'Școala de vară BroBotSTEAM - Seria II, Ziua 1',
+    'Școala de vară BroBotSTEAM - seria II, ziua 1',
     title_en:
     'BroBotSTEAM Summer School - Series II, Day 1',
     description:
