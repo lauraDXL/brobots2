@@ -256,14 +256,14 @@ import bestp5 from '../assets/events/bestp5.jpg';
 export const events = [
  {
   title:
-  'Târgul regional de știință Code Kids Fest 2022.',
+  'Târgul regional de știință Code Kids Fest 2022',
   title_en:
   'Code Kids Fest 2022 Regional Science Fair.',
   description:
   'Astăzi am participat în calitate de partener al Bibliotecii Județene "Antim Ivireanul" la Târgul regional de știință Code Kids Fest 2022. Am avut din nou ocazia să vedem proiecte interesante create de copiii din cluburile Code Kids care funcționează în bibliotecile publice din județele Vâlcea, Gorj și Hunedoara. Noi le-am prezentat celor prezenți la eveniment versiunea 1.0 a robotului cu care vom participa anul acesta la competiția First Tech Challenge organizată în România de Asociația Natie Prin Educatie. Demonstrația facută cu robotul a trezit interesul vizitatorilor. Ne-am bucurat să putem fi în mijlocul atâtor copii pasionați de științe și să le împărtășim din experiența noastră. Îi felicităm pe căștigătorii competiției și le urăm succes la faza națională!',
   description_en:
   'Today we participated as a partner of the "Antim Ivireanul" County Library at the Code Kids Fest 2022 regional science fair. We once again had the opportunity to see interesting projects created by the children from the Code Kids clubs that operate in the public libraries of Vâlcea, Gorj counties and Hunedoara. We presented to those present at the event version 1.0 of the robot with which we will participate this year in the First Tech Challenge competition organized in Romania by the Association of the Nation through Education. The demonstration with the robot aroused the interest of the visitors. We were happy to be able to be in the middle of so many children who are passionate about science and to share our experience with them. We congratulate the winners of the competition and wish them success in the national phase!',
-  images:[bestp2,bestp3,bestp4,bestp5],
+  images:[bestp2,bestp3,bestp4],
   cover: bestp,
   location:
   'Biblioteca Județeană "Antim Ivireanul" Vâlcea',
