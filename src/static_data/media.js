@@ -24,7 +24,7 @@ import sc_sambata2 from '../assets/events/sc_sambata2.png';
 
 
 import sc_vara from '../assets/events/scoala_vara.png';
-import sis_microp from 'src/assets/events/curier.png';
+import sis_microp from '../assets/events/curier.png';
 import sis_microp2 from '../assets/events/curier2.png';
 
 
