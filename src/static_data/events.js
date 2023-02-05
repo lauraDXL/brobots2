@@ -215,12 +215,234 @@ import fundatie4 from '../assets/events/fundatie4.jpg';
 import fundatie5 from '../assets/events/fundatie7.jpg';
 import microproc from '../assets/events/microproc.png';
 import meetandcode from '../assets/events/meetandcode.png';
-
-
-
+import mproc from '../assets/events/mproc.jpg';
+import mproc2 from '../assets/events/mproc2.jpg';
+import mproc3 from '../assets/events/mproc3.jpg';
+import mproc4 from '../assets/events/mproc4.jpg';
+import mproc5 from '../assets/events/mproc5.jpg';
+import mproc6 from '../assets/events/mproc6.jpg';
+import mproc7 from '../assets/events/mproc7.jpg';
+import mproc8 from '../assets/events/mproc8.jpg';
+import mproc9 from '../assets/events/mproc9.jpg';
+import grup from '../assets/events/GRUP.jpg';
+import proiectstiintescu from '../assets/events/proiectstiintescu6.jpg';
+import proiectstiintescu2 from '../assets/events/proiectstiintescu.jpg';
+import proiectstiintescu3 from '../assets/events/proiectstiintescu3.jpg';
+import proiectstiintescu4 from '../assets/events/proiectstiintescu5.jpg';
+import proiectstiintescu5 from '../assets/events/proiectstiintescu7.jpg';
+import proiectstiintescu6 from '../assets/events/proiectstiintescu9.jpg';
+import rec from '../assets/events/rec4.jpg';
+import rec2 from '../assets/events/rec1.jpg';
+import rec3 from '../assets/events/rec3.jpg';
+import rec4 from 'src/assets/events/rec5.jpg';
+import fundatiac from '../assets/events/fundatiacom.jpg';
+import fundatiac2 from '../assets/events/fundatiacom2.jpg';
+import fundatiac3 from '../assets/events/fundatiacom3.jpg';
+import vfr from '../assets/events/vfr.jpg';
 export const events = [
+
+ {
+title:
+'BroBots Team susține proiectul Fondul Științescu 2.0',
+title_en:
+'BroBots Team supports the Științescu Fund 2.0 project',
+description:
+'Pentru că noi am beneficiat de finanțare din Fondul Științescu Vâlcea 1.0 pentru implementarea proiectului nostru - BroBotSTEAM și pentru că știm cât de important este ca astfel de proiecte să ajungă la cât mai mulți copii din județ vă rugăm să vă alăturați celor care susțin printr-o donație cât de mică constituirea acestui fond pentru o a doua ediție! Fundația Comunitară Vâlcea – Fondul Științescu Vâlcea 2.0 - https://bit.ly/VFR2022_Stiintescu .Vâlcea Forest Run este despre puterea lui #împreună! Vă invităm să susțineți o cauză fie prin alergare, fie printr-o donație! Chiar și un share contează! ',
+images: [vfr],
+cover:vfr,
+location:
+'Muzeul Satului Vâlcean, Bujoreni',
+location_en:
+'Vâlcean Village Museum, Bujoreni',
+date:
+'15-16 Octombrie 2022',
+date_en:
+'15-16 October 2022',
+key:'vfr_2022',
+},
+
+{
+  title:
+  'Fundația Comunitară Vâlcea',
+  title_en:
+  'Valcea Community Foundation',
+  description:
+  'BroBots Team a avut reprezentanți la primul eveniment care a avut loc la Hub-ul educațional creat de Fundaţia Comunitară Vȃlcea. Lara și Sebi au fost prezenți acolo alături de oameni interesați de tot ceea ce înseamnă mediu. S-a discutat despre protejarea mediului și ce putem face fiecare dintre noi pentru natură, despre compost, despre risipă și cum putem combate asta. Așteptăm cu interes și viitoarele întâlniri!',
+  description_en:
+  'BroBots Team had representatives at the first event that took place at the educational Hub created by the Vȃlcea Community Foundation. Lara and Sebi were present there along with people interested in all things environment. It was discussed about protecting the environment and what each of us can do for nature, about compost, about waste and how we can combat it. We look forward to future meetings!',
+  cover: fundatiac,
+  images:fundatiac2,fundatiac3,
+  location:
+  'Hub-ul educațional Fundația Comunitară Vâlcea',
+  location_en:
+  'The Vâlcea Community Foundation educational hub',
+  date:
+  '4 Octombrie 2022',
+  date_en:
+  '4 October 2022',
+  key:'fcv_hub',
+},
  
-  
+{
+  title:
+  'Recrutări la BroBots Team',
+  title_en:
+  'BroBots Team Recruitment',
+  description:
+  'Ca la fiecare început de sezon competițional, astăzi am organizat o sesiune de interviuri pentru colegii noștri mai mici care își doresc să facă parte din echipa de robotică. Ne-am bucurat să putem discuta cu cei 25 de elevi care s-au înscris prin intermediul formularului pus la dispoziție de noi.  Cei care ne-au convins că merită să facă parte din echipa noastră vor fi admiși ca voluntari și vor avea ocazia să lucreze și să învețe alături de noi. Le mulțumim tuturor pentru participare!',
+  description_en:
+  'As with every competitive season start, today we organized an interview session for our younger colleagues who want to be part of the robotics team. We were happy to be able to talk to the 25 students who signed up through the form provided by us. Those who have convinced us that they deserve to be part of our team will be admitted as volunteers and will have the opportunity to work and learn with us. Thanks to everyone for participating!',
+  cover: rec4,
+  images: [rec,rec2,rec3],
+  location: 
+  'Colegiul Național "Alexandru Lahovari"',
+  location_en: 
+  'National College "Alexandru Lahovari"',
+  date:
+  '16 Septembrie 2022',
+  date_en:
+  '16 September 2022',
+  key:'recrutari_brobots',
+},
+
+{
+  title:
+  'Final de proiect Științescu - BroBotSTEAM',
+  title_en:
+  'Final project Științescu - BroBotSTEAM',
+  description:
+  'Astăzi am participat la Targul de știință care a marcat finalul proiectelor Științescu Valcea 1.0. A fost o bucurie să fim alături de alți tineri pasionați de știință, să împărtășim idei, să descoperim ce lucruri minunate s-au realizat în cadrul celor 15 proiecte. Alături de Răzvan, unul dintre coordonatorii proiectului nostru, s-au aflat Lara și Călin (voluntari în proiect) dar și micii noștri colegi din clasa a V-a participanți la școala de vară BroBoSTEAM (Odin și Robert). Odin și Robert au captat atenția vizitatorilor prin proiectele Arduino realizate de ei. Ne-a bucurat mult prezența la standul nostru a doamnei Inspector Școlar General Mihaela Andreianu care a urmărit cu interes prezentarea celor doi. Ca de obicei, alături de noi au fost și mentorii noștri: prof. Simona Ianc (BroBots Mentor), prof. Issabella Ştefania Cataragă - directorul colegiului nostru. Mulțumim celor care au avut încredere în noi! Mulțumim Fundaţia Comunitară Vȃlcea și Fondul Științescu Vâlcea! Mulțumim Gabriela Solomon și Oana Mesea! ',
+  description_en:
+  'Today we participated in the Science Fair that marked the end of the Științescu Valcea 1.0 projects. It was a joy to be with other young people passionate about science, to share ideas, to discover what wonderful things have been achieved within the 15 projects. Next to Răzvan, one of the coordinators of our project, were Lara and Călin (volunteers in the project) but also our little colleagues from the 5th grade participating in the BroBoSTEAM summer school (Odin and Robert). Odin and Robert captured the visitors attention with their Arduino projects. We were very pleased with the presence at our stand of Mrs. General School Inspector Mihaela Andreianu, who followed the presentation of the two with interest. As usual, our mentors were with us: Prof. Simona Ianc (BroBots Mentor), Prof. Issabella Ştefania Cataragă - the director of our college. Thank you to those who trusted us! We thank the Vălcea Community Foundation and the Șiințescu Vâlcea Fund! Thank you Gabriela Solomon and Oana Mesea!',
+  images:[proiectstiintescu2,proiectstiintescu6,proiectstiintescu5,proiectstiintescu4,proiectstiintescu3],
+  cover: proiectstiintescu,
+  date:
+  '15 Septembrie 2022',
+  date_en:
+  '15 September 2022',
+  location:
+  'Biblioteca Județeană "Antim Ivireanul" Vâlcea',
+  location_en:
+  '"Antim Ivireanul" County Library',
+  key:
+  'final_stiintescu1.0',
+},
+
+{
+  title:
+  'Final de eveniment Meet and Code',
+title_en:
+'Final Meet and Code event',
+description:
+'Astăzi a fost ultima zi a evenimentului nostru, Sisteme cu microprocesoare. Timpul a trecut foarte repede, am învățat multe lucruri noi și interesante. Marian Stoica, trainerul nostru din aceste două zile, a fost foarte deschis și ne-a oferit explicații ori de câte ori am avut neclarități. Îi mulțumim mult pentru tot ceea ce ne-a învățat! Și chiar dacă o parte dintre cursanți nu au putut fi prezenți până la final, am făcut deja obișnuita poză de final de eveniment în curtea colegiului. Le mulțumim tuturor celor care au fost alături de noi în acest weekend! Evenimentul nostru "Sisteme cu microprocesoare" a câștigat o finanțare prin programul Meet and Code (https://meet-and-code.org/) susținut la nivel european de compania de software SAP. În România, programul este coordonat pentru cel de-al 6-lea an consecutiv de #AsociațiaTechsoup și susține evenimente de tehnologie și programare aliniate cu misiunea inițiativei Comisiei Europene: Europe Code Week',
+description_en:
+'Today was the last day of our Microprocessor Systems event. Time passed very quickly, I learned many new and interesting things. Marian Stoica, our trainer for these two days, was very open and gave us explanations whenever we had uncertainties. We thank him very much for everything he taught us! And even if some of the students could not be present until the end, I already took the usual picture at the end of the event in the college yard. Thanks to everyone who joined us this weekend! Our event "Microprocessor Systems" won funding through the Meet and Code program (https://meet-and-code.org/) supported at European level by the software company SAP. In Romania, the program is coordinated for the 6th consecutive year by the #Techsoup Association and supports technology and programming events aligned with the mission of the European Commission initiative: Europe Code Week',
+cover: grup,
+images: [mproc7,mproc8,mproc6,mproc9],
+location: 
+'Colegiul Național "Alexandru Lahovari"',
+location_en: 
+'National College "Alexandru Lahovari"',
+date:
+'11 Septembrie 2022',
+date_en:
+'11 September 2022',
+key:'sisteme_microprocesoarefinal',
+},
+ 
+{
+  title:
+  'Eveniment Meet and Code la Colegiul Lahovari',
+  title_en:
+  'Meet and Code event at Lahovari College',
+  description:
+  'Prima zi de workshop  - Sisteme cu microprocesoare a adus mai aproape de participanți noțiunile de bază privind microprocesoarele iar aplicațiile cu plăcuțe Arduino au fost interesante și s-au bucurat de interesul tuturor. Noi, BroBots team, am avut dublu rol: organizatori și participanți la curs. Evenimentul acesta vine ca o continuare firească a proiectului Științescu - BroBotSTEAM. Aplicațiile realizate astăzi ne vor ajuta în continuarea proiectului Științescu. Ne dorim să învățăm lucruri noi, să realizăm proiecte Arduino din ce în ce mai complexe. Îi mulțumim mult lui Marian Stoica - alumn Lahovari care astăzi a revenit la Colegiul Lahovari în calitate de trainer. Îi mulțumim doamnei director Issabella Ştefania Cataragă care a fost alături de noi! Le mulțumim mentorilor noștri (Simona Ianc (BroBots Mentor), Issabella Ştefania Cataragă și Andrei-Cosmin Toma) care ne sprijină în tot ceea ce facem! Le mulțumim tuturor celor care au ales să participe la evenimentul organizat de noi! Evenimentul nostru "Sisteme cu microprocesoare" a câștigat o finanțare prin programul Meet and Code (https://meet-and-code.org/) susținut la nivel european de compania de software SAP. În România, programul este coordonat pentru cel de-al 6-lea an consecutiv de #AsociațiaTechsoup și susține evenimente de tehnologie și programare aliniate cu misiunea inițiativei Comisiei Europene: Europe Code Week. #meetandcode #codeEU #SAP4Good',
+  description_en:
+  'The first day of the workshop - Systems with microprocessors brought the basic notions of microprocessors closer to the participants and the applications with Arduino boards were interesting and enjoyed the interest of everyone. We, the BroBots team, had a dual role: organizers and course participants. This event comes as a natural continuation of the Științescu - BroBotSTEAM project. The applications made today will help us in the continuation of the Șiințescu project. We want to learn new things, make more and more complex Arduino projects. Many thanks to Marian Stoica - Lahovari alumnus who today returned to Lahovari College as a trainer. We thank the director Issabella Ştefania Cataragă who was with us! We thank our mentors (Simona Ianc (BroBots Mentor), Issabella Ştefania Cataragă and Andrei-Cosmin Toma) who support us in everything we do! We thank everyone who chose to participate in the event organized by us! Our event "Microprocessor Systems" won funding through the Meet and Code program (https://meet-and-code.org/) supported at European level by the software company SAP. In Romania, the program is coordinated for the 6th consecutive year by the #Techsoup Association and supports technology and programming events aligned with the mission of the European Commission initiative: Europe Code Week.',
+  images: [mproc5,mproc2,mproc4,mproc3],
+  cover: mproc,
+  location: 
+  'Colegiul Național "Alexandru Lahovari"',
+ location_en: 
+  'National College "Alexandru Lahovari"',
+  date:
+  '10 Septembrie 2022',
+  date_en:
+  '10 September 2022',
+  key:'sisteme_microprocesoare',
+},
+
+ {
+  title:
+  'Final de proiect Științescu - BroBotSTEAM',
+  title_en:
+  'Final project Științescu - BroBotSTEAM',
+  description:
+  'Astăzi am participat la Targul de știință care a marcat finalul proiectelor Științescu Valcea 1.0. A fost o bucurie să fim alături de alți tineri pasionați de știință, să împărtășim idei, să descoperim ce lucruri minunate s-au realizat în cadrul celor 15 proiecte. Alături de Răzvan, unul dintre coordonatorii proiectului nostru, s-au aflat Lara și Călin (voluntari în proiect) dar și micii noștri colegi din clasa a V-a participanți la școala de vară BroBoSTEAM (Odin și Robert). Odin și Robert au captat atenția vizitatorilor prin proiectele Arduino realizate de ei. Ne-a bucurat mult prezența la standul nostru a doamnei Inspector Școlar General Mihaela Andreianu care a urmărit cu interes prezentarea celor doi. Ca de obicei, alături de noi au fost și mentorii noștri: prof. Simona Ianc (BroBots Mentor), prof. Issabella Ştefania Cataragă - directorul colegiului nostru. Mulțumim celor care au avut încredere în noi! Mulțumim Fundaţia Comunitară Vȃlcea și Fondul Științescu Vâlcea! Mulțumim Gabriela Solomon și Oana Mesea! ',
+  description_en:
+  'Today we participated in the Science Fair that marked the end of the Științescu Valcea 1.0 projects. It was a joy to be with other young people passionate about science, to share ideas, to discover what wonderful things have been achieved within the 15 projects. Next to Răzvan, one of the coordinators of our project, were Lara and Călin (volunteers in the project) but also our little colleagues from the 5th grade participating in the BroBoSTEAM summer school (Odin and Robert). Odin and Robert captured the visitors attention with their Arduino projects. We were very pleased with the presence at our stand of Mrs. General School Inspector Mihaela Andreianu, who followed the presentation of the two with interest. As usual, our mentors were with us: Prof. Simona Ianc (BroBots Mentor), Prof. Issabella Ştefania Cataragă - the director of our college. Thank you to those who trusted us! We thank the Vălcea Community Foundation and the Șiințescu Vâlcea Fund! Thank you Gabriela Solomon and Oana Mesea!',
+  images:[proiectstiintescu2,proiectstiintescu6,proiectstiintescu5,proiectstiintescu4,proiectstiintescu3],
+  cover: proiectstiintescu,
+  date:
+  '15 Septembrie 2022',
+  date_en:
+  '15 September 2022',
+  location:
+  'Biblioteca Județeană "Antim Ivireanul" Vâlcea',
+  location_en:
+  '"Antim Ivireanul" County Library',
+  key:
+  'final_stiintescu1.0',
+},
+
+ 
+ 
+ 
+ {
+  title:
+  'Final de eveniment Meet and Code',
+title_en:
+'Final Meet and Code event',
+description:
+'Astăzi a fost ultima zi a evenimentului nostru, Sisteme cu microprocesoare. Timpul a trecut foarte repede, am învățat multe lucruri noi și interesante. Marian Stoica, trainerul nostru din aceste două zile, a fost foarte deschis și ne-a oferit explicații ori de câte ori am avut neclarități. Îi mulțumim mult pentru tot ceea ce ne-a învățat! Și chiar dacă o parte dintre cursanți nu au putut fi prezenți până la final, am făcut deja obișnuita poză de final de eveniment în curtea colegiului. Le mulțumim tuturor celor care au fost alături de noi în acest weekend! Evenimentul nostru "Sisteme cu microprocesoare" a câștigat o finanțare prin programul Meet and Code (https://meet-and-code.org/) susținut la nivel european de compania de software SAP. În România, programul este coordonat pentru cel de-al 6-lea an consecutiv de #AsociațiaTechsoup și susține evenimente de tehnologie și programare aliniate cu misiunea inițiativei Comisiei Europene: Europe Code Week',
+description_en:
+'Today was the last day of our Microprocessor Systems event. Time passed very quickly, I learned many new and interesting things. Marian Stoica, our trainer for these two days, was very open and gave us explanations whenever we had uncertainties. We thank him very much for everything he taught us! And even if some of the students could not be present until the end, I already took the usual picture at the end of the event in the college yard. Thanks to everyone who joined us this weekend! Our event "Microprocessor Systems" won funding through the Meet and Code program (https://meet-and-code.org/) supported at European level by the software company SAP. In Romania, the program is coordinated for the 6th consecutive year by the #Techsoup Association and supports technology and programming events aligned with the mission of the European Commission initiative: Europe Code Week',
+cover: grup,
+images: [mproc7,mproc8,mproc6,mproc9],
+location: 
+'Colegiul Național "Alexandru Lahovari"',
+location_en: 
+'National College "Alexandru Lahovari"',
+date:
+'11 Septembrie 2022',
+date_en:
+'11 September 2022',
+key:'sisteme_microprocesoarefinal',
+},
+
+ {
+  title:
+  'Eveniment Meet and Code la Colegiul Lahovari',
+  title_en:
+  'Meet and Code event at Lahovari College',
+  description:
+  'Prima zi de workshop  - Sisteme cu microprocesoare a adus mai aproape de participanți noțiunile de bază privind microprocesoarele iar aplicațiile cu plăcuțe Arduino au fost interesante și s-au bucurat de interesul tuturor. Noi, BroBots team, am avut dublu rol: organizatori și participanți la curs. Evenimentul acesta vine ca o continuare firească a proiectului Științescu - BroBotSTEAM. Aplicațiile realizate astăzi ne vor ajuta în continuarea proiectului Științescu. Ne dorim să învățăm lucruri noi, să realizăm proiecte Arduino din ce în ce mai complexe. Îi mulțumim mult lui Marian Stoica - alumn Lahovari care astăzi a revenit la Colegiul Lahovari în calitate de trainer. Îi mulțumim doamnei director Issabella Ştefania Cataragă care a fost alături de noi! Le mulțumim mentorilor noștri (Simona Ianc (BroBots Mentor), Issabella Ştefania Cataragă și Andrei-Cosmin Toma) care ne sprijină în tot ceea ce facem! Le mulțumim tuturor celor care au ales să participe la evenimentul organizat de noi! Evenimentul nostru "Sisteme cu microprocesoare" a câștigat o finanțare prin programul Meet and Code (https://meet-and-code.org/) susținut la nivel european de compania de software SAP. În România, programul este coordonat pentru cel de-al 6-lea an consecutiv de #AsociațiaTechsoup și susține evenimente de tehnologie și programare aliniate cu misiunea inițiativei Comisiei Europene: Europe Code Week. #meetandcode #codeEU #SAP4Good',
+  description_en:
+  'The first day of the workshop - Systems with microprocessors brought the basic notions of microprocessors closer to the participants and the applications with Arduino boards were interesting and enjoyed the interest of everyone. We, the BroBots team, had a dual role: organizers and course participants. This event comes as a natural continuation of the Științescu - BroBotSTEAM project. The applications made today will help us in the continuation of the Șiințescu project. We want to learn new things, make more and more complex Arduino projects. Many thanks to Marian Stoica - Lahovari alumnus who today returned to Lahovari College as a trainer. We thank the director Issabella Ştefania Cataragă who was with us! We thank our mentors (Simona Ianc (BroBots Mentor), Issabella Ştefania Cataragă and Andrei-Cosmin Toma) who support us in everything we do! We thank everyone who chose to participate in the event organized by us! Our event "Microprocessor Systems" won funding through the Meet and Code program (https://meet-and-code.org/) supported at European level by the software company SAP. In Romania, the program is coordinated for the 6th consecutive year by the #Techsoup Association and supports technology and programming events aligned with the mission of the European Commission initiative: Europe Code Week.',
+  images: [mproc5,mproc2,mproc4,mproc3],
+  cover: mproc,
+  location: 
+  'Colegiul Național "Alexandru Lahovari"',
+ location_en: 
+  'National College "Alexandru Lahovari"',
+  date:
+  '10 Septembrie 2022',
+  date_en:
+  '10 September 2022',
+  key:'sisteme_microprocesoare',
+},
+
+
   {
   title:
   'Sisteme cu microprocesoare - eveniment finanțat Meet and Code la Colegiul Național "Alexandru Lahovari"',
