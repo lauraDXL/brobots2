@@ -214,6 +214,10 @@ import fundatie3 from '../assets/events/fundatie3.jpg';
 import fundatie4 from '../assets/events/fundatie4.jpg';
 import fundatie5 from '../assets/events/fundatie7.jpg';
 import microproc from '../assets/events/microproc.png';
+import meetandcode from '../assets/events/meetandcode.png';
+
+
+
 export const events = [
  
   
@@ -227,7 +231,7 @@ export const events = [
   description_en:
   'Between September 10-11, 2022, in the organization of the Lahovari Association and the BroBots robotics team, the Microprocessor Systems event will take place, which aims to familiarize participants with the concepts of embedded systems. We are aimed at high school students who have elementary knowledge of computer science / ICT. During the wokshop they will be able to learn about: 1. How a microprocessor works; 2.Logic circuits, low level instructions and interfacing with external devices. They will also be able to create applications using Arduino boards and different sensors. What makes the event special is the interaction with the hardware. The trainer will be Marian Stoica - embedded engineer at Protoforge. Marian is a Lahovari alumnus and a member of the national commission of the InfoEducation Innovation and Digital Creation Olympiad - robots section.The event won funding through the Meet and Code program supported at European level by the software company SAP. In Romania, the program is coordinated for the 6th consecutive year by the #Techsoup Association and supports technology and programming events aligned with the mission of the European Commission initiative: Europe Code Week.',
   cover: microproc,
-  images: [],
+  images: [microproc,meetandcode],
   location: 
   'Colegiul Național "Alexandru Lahovari"',
  location_en: 
