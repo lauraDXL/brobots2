@@ -18,8 +18,36 @@ import curier3 from '../assets/events/curier3.jpeg';
 
 import matinaltv from '../assets/events/MATINALTV.jpg';
 
+
+import sc_sambata from '../assets/events/sc_sambata.png';
+import sc_sambata2 from '../assets/events/sc_sambata2.png';
+
+
 export const events = [
 
+	
+	
+{
+    title:
+      'Apariție în "Curierul de Vâlcea"',
+     title_en:
+	'Appearance in "Curierul de Vâlcea',
+    description:
+	'BroBots – echipa de robotică a Colegiul Național „Alexandru Lahovari” participă pentru al patrulea an în competiția internațională First Tech Challenge, competiție organizată în România de Asociația Nație Prin Educație. Echipa vâlceană a fost recompensată în fiecare an cu premii importante la etapa regională (obținând și calificarea la etapa națională). Echipa este implicată activ și în viața comunitătii locale.',
+     description_en:
+	'BroBots - the robotics team of the "Alexandru Lahovari" National College participates for the fourth year in the international competition First Tech Challenge, a competition organized in Romania by the Nation Through Education Association. The team from Vâlcea was rewarded every year with important prizes at the regional stage (also obtaining the qualification for the national stage). The team is also actively involved in the life of the local community.',
+	cover:sc_sambata,
+	images:[sc_sambata,sc_sambata2],
+	location_en:'Newspaper appearance',
+	location:'Apariție ziar',
+	date:'24 ianuarie 2022',
+	date_en:'24 January 2022',
+	key:'sc_sambata',
+	link:"http://www.curierul.ro/scoala-de-sambata-un-nou-proiect-al-echipei-de-robotica-brobots-a-colegiului-national-alexandru-lahovari/",
+},
+	
+	
+	
   {
 	title_en: 'The "Matinal" show on the VTV channel',
     title: 'Emisiunea "Matinal" de la VTV',
