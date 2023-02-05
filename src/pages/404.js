@@ -30,11 +30,12 @@ const NotFoundPage = () => {
     <main style={pageStyles}>
       <title>Not found</title>
       <h1 style={headingStyles}>NU MAI CHIULI GOLANE</h1>
-// Sorry{' '}
- //<span role='img' aria-label='Pensive emoji'>
-  //  😔
+
+
       <p style={paragraphStyles}>
-         Du te si citeste o carte ba copile.
+        Sorry{' '}
+      <span role='img' aria-label='Pensive emoji'>
+         😔
         </span>{' '}
         <br />
         {process.env.NODE_ENV === 'development' ? (
