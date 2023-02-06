@@ -73,9 +73,9 @@ export const team = [
     img : sebi,
     phone: '0743917533',
     description_en:
-    "Hello, my name is Sebi! I am an American citizen who lives and studies in Romania. I am extroverted and very passionate about cooking, bodybuilding, photography and science, especially physics. My dream is to become a researcher in quantum physics and complete string theory.",
+    "Hello! I am the team's 'incurable optimist', and I love to think outside the box. I'm very sociable, positive, always joking (but not always being funny), perseverant, and innovative. I enjoy photography, cooking, and traveling. I like science, especially quantum physics, and I want to do research in string theory.",
     description:
-    "Salut, mă numesc Sebi! Sunt un cetățean American care locuiește și studiază în România. Sunt extrovertit și foarte pasionat de gătit, bodybuilding, fotografie și știință, în special fizică. Visul meu este să devin cercetător în fizica cuantică și să completez Teoria Corzilor.",
+    'Salut! Sunt „optimistul incurabil” al echipei și îmi place să propun perspective noi asupra provocarilor întâlnite. Sunt foarte sociabil, pozitiv, mereu glumeț (dar nu mereu amuzant), perseverent și inovativ. Ador fotografia, gătitul și călătoritul. Îmi place știința, în special fizica cuantică și vreau să fiu cercetător în string theory.',
 
   },
   {
