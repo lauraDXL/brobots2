@@ -29,7 +29,7 @@ const IndexPage = props => {
               </h1>
             );
           }}
-          text={['Bringing the future closer']}
+          text={['Bringing the MARIUSEEEE closer']}
         />
         <h5>
         {language === 'en'
