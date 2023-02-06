@@ -28,11 +28,11 @@ const Contact = props => {
           </div>
           <div className={style.group}>
             <a
-              href='https://www.facebook.com/brobotsteam//'
+              href='https://www.facebook.com/brobotsteam/'
               target='_blank'
               rel='noreferrer'
             >
-              <FaFacebook /> BroBots Team
+              <FaFacebook /> BroBotsTeam
             </a>
           </div>
           <div className={style.group}>
