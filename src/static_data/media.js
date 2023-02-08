@@ -32,7 +32,28 @@ import radio3 from '../assets/events/radioromania3.jpg';
 import radio4 from '../assets/events/radioromania5.jpg';
 export const events = [
 
-
+{
+title:
+	'Apariție la emisiunea Antena3 Vâlcea',
+title_en:
+	'Appearance on "Antena3 Vâlcea" show',
+description:
+		'',
+description_en:
+		'',
+		cover:antena3,
+		images:[antena3],
+date:
+	'10 Ian 2023',
+date_en:
+    	'10 Jan 2023',
+location_en: 
+		'TV appearance',
+location: 
+		'Apariție televiziune',
+link:"https://www.youtube.com/watch?v=4DHRDkeMfXE",
+key:'antena3_valcea',
+},
 {
 title:
 	'BroBots Team la Radio România Actualități',
