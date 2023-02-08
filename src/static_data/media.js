@@ -32,24 +32,6 @@ import radio3 from '../assets/events/radioromania3.jpg';
 import radio4 from '../assets/events/radioromania5.jpg';
 export const events = [
 
-
-  {
-    title_en:
-    'Appearance on "Antena3 Vâlcea" show',
-    title:
-    'Apariție la emisiunea Antena3 Vâlcea',
-    location_en: 'TV appearance',
-    location: 'Apariție televiziune',
-    date_en:
-      '10 Jan 2023',
-    date:
-    '10 Ian 2023',
-    images:antena3,
-    cover:antena3,
-    link:"https://www.youtube.com/watch?v=4DHRDkeMfXE",
-    key:'antena3_demo',
-  },
-
 {
 title:
 	'BroBots Team la Radio România Actualități',
@@ -73,26 +55,6 @@ link:"https://www.facebook.com/romaniaactualitati/posts/pfbid02WDANBCD3fiXuNZrXs
 key:'radio_romania',
 },	
 
-
-  {
-    title_en:
-    'Appearance on "VTV" show',
-    title:
-    'Apariție la emisiunea VTV',
-    location:
-    'TV appearance',
-    location_en:
-    'Apariție televiziune',
-    cover:vtv2,
-    images:vtv2,
-    desription:
-    '',
-    description_en:
-    '4 November 2022',
-    date:
-    '4 Noiembrie 2022',
-    key:'vtv_codekids',
-  },
 {
 	title:
 	'Apariție în "Curierul de Vâlcea"',
