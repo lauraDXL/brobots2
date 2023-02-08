@@ -19,7 +19,7 @@ import curier3 from '../assets/events/curier3.jpeg';
 import matinaltv from '../assets/events/MATINALTV.jpg';
 
 import antena3 from '../assets/events/antena3razvan.jpeg';
-import vtv from '../assets/events/vtvrazvan.jpeg';
+import vtv0 from '../assets/events/vtvrazvan.jpeg';
 import vtv2 from '../assets/events/vtvrazvan2.jpeg';
 export const events = [
 
