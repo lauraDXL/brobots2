@@ -3,7 +3,7 @@ import calin from '../assets/events/WhatsApp Image 2023-01-31 at 12.57.52.jpeg';
 import luca from '../assets/events/luca.jpeg';
 import lara from '../assets/team/Lara.png';
 import razvan from '../assets/team/razvanm.jpeg';
-import sebi from '../assets/team/IMG-20230131-WA0009.jpg';
+import sebi from '../assets/team/sebipoza2.jpeg';
 import edi from '../assets/team/edi site.jpeg';
 import anto from '../assets/team/antonio.jpeg';
 export const team = [
