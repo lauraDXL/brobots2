@@ -32,6 +32,7 @@ import radio3 from '../assets/events/radioromania3.jpg';
 import radio4 from '../assets/events/radioromania5.jpg';
 export const events = [
 
+
 {
 title:
 	'BroBots Team la Radio România Actualități',
@@ -46,7 +47,7 @@ images:[radio2,radio3,radio4],
 date:
 	'17 Decembrie 2022',
 date_en:
-	'17 Decembrie 2022',	
+	'17 December 2022',	
 location_en:
 	'Radio appearance',
 location:
@@ -54,6 +55,29 @@ location:
 link:"https://www.facebook.com/romaniaactualitati/posts/pfbid02WDANBCD3fiXuNZrXsEh9Hj4249LkkW283JDQ1XeEJcJfg8gPSKY3eXHUxxra4xtal",
 key:'radio_romania',
 },	
+
+{
+title:
+	'Apariție la emisiunea VTV',
+title_en:
+    'Appearance on "VTV" show',
+description:
+	' ',
+description_en:
+	' ',
+cover:vtv0,
+images:[vtv2,vtv0],
+date:
+	'4 Noiembrie 2022',
+date_en:
+	'4 November 2022',
+location_en:
+	'Appearance on "VTV" show',
+location:
+	'Apariție televiziune',
+key:'vtv_2022',
+
+},
 
 {
 	title:
