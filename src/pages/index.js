@@ -39,6 +39,7 @@ const IndexPage = props => {
           left: 1.250em;
           top: 25em;">BroBots</div>
         {language === 'en'
+         language === 'ro'
               ?'BroBots'
               :'BroBots'
         }
