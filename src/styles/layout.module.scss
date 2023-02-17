@@ -132,10 +132,15 @@
   }
 }
 
+.footer-text{
+   font-size:23px;flex: auto;margin: 0 20px;font:'Montserrat';font-weight:bold;
+}
+
+
 .footer {
   height: $footer_h;
   @include layout(row, center, flex-end);
-
+  
   a {
     color: $alb !important;
     font-family: $secondary_font;
