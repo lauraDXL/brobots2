@@ -31,11 +31,11 @@ const IndexPage = props => {
           }}
           text={['Bringing the future closer']}
         />
-        {language === 'en'
+      </div>
+  {language === 'en'
               ?'BroBots'
               :'BroBots'
         }
-      </div>
       <div className={styles.image}>
         <img src={robotel} alt='robotel' />
       </div>
