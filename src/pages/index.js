@@ -35,6 +35,9 @@ const IndexPage = props => {
 {language === 'en'
           ?'BroBots'
           :'BroBots'
+ language === 'ro'
+          ?'BroBots'
+          :'BroBots'
 }
   <div style="
     fontSize:30px,
