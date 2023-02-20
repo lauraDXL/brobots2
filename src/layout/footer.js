@@ -7,7 +7,6 @@ const Footer = () => {
     <div className={styles.footer}>
       <img src={sponsori} alt='sponsori' />
     </div>
-  <div style="font-style:bold;font-size:35px;color:black;top:633px;left:30px;position:absolute;font-weight:100;">Supported by Edward</div>
 
   );
 };
