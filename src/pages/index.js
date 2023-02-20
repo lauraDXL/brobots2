@@ -31,7 +31,6 @@ const IndexPage = props => {
           }}
           text={['Bringing the future closer']}
         />
-      <h5>BroBots</h5>
         {language === 'en'
               ?'BroBots'
               :'BroBots'
