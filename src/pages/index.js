@@ -38,6 +38,10 @@ const IndexPage = props => {
     top: 20vh,
     fontWeight:bold,
     position:absolute">BroBots</div>
+{language === 'en'
+          ?'BroBots'
+          :'BroBots'
+}
 
       <div className={styles.image}>
         <img src={robotel} alt='robotel' />
