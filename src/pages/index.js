@@ -31,13 +31,7 @@ const IndexPage = props => {
           }}
           text={['Bringing the future closer']}
         />
-        <div style={
-          background: transparent,
-          color: black,
-          fontSize: 4.375em,
-          position: absolute,
-          left: 1.250em,
-          top: 25em}>BroBots</div>
+      <h5>BroBots</h5>
         {language === 'en'
               ?'BroBots'
               :'BroBots'
