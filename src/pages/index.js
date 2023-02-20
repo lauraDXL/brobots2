@@ -37,7 +37,7 @@ const IndexPage = props => {
           fontSize: 4.375em,
           position: absolute,
           left: 1.250em,
-          top: 25em,}>BroBots</div>
+          top: 25em}>BroBots</div>
         {language === 'en'
               ?'BroBots'
               :'BroBots'
