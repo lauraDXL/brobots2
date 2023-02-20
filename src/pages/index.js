@@ -32,6 +32,12 @@ const IndexPage = props => {
           text={['Bringing the future closer']}
         />
       </div>
+    <div style="
+    fontSize:30px,
+    color:black,
+    top: 20vh,
+    fontWeight:bold,
+    position:absolute">BroBots</div>
       <div className={styles.image}>
         <img src={robotel} alt='robotel' />
       </div>
