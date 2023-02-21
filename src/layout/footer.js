@@ -3,7 +3,8 @@ import sponsori from '../assets/sponsors.png';
 import * as styles from '../styles/layout.module.scss';
 
 const Footer = () => {
-  return (
+  return ( 
+<div>
     <div style=
     {{fontSize: '25px',
 color:black,
@@ -14,7 +15,7 @@ position:'absolute'}}>Supported by Edward and Raducu (Bionic Royals)</div>
     <div className={styles.footer}>
       <img src={sponsori} alt='sponsori' />
     </div>
-
+</div>
   );
 };
 
