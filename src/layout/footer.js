@@ -10,7 +10,6 @@ const Footer = () => {
 bottom: '-7px',
 color:'black',
 fontWeight: 'bold',
-top:'450px',
 left:'20px',
 position:'absolute'}}>Supported by Edward</div>
     <div className={styles.footer}>
