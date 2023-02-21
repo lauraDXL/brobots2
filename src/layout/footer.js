@@ -4,10 +4,10 @@ import * as styles from '../styles/layout.module.scss';
 
 const Footer = () => {
   return ( 
-<div>
+<div style={{position: 'relative'}}>
     <div style=
     {{fontSize: '25px',
-bottom: '-7px',
+bottom: '20px',
 color:'black',
 fontWeight: 'bold',
 left:'20px',
