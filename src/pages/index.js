@@ -32,12 +32,12 @@ const IndexPage = props => {
           text={['Bringing the future closer']}
         />
       </div>
-      <div className={styles.image}>
-        <img src={robotel} alt='robotel' />
-          <h2 style={{fontSize: '40px', 
+  <h2 style={{fontSize: '40px', 
 position: 'absolute',
 bottom: '125px',
 left: '70px'}}>BroBots</h2>
+      <div className={styles.image}>
+        <img src={robotel} alt='robotel' />
       </div>
     </Layout>
   );
