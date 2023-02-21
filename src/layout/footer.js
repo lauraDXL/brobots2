@@ -7,6 +7,7 @@ const Footer = () => {
 <div>
     <div style=
     {{fontSize: '25px',
+bottom: '-7px',
 color:'black',
 fontWeight: 'bold',
 top:'450px',
