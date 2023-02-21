@@ -4,7 +4,7 @@ import * as styles from '../styles/layout.module.scss';
 
 const Footer = () => {
   return ( 
-<div
+<div>
     <div style=
     {{fontSize: '25px',
 color:'black',
