@@ -8661,7 +8661,7 @@ function filterQuery(results, excludes, pathPrefix, resolveSiteUrl) {
 var defaultOptions = {
   query: "\n    {\n      site {\n        siteMetadata {\n          siteUrl\n        }\n      }\n\n      allSitePage {\n        edges {\n          node {\n            path\n          }\n        }\n      }\n  }",
   output: "/sitemap.xml",
-  exclude: ["/dev-404-page", "/404", "/404.html", "/offline-plugin-app-shell-fallback"],
+  exclude: ["/dev-404-page", "/404", "/404.html", "/offline-plugin-app-shell-fallback", "/sponsori.html"],
   createLinkInHead: true,
   serialize: function serialize(_ref) {
     var site = _ref.site,
