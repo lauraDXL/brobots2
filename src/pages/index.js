@@ -3,6 +3,8 @@ import Layout from '../layout/layout';
 import robotel from '../assets/Robotel2.svg';
 import * as styles from '../styles/home.module.scss';
 import ReactTypingEffect from 'react-typing-effect';
+import { unregister } from './registerServiceWorker';
+unregister();
 
 const IndexPage = props => {
   const { language } = props.pageContext;
