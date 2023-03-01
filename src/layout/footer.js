@@ -4,14 +4,6 @@ import * as styles from '../styles/layout.module.scss';
 
 const Footer = () => {
   return ( 
-<div style={{position: 'relative'}}>
-    <div className='footer-text' style=
-    {{fontSize: '25px',
-bottom: '20px',
-color:'black',
-fontWeight: 'bold',
-left:'20px',
-position:'absolute'}}>Supported by Edward</div>
     <div className={styles.footer}>
       <img src={sponsori} alt='sponsori' />
     </div>
